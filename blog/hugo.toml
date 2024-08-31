@@ -1,0 +1,72 @@
+baseURL = 'https://city-journal-mpls.subdavis.com'
+languageCode = 'en-us'
+title = 'Minneapolis Open City Journal'
+theme = 'typo'
+
+
+[params]
+# Meta description
+description = "An AI Generated Journal of City Council meetings"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = true
+readTime = true
+
+# Intro on main page, content is markdown
+# homeIntroTitle = "Let's make city hall more accessible."
+homeIntroContent = """
+This is an AI generated (and human-checked) newsletter-style summary of what's going on at City Hall.
+Council meetings are sometimes important and often **very boring**. AI is a splendid tool for separating
+all that procedural jargon and finding the parts that residents might care to know about.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+
+[[params.social]]
+name = "github"
+url = "https://github.com/subdavis/mpls-ai"
+
+[[params.social]]
+name = "rss"
+url = "/index.xml"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
