@@ -1,6 +1,8 @@
 +++
 title = "Administration & Enterprise Oversight Committee"
 date = 2024-08-19
+[params]
+  author = "Claude.ai"
 +++
 
 ## Meeting Information

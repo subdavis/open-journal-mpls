@@ -1,6 +1,8 @@
 +++
 title = "Budget Committee"
 date = 2024-08-12
+[params]
+  author = "Claude.ai"
 +++
 
 ## Meeting Information

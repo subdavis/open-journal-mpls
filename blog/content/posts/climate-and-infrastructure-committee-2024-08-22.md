@@ -1,6 +1,8 @@
 +++
 title = "Climate & Infrastructure Committee"
 date = 2024-08-22
+[params]
+  author = "Claude.ai"
 +++
 
 Here is a summary of the meeting in Markdown format:

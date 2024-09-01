@@ -1,6 +1,8 @@
 +++
 title = "City Council"
 date = 2024-08-15
+[params]
+  author = "Claude.ai"
 +++
 
 ## Meeting Information

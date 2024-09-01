@@ -1,6 +1,8 @@
 +++
 title = "Climate & Infrastructure Committee"
 date = 2024-08-08
+[params]
+  author = "Claude.ai"
 +++
 
 ## Meeting Information
@@ -10,7 +12,7 @@ date = 2024-08-08
 - Present: Elliot Payne, Robin Wonsley, Michael Rainville, LaTrisha Vetaw, Jeremiah Ellison, Jamal Osman, Katie Cashman, Andrea Jenkins, Jason Chavez, Aisha Chughtai, Emily Koski, Aurin Chowdhury, Linea Palmisano
 - Absent: None explicitly mentioned
 - Guests: Dylan Freed (Public Works staff), Aaron Johnson (Project Manager, Right-of-Way Management Team), Deputy Superintendent of Parks, Assistant Superintendent for Planning
-- Votes: 3 (Personal Delivery Device Pilot Program, Right-of-Way Franchise Holder Exemptions, Minneapolis Park and Recreation 2023 Annual Report)
+- Votes: 3
 
 ## Highlights
 

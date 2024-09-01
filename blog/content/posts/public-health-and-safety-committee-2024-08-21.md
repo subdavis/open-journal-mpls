@@ -1,6 +1,8 @@
 +++
 title = "Public Health & Safety Committee"
 date = 2024-08-21
+[params]
+  author = "Claude.ai"
 +++
 
 Here is a summary of the Minneapolis Public Health and Safety Committee meeting in Markdown format:

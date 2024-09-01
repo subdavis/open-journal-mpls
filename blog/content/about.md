@@ -41,7 +41,7 @@ It's actually quite simple!
 
 ## Can I use your data or code?
 
-Yes. The data is public and available on [GitHub](#). It includes meeting data I've scraped from [LIMS](https://lims.minneapolismn.gov/) and the youtube captions I scraped. My code is also available on [GitHub](#).
+Yes. The data is public and available on [GitHub](https://github.com/subdavis/open-journal-mpls). It includes meeting data I've scraped from [LIMS](https://lims.minneapolismn.gov/) and the youtube captions I scraped. My code is also available on [GitHub](https://github.com/subdavis/open-journal-mpls/tree/main/archive).
 
 ## What else could this do?
 
@@ -53,4 +53,4 @@ I had a lot of ideas for this project. I am interested in asking more nuanced qu
 
 ## I have comments or suggestions.
 
-Wonderful, [please share them](#)!
+Wonderful, [please share them](https://docs.google.com/forms/d/e/1FAIpQLSdz6_e5PR5YMauD2l10KMbooyFvcIC6wl0JirllKRI7gm723g/viewform?usp=sf_link)!

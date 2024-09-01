@@ -1,6 +1,8 @@
 +++
 title = "Business, Housing & Zoning Committee"
 date = 2024-08-20
+[params]
+  author = "Claude.ai"
 +++
 
 Here is a summary of the City Council meeting in Markdown format:

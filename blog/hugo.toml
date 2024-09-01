@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Minneapolis Open City Journal'
 theme = 'typo'
 
-
 [params]
 # Meta description
 description = "An AI Generated Journal of City Council meetings"
@@ -11,7 +10,7 @@ description = "An AI Generated Journal of City Council meetings"
 # Appearance settings
 theme = 'light'
 colorPalette = 'default'
-hideHeader = true
+hideHeader = false
 readTime = true
 
 # Intro on main page, content is markdown
@@ -33,7 +32,6 @@ listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 breadcrumbs = true
-
 
 [[params.social]]
 name = "github"
@@ -70,3 +68,8 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
+[params.umami]
+enable = true
+websiteId = "422aade2-6acc-474e-bb7f-d4c631b83a20"
+jsLocation = "https://umami.subdavis.com/script.js"

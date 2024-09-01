@@ -76,5 +76,7 @@ def formatSummaryForHugo(meeting, summary_text):
     documentHeader = "+++" \
                     f"\ntitle = \"{committeeName}\"" \
                     f"\ndate = {meetingTime.date()}" \
+                    f"\n[params]" \
+                    f"\n  author = \"Claude.ai\"" \
                     "\n+++\n\n"
     save_text(filename, documentHeader + summary_text)
