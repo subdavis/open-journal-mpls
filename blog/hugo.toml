@@ -16,7 +16,7 @@ readTime = true
 # Intro on main page, content is markdown
 # homeIntroTitle = "Let's make city hall more accessible."
 homeIntroContent = """
-This is an AI generated (and human-checked) newsletter-style summary of what's going on at City Hall.
+This is an AI generated newsletter-style summary of what's going on at City Hall.
 Council meetings are sometimes important and often **very boring**. AI is a splendid tool for separating
 all that procedural jargon and finding the parts that residents might care to know about.
 """

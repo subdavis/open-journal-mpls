@@ -7,7 +7,7 @@ breadcrumbs = false
 
 ## What is this?
 
-This is an AI generated (and human-checked) newsletter-style summary of what's going on at City Hall. City council meetings are sometimes important and often very boring. AI is a splendid tool for separating all that procedural jargon and finding the parts that residents might care to know about.
+This is an AI generated newsletter-style summary of what's going on at City Hall. City council meetings are sometimes important and often very boring. AI is a splendid tool for separating all that procedural jargon and finding the parts that residents might care to know about.
 
 ## Why bother following City Council?
 
