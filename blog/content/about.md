@@ -11,9 +11,7 @@ This is an AI generated newsletter-style summary of what's going on at City Hall
 
 ## Why bother following City Council?
 
-I wanted to try using a different lens to follow local governance: something in between the laundry list meeting agenda and the more in-depth, topical reporting you might get from Racket or MinnPost about police union budgets (for example). What are the folks at the meeting actually talking about and debating?
-
-I especially sought to foreground public comments. Taking the take time to go to City Council and provide input is commendable. It's unfortunate that this input gets lost in a sea of heretos, wherefores, and roll call votes. The public is omitted from recorded minutes and most likely never heard by other residents.
+I wanted to try using a different lens to follow local governance: something in between the laundry list meeting agenda and the more in-depth, topical reporting you might get from Racket or MinnPost about police union budgets (for example). What are the folks at the meeting actually talking about? I especially sought to foreground public comments.
 
 ## Why use AI?
 
@@ -45,11 +43,7 @@ Yes. The data is public and available on [GitHub](https://github.com/subdavis/op
 
 ## What else could this do?
 
-If you have an idea for a project that might involve lots of open data and some questions you want to ask it, let me know!
-
-I hope to tune these reports (or even generate topic-based digests) to reflect the needs of the reader, and AI is able to do that much more economically. If you care about transit, or about indiginous people's issues, you could imagine a weekly digest that picks out only the discussion. In the future, I'd like to incorporate not just the transcripts but also the supplemental materials (powerpoints, document attachments) to get more depth.
-
-I had a lot of ideas for this project. I am interested in asking more nuanced questions that involve multiple data sources, such as "How have a council member's positions changed over time?" that require more preprocessing work to dissect and chunk input data or search through it to find relevent sections. Context window size (how much a model remembers) is still a fundamental limit of LLMs.
+If you have an idea for a project that might involve lots of open data and some questions you want to ask it, let me know. I hope to tune these reports (or even generate topic-based digests) to reflect the needs of the reader, and AI is able to do that much more economically. 
 
 ## I have comments or suggestions.
 
