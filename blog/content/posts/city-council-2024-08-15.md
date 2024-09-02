@@ -1,6 +1,7 @@
 +++
 title = "City Council"
 date = 2024-08-15
+ generated = true
 [params]
   author = "Claude.ai"
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Committee of the Whole"
 date = 2024-08-12
+ generated = true
 [params]
   author = "Claude.ai"
 +++

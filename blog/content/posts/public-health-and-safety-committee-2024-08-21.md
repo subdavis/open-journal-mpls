@@ -1,6 +1,7 @@
 +++
 title = "Public Health & Safety Committee"
 date = 2024-08-21
+ generated = true
 [params]
   author = "Claude.ai"
 +++

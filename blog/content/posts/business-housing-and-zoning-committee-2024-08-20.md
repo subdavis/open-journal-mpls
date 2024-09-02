@@ -1,6 +1,7 @@
 +++
 title = "Business, Housing & Zoning Committee"
 date = 2024-08-20
+ generated = true
 [params]
   author = "Claude.ai"
 +++

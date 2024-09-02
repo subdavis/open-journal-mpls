@@ -1,6 +1,7 @@
 +++
 title = "Administration & Enterprise Oversight Committee"
 date = 2024-08-19
+ generated = true
 [params]
   author = "Claude.ai"
 +++

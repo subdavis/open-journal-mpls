@@ -1,6 +1,7 @@
 +++
 title = "Climate & Infrastructure Committee"
 date = 2024-08-22
+ generated = true
 [params]
   author = "Claude.ai"
 +++

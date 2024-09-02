@@ -1,6 +1,7 @@
 +++
 title = "Budget Committee"
 date = 2024-08-12
+ generated = true
 [params]
   author = "Claude.ai"
 +++
