@@ -1,0 +1,55 @@
+baseURL: 'https://city-journal-mpls.subdavis.com'
+languageCode: en-us
+title: Minneapolis Open City Journal
+theme: typo
+params:
+  description: An AI Generated Journal of City Council meetings
+  theme: light
+  colorPalette: default
+  hideHeader: false
+  readTime: true
+  homeIntroContent: >
+    This is an AI generated newsletter-style summary of what's going on at City
+    Hall.
+
+    Council meetings are sometimes important and often **very boring**. AI is a
+    splendid tool for separating
+
+    all that procedural jargon and finding the parts that residents might care
+    to know about.
+  homeCollectionTitle: Posts
+  homeCollection: posts
+  paginationSize: 100
+  listSummaries: false
+  listDateFormat: 2 Jan 2006
+  breadcrumbs: true
+  social:
+    - name: github
+      url: 'https://github.com/subdavis/mpls-ai'
+    - name: rss
+      url: /index.xml
+  menu:
+    - name: home
+      url: /
+    - name: posts
+      url: /posts
+    - name: about
+      url: /about
+  giscus:
+    enable: false
+    repo: user/repo
+    repoid: repoId
+    category: General
+    categoryid: categoryId
+    mapping: pathname
+    theme: preferred_color_scheme
+  umami:
+    enable: true
+    websiteId: 422aade2-6acc-474e-bb7f-d4c631b83a20
+    jsLocation: 'https://umami.subdavis.com/script.js'
+markup:
+  highlight:
+    style: algol
+services:
+  rss:
+    limit: 20
