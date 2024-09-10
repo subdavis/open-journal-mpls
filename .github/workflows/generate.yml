@@ -3,6 +3,8 @@ name: "Daily Generation Routine"
 on:
   schedule:
     - cron: "12 6,8 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
