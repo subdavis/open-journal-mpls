@@ -5,7 +5,7 @@ from typing import Optional, Tuple
 
 import cloudscraper
 from dateutil.parser import parse as date_parse
-from tenacity import retry, stop_after_attempt
+from tenacity import retry, stop_after_attempt, wait_fixed, wait_random
 
 from lims_utils.utils import archivePath, load_file, save_file
 
@@ -15,7 +15,7 @@ all_meeting_bodies_json = "https://lims.minneapolismn.gov/CityCouncil/GetCommitt
 meetings_json = "https://lims.minneapolismn.gov/CityCouncil/CityCouncilMeetingsPagedList?abbreviation="
 meetingCacheFile = "meeting_cache.json"
 
-@retry(stop=stop_after_attempt(10))
+@retry(stop=stop_after_attempt(10), wait=wait_fixed(3) + wait_random(0, 2), reraise=True)
 def get_meeting_page(page: int) -> dict:
     scraper = cloudscraper.create_scraper()
     scraper.headers.update(
