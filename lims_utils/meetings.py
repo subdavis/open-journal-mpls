@@ -15,8 +15,7 @@ all_meeting_bodies_json = "https://lims.minneapolismn.gov/CityCouncil/GetCommitt
 meetings_json = "https://lims.minneapolismn.gov/CityCouncil/CityCouncilMeetingsPagedList?abbreviation="
 meetingCacheFile = "meeting_cache.json"
 
-
-@retry(stop=stop_after_attempt(3))
+@retry(stop=stop_after_attempt(10))
 def get_meeting_page(page: int) -> dict:
     scraper = cloudscraper.create_scraper()
     scraper.headers.update(
