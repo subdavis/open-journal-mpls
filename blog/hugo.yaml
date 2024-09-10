@@ -25,7 +25,7 @@ params:
   breadcrumbs: true
   social:
     - name: github
-      url: 'https://github.com/subdavis/mpls-ai'
+      url: 'https://github.com/subdavis/open-journal-mpls'
     - name: rss
       url: /index.xml
   menu:
