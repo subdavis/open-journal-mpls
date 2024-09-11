@@ -39,8 +39,9 @@ jobs:
           poetry run updateCache
       
       - name: Run generate command
-        run: |
-          poetry run generate 
+        run: poetry run generate
+        env:
+          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
   
       - name: Commit & Push changes
         uses: actions-js/push@master
