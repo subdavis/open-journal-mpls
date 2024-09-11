@@ -13,6 +13,10 @@ def generate_summary(meeting):
     committeeName = meeting["committeeName"]
     meetingTime = meeting["meetingTime"]
     transcript_to_analyze, videoId = getTranscriptForMeeting(meeting)
+
+    if transcript_to_analyze is None:
+        return None, None, False
+
     summary_filename = archivePath / "summary" / f"summary_{videoId}.md"
     document = load_text(summary_filename)
 

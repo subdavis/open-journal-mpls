@@ -40,8 +40,8 @@ This summary should be formatted in Markdown. Do not say "Here is a summary", ju
 First provide a structured header with the following information under the title "## Meeting Information":
 - Date: The date of the meeting
 - Title: The title of the meeting
-- Present: Which council members were present
-- Absent: Which council members were absent. Only include council members who are explicitly marked absent. 
+- Present: Which council members were present at the beginning of the meeting. Sometimes council members leave early (indicated by absent votes later in a session) but they are still considered present. You can include a note about early departures.
+- Absent: Which council members were absent at the beginning. Only include council members who are explicitly marked absent.
 - Guests: Which invited guests were present.
 - Votes: The total number of votes that were taken, either by voice or roll call.
 

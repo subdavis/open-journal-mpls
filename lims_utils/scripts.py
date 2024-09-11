@@ -21,7 +21,8 @@ def generate():
 
     for meeting in (cachedMeetings[:8]):
         filename, text, isNewContent = generate_summary(meeting)
-        formatSummaryForHugo(meeting, text)
-        if isNewContent:
-            print(f"Summary for {meeting['committeeName']}::{meeting['meetingTime']} written to {filename}. Sleeping...")
-            sleep(120)
+        if text and filename:
+            formatSummaryForHugo(meeting, text)
+            if isNewContent:
+                print(f"Summary for {meeting['committeeName']}::{meeting['meetingTime']} written to {filename}. Sleeping...")
+                sleep(120)
