@@ -67,7 +67,6 @@ def update_meeting_cache(beginDateStr: Optional[str]) -> Tuple[list, list]:
                     print(
                         f"Skipping meeting without video: {meeting['committeeName']} - {meeting['meetingTime']}"
                     )
-                    newMeetings.append(meeting)
             else:
                 print(
                     f"Skipping future meeting: {meeting['committeeName']} - {meeting['meetingTime']}"
