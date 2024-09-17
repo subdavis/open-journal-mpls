@@ -17,32 +17,30 @@ class LimsApi:
             }
         )
 
-    """
-    params = {
-        "CalendarYear": 2021, # Required
-        "MeetingBodyAbbreviation": null,
-        "MeetingDateFrom": null,
-        "MeetingDateTo": null,
-        "MemberId": null
-    }
-    """
-
     def searchMeetingCalendar(self, params):
+        """
+        params = {
+            "CalendarYear": 2021, # Required
+            "MeetingBodyAbbreviation": null,
+            "MeetingDateFrom": null,
+            "MeetingDateTo": null,
+            "MemberId": null
+        }
+        """
         url = urljoin(base_url, "/api/v1/search/meetingCalendar")
         resp = self.session.post(url=url, json=params)
         resp.raise_for_status()
         return resp
 
-    """
-    returns   {
-        "Abbreviation": "PHS",
-        "Name": "Public Health & Safety Committee",
-        "Type": "Council",
-        "IsCurrent": True
-    }
-    """
-
     def getMeetingBodies(self):
+        """
+        returns   {
+            "Abbreviation": "PHS",
+            "Name": "Public Health & Safety Committee",
+            "Type": "Council",
+            "IsCurrent": True
+        }
+        """
         url = urljoin(base_url, "/api/v1/referenceList/MeetingBodies")
         resp = self.session.get(url=url)
         resp.raise_for_status()
