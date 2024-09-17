@@ -38,7 +38,7 @@ def generate_summary(meeting):
                 "content": full_prompt,
             }
         ],
-        model="claude-3-opus-20240229",
+        model="claude-3-5-sonnet-20240620",
     )
 
     document = ""
