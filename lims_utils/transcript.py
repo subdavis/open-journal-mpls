@@ -1,13 +1,16 @@
 import random
+from pathlib import Path
 from time import sleep
 
-from pathlib import Path
 from dateutil.parser import parse as date_parse
-from youtube_transcript_api import (NoTranscriptAvailable, NoTranscriptFound,
-                                    YouTubeTranscriptApi)
+from youtube_transcript_api import (
+    NoTranscriptAvailable,
+    NoTranscriptFound,
+    YouTubeTranscriptApi,
+    TranscriptsDisabled,
+)
 
 from lims_utils.utils import archivePath, load_file, save_file, save_text
-
 
 # This function takes a transcript as a list of objects
 # Described: [{text: 'string', start: float, duration: float}]
@@ -44,8 +47,8 @@ def format_transcript(transcript: list) -> str:
 
 
 def getTranscriptForMeeting(meeting):
-    if meeting["mainVideoURL"]:
-        video_id = meeting["mainVideoURL"]
+    if meeting["VideoId"]:
+        video_id = meeting["VideoId"]
         if "youtube.com" in video_id:
             video_id = video_id.split("v=")[-1].split("&")[0]
         elif "youtu.be" in video_id:
@@ -60,24 +63,30 @@ def getTranscriptForMeeting(meeting):
                 transcript = YouTubeTranscriptApi.get_transcript(video_id)
                 save_file(transcript_filename, transcript)
                 sleep(random.uniform(8, 12))
-            except (NoTranscriptFound, NoTranscriptAvailable):
+            except (NoTranscriptFound, NoTranscriptAvailable, TranscriptsDisabled):
                 print(f"No transcript available for {video_id}")
-                save_file(transcript_filename, [])
-                sleep(random.uniform(8, 12))
+                return None, None
         return transcript, video_id
     return None, None
 
+
 def formatSummaryForHugo(meeting, summary_text):
-    meetingTime = date_parse(meeting["meetingTime"])
-    committeeName = meeting["committeeName"]
-    fileTitle = committeeName.replace(" ", "-").replace('&', 'and').replace(",", "").lower()
-    filename = Path("blog") / "content" / "posts" / f"{fileTitle}-{meetingTime.date()}.md"
-    
-    documentHeader = "+++" \
-                    f"\ntitle = \"{committeeName}\"" \
-                    f"\ndate = {meetingTime.date()}" \
-                    "\n generated = true" \
-                    f"\n[params]" \
-                    f"\n  author = \"Claude.ai\"" \
-                    "\n+++\n\n"
+    meetingTime = date_parse(meeting["MeetingDateTime"])
+    committeeName = meeting["MeetingBody"]
+    fileTitle = (
+        committeeName.replace(" ", "-").replace("&", "and").replace(",", "").lower()
+    )
+    filename = (
+        Path("blog") / "content" / "posts" / f"{fileTitle}-{meetingTime.date()}.md"
+    )
+
+    documentHeader = (
+        "+++"
+        f'\ntitle = "{committeeName}"'
+        f"\ndate = {meetingTime.date()}"
+        "\n generated = true"
+        f"\n[params]"
+        f'\n  author = "Claude.ai"'
+        "\n+++\n\n"
+    )
     save_text(filename, documentHeader + summary_text)

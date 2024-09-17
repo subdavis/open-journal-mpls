@@ -10,8 +10,8 @@ from lims_utils.utils import archivePath, load_text, save_text
 def generate_summary(meeting):
     client = anthropic.Anthropic()
     client.api_key = os.getenv("ANTHROPIC_KEY")
-    committeeName = meeting["committeeName"]
-    meetingTime = meeting["meetingTime"]
+    committeeName = meeting["MeetingBody"]
+    meetingTime = meeting["MeetingDateTime"]
     transcript_to_analyze, videoId = getTranscriptForMeeting(meeting)
 
     if transcript_to_analyze is None:
