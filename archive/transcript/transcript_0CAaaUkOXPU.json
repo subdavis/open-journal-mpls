@@ -1,0 +1,2602 @@
+[
+  {
+    "text": "[GAVEL] ",
+    "start": 30.163,
+    "duration": 0.601
+  },
+  {
+    "text": ">> GOOD AFTERNOON.",
+    "start": 30.397,
+    "duration": 3.069
+  },
+  {
+    "text": "MY NAME IS JASON CHAVEZ, AND I'M",
+    "start": 30.864,
+    "duration": 3.603
+  },
+  {
+    "text": "THE CHAIR OF THE COMMITTEE OF ",
+    "start": 33.566,
+    "duration": 1.669
+  },
+  {
+    "text": "THE WHOLE.",
+    "start": 34.567,
+    "duration": 2.703
+  },
+  {
+    "text": "I'M GOING TO CALL TO ORDER OUR ",
+    "start": 35.335,
+    "duration": 4.404
+  },
+  {
+    "text": "REGULAR COMMITTEE MEETING FOR ",
+    "start": 37.37,
+    "duration": 3.37
+  },
+  {
+    "text": "TUESDAY, SEPTEMBER 17.",
+    "start": 39.839,
+    "duration": 1.936
+  },
+  {
+    "text": "BEFORE WE BEGIN THE MEETING, I ",
+    "start": 40.84,
+    "duration": 2.77
+  },
+  {
+    "text": "WANT TO OFFER A FRIENDLY ",
+    "start": 41.875,
+    "duration": 3.436
+  },
+  {
+    "text": "REMINDER TO ALL MEMBERS, STAFF, ",
+    "start": 43.71,
+    "duration": 3.337
+  },
+  {
+    "text": "AND THE PUBLIC THAT THESE ",
+    "start": 45.412,
+    "duration": 3.203
+  },
+  {
+    "text": "MEETINGS ARE BROADCAST LIVE TO ",
+    "start": 47.147,
+    "duration": 3.603
+  },
+  {
+    "text": "ENABLE GREATER PUBLIC ",
+    "start": 48.715,
+    "duration": 2.369
+  },
+  {
+    "text": "PARTICIPATION.",
+    "start": 50.85,
+    "duration": 2.269
+  },
+  {
+    "text": "THESE BROADCASTS INCLUDE ",
+    "start": 51.184,
+    "duration": 3.203
+  },
+  {
+    "text": "REALTIME CAPTIONING AS A FURTHER",
+    "start": 53.219,
+    "duration": 2.203
+  },
+  {
+    "text": "METHOD TO INCREASE THE ",
+    "start": 54.487,
+    "duration": 2.636
+  },
+  {
+    "text": "ACCESSIBILITY OF OUR PROCEEDINGS",
+    "start": 55.522,
+    "duration": 2.803
+  },
+  {
+    "text": "TO THE COMMUNITY.",
+    "start": 57.223,
+    "duration": 2.269
+  },
+  {
+    "text": "THEREFORE, ALL SPEAKERS NEED TO ",
+    "start": 58.425,
+    "duration": 3.203
+  },
+  {
+    "text": "BE MINDFUL OF THE RATE OF THEIR ",
+    "start": 59.659,
+    "duration": 3.07
+  },
+  {
+    "text": "SPEECH SO THAT OUR CAPTIONER ",
+    "start": 61.728,
+    "duration": 2.769
+  },
+  {
+    "text": "CANS FULLY CAPTURE AND ",
+    "start": 62.829,
+    "duration": 4.404
+  },
+  {
+    "text": "TRANSCRIBE ALL COMMENTS FOR THE ",
+    "start": 64.597,
+    "duration": 3.037
+  },
+  {
+    "text": "BROADCAST.",
+    "start": 67.334,
+    "duration": 1.601
+  },
+  {
+    "text": "WE ASK ALL SPEAKERS TO MODERATE ",
+    "start": 67.734,
+    "duration": 3.337
+  },
+  {
+    "text": "THE SPEED AND CLARITY OF THEIR ",
+    "start": 69.035,
+    "duration": 2.303
+  },
+  {
+    "text": "COMMENTS.",
+    "start": 71.171,
+    "duration": 1.701
+  },
+  {
+    "text": "AT THIS TIME I WILL ASK THE ",
+    "start": 71.438,
+    "duration": 3.103
+  },
+  {
+    "text": "CLERK TO CALL THE ROLL TO VERIFY",
+    "start": 72.973,
+    "duration": 6.272
+  },
+  {
+    "text": "THE PRESENCE OF A QUORUM.",
+    "start": 74.641,
+    "duration": 6.273
+  },
+  {
+    "text": ">> COUNCIL MEMBER PAYNE, ",
+    "start": 79.379,
+    "duration": 1.935
+  },
+  {
+    "text": "PRESENT.",
+    "start": 81.014,
+    "duration": 1.868
+  },
+  {
+    "text": ">> WONSLEY, PRESENT.",
+    "start": 81.414,
+    "duration": 4.271
+  },
+  {
+    "text": ">> RAINVILLE, PRESENT.",
+    "start": 83.249,
+    "duration": 5.473
+  },
+  {
+    "text": ">> VETAW, PRESENT.",
+    "start": 86.086,
+    "duration": 6.573
+  },
+  {
+    "text": ">> ELLISON IS ABSENT.",
+    "start": 89.789,
+    "duration": 3.504
+  },
+  {
+    "text": "OSMAN, PRESENT.",
+    "start": 92.759,
+    "duration": 3.87
+  },
+  {
+    "text": ">> CASHMAN, PRESENT.",
+    "start": 95.028,
+    "duration": 3.47
+  },
+  {
+    "text": ">> JENKINS, PRESENT.",
+    "start": 96.997,
+    "duration": 4.404
+  },
+  {
+    "text": ">> CHUGHTAI, PRESENT.",
+    "start": 98.798,
+    "duration": 5.906
+  },
+  {
+    "text": ">> KOSKI, PRESENT.",
+    "start": 101.801,
+    "duration": 5.639
+  },
+  {
+    "text": ">> PALMISANO, PRESENT.",
+    "start": 104.804,
+    "duration": 5.973
+  },
+  {
+    "text": ">> VICE CHAIR CHOWDHURY, ",
+    "start": 107.607,
+    "duration": 3.404
+  },
+  {
+    "text": "PRESENT.",
+    "start": 110.877,
+    "duration": 2.936
+  },
+  {
+    "text": ">> CHA CHAVEZ, PRESENT.",
+    "start": 111.111,
+    "duration": 4.838
+  },
+  {
+    "text": ">> AND COUNCIL MEMBER ELLISON, ",
+    "start": 113.947,
+    "duration": 3.336
+  },
+  {
+    "text": "HERE.",
+    "start": 116.049,
+    "duration": 2.636
+  },
+  {
+    "text": ">> THERE ARE 13 MEMBERS THAT ARE",
+    "start": 117.384,
+    "duration": 1.968
+  },
+  {
+    "text": "PRESENT.",
+    "start": 118.785,
+    "duration": 1.735
+  },
+  {
+    "text": ">> LET THE RECORD REFLECT THAT ",
+    "start": 119.452,
+    "duration": 1.902
+  },
+  {
+    "text": "WE HAVE A QUORUM.",
+    "start": 120.62,
+    "duration": 2.603
+  },
+  {
+    "text": "TODAY WE HAVE ONE ITEM ON THE ",
+    "start": 121.454,
+    "duration": 2.002
+  },
+  {
+    "text": "AGENDA.",
+    "start": 123.323,
+    "duration": 1.868
+  },
+  {
+    "text": "IN ADDITION TO OUR REPORTS OF ",
+    "start": 123.556,
+    "duration": 3.003
+  },
+  {
+    "text": "COMMITTEES THAT HAVE MET THIS ",
+    "start": 125.291,
+    "duration": 1.469
+  },
+  {
+    "text": "CYCLE.",
+    "start": 126.66,
+    "duration": 2.002
+  },
+  {
+    "text": "THIS ITEM IS FROM OUR SETTLEMENT",
+    "start": 126.86,
+    "duration": 3.303
+  },
+  {
+    "text": "AGREEMENT AND CONSENT DECREE ",
+    "start": 128.762,
+    "duration": 2.435
+  },
+  {
+    "text": "OVERSIGHT SUBCOMMITTEE.",
+    "start": 130.263,
+    "duration": 2.369
+  },
+  {
+    "text": "I WILL TURN THIS MEETING OVER TO",
+    "start": 131.297,
+    "duration": 2.269
+  },
+  {
+    "text": "PRESIDENT PAYNE AS THE CHAIR OF ",
+    "start": 132.732,
+    "duration": 1.936
+  },
+  {
+    "text": "THAT COMMITTEE.",
+    "start": 133.667,
+    "duration": 2.502
+  },
+  {
+    "text": ">> THANK YOU, COUNCIL MEMBER ",
+    "start": 134.768,
+    "duration": 1.635
+  },
+  {
+    "text": "CHAVEZ.",
+    "start": 136.269,
+    "duration": 2.669
+  },
+  {
+    "text": "THIS ITEM IS A CONTRACT ",
+    "start": 136.503,
+    "duration": 3.17
+  },
+  {
+    "text": "AMENDMENT WITH STORM TRAINING ",
+    "start": 139.039,
+    "duration": 2.669
+  },
+  {
+    "text": "GROUP LLC FOR SERVICES RELATED ",
+    "start": 139.773,
+    "duration": 3.103
+  },
+  {
+    "text": "TO TRAINING POLICE DEPARTMENT ",
+    "start": 142.309,
+    "duration": 2.435
+  },
+  {
+    "text": "ACADEMY RECRUITS IN USE OF FORCE",
+    "start": 142.976,
+    "duration": 3.57
+  },
+  {
+    "text": "AND DE-ESCALATION TECHNIQUES IN ",
+    "start": 144.844,
+    "duration": 2.87
+  },
+  {
+    "text": "ACCORDANCE WITH IMPLEMENTING THE",
+    "start": 146.646,
+    "duration": 4.738
+  },
+  {
+    "text": "COURT ENFORCEABLE SETTLEMENT ",
+    "start": 147.814,
+    "duration": 3.837
+  },
+  {
+    "text": "AGREEMENT.",
+    "start": 151.484,
+    "duration": 1.635
+  },
+  {
+    "text": "I BELIEVE THERE ARE STAFF ",
+    "start": 151.751,
+    "duration": 2.703
+  },
+  {
+    "text": "AVAILABLE IF THERE IS ANY ",
+    "start": 153.219,
+    "duration": 1.535
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 154.554,
+    "duration": 2.769
+  },
+  {
+    "text": "AND I WILL CHECK THE QUEUE TO ",
+    "start": 154.854,
+    "duration": 5.84
+  },
+  {
+    "text": "SEE IF ANYBODY HAS QUESTIONS.",
+    "start": 157.424,
+    "duration": 5.305
+  },
+  {
+    "text": "SEEING NONE, I WILL MOVE ",
+    "start": 160.794,
+    "duration": 4.07
+  },
+  {
+    "text": "APPROVAL OF THIS ITEM.",
+    "start": 162.829,
+    "duration": 5.572
+  },
+  {
+    "text": "ALL THOSE IN FAVOR SAY AYE.",
+    "start": 164.964,
+    "duration": 4.305
+  },
+  {
+    "text": "OPPOSED SAY NAY.",
+    "start": 168.501,
+    "duration": 2.803
+  },
+  {
+    "text": "THAT MOTION CARRIES.",
+    "start": 169.369,
+    "duration": 4.338
+  },
+  {
+    "text": "AND NOW I WILL RETURN THE CHAIR ",
+    "start": 171.404,
+    "duration": 3.437
+  },
+  {
+    "text": "BACK TO COUNCIL MEMBER CHAVEZ.",
+    "start": 173.807,
+    "duration": 1.868
+  },
+  {
+    "text": ">> THAT WAS QUICK.",
+    "start": 174.941,
+    "duration": 1.769
+  },
+  {
+    "text": "THANK YOU, MR. PRESIDENT.",
+    "start": 175.775,
+    "duration": 1.869
+  },
+  {
+    "text": "AND NEXT WE WILL RECEIVE REPORTS",
+    "start": 176.81,
+    "duration": 2.569
+  },
+  {
+    "text": "FROM STANDING COMMITTEES ON ",
+    "start": 177.744,
+    "duration": 2.436
+  },
+  {
+    "text": "MATTERS TO BE CONSIDERED BY THE ",
+    "start": 179.479,
+    "duration": 1.902
+  },
+  {
+    "text": "FULL COUNCIL THIS THURSDAY.",
+    "start": 180.28,
+    "duration": 5.505
+  },
+  {
+    "text": "WE WILL BEGIN WITH THE ",
+    "start": 181.982,
+    "duration": 5.739
+  },
+  {
+    "text": "ADMINISTRATION AND ",
+    "start": 185.885,
+    "duration": 3.471
+  },
+  {
+    "text": "ADMINISTRATION AND ENTERPRISE ",
+    "start": 187.821,
+    "duration": 3.436
+  },
+  {
+    "text": "OVERSIGHT COMMITTEE CHAIRED BY ",
+    "start": 189.456,
+    "duration": 3.236
+  },
+  {
+    "text": "COUNCIL MEMBER WONSLEY.",
+    "start": 191.358,
+    "duration": 3.136
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHAVEZ.",
+    "start": 192.792,
+    "duration": 3.671
+  },
+  {
+    "text": "WE ARE BRINGING FORWARD 34 ITEM ",
+    "start": 194.594,
+    "duration": 2.836
+  },
+  {
+    "text": "FOR APPROVAL SO THIS IS GOING TO",
+    "start": 196.563,
+    "duration": 1.585
+  },
+  {
+    "text": "BE A LONG ONE.",
+    "start": 197.53,
+    "duration": 3.103
+  },
+  {
+    "text": "THE FIRST ONE IS APPOINTMENT OF ",
+    "start": 198.264,
+    "duration": 5.639
+  },
+  {
+    "text": "CIVIL SERVICE COMMISSIONERS.",
+    "start": 200.734,
+    "duration": 6.439
+  },
+  {
+    "text": "SECOND IS ",
+    "start": 204.004,
+    "duration": 4.738
+  },
+  {
+    "text": "AGE OF RESOLUTION OF DEPUTY ",
+    "start": 207.273,
+    "duration": 2.837
+  },
+  {
+    "text": "JUDGE AND CLERK APPOINTMENTS FOR",
+    "start": 208.842,
+    "duration": 2.769
+  },
+  {
+    "text": "THE NOVEMBER 5, 2024 GENERAL ",
+    "start": 210.21,
+    "duration": 1.668
+  },
+  {
+    "text": "ELECTION.",
+    "start": 211.711,
+    "duration": 1.535
+  },
+  {
+    "text": "THREE IS A PASSAGE OR RESOLUTION",
+    "start": 211.978,
+    "duration": 3.17
+  },
+  {
+    "text": "FOR A GIFT ACCEPTANCE FROM ",
+    "start": 213.346,
+    "duration": 2.903
+  },
+  {
+    "text": "METROPOLITAN POLICE DEPARTMENT ",
+    "start": 215.248,
+    "duration": 2.536
+  },
+  {
+    "text": "OF TRAVEL EXPENSES.",
+    "start": 216.383,
+    "duration": 3.47
+  },
+  {
+    "text": "FOUR IS PASSAGE OF RESOLUTION ",
+    "start": 217.884,
+    "duration": 3.971
+  },
+  {
+    "text": "FOR GIFT ACCEPTANCE FROM THE ",
+    "start": 219.953,
+    "duration": 3.403
+  },
+  {
+    "text": "NORTH AMERICAN BIOCHAR COUNCIL ",
+    "start": 221.955,
+    "duration": 3.67
+  },
+  {
+    "text": "OF TRAVEL AND LODGING EXPENSES.",
+    "start": 223.456,
+    "duration": 5.539
+  },
+  {
+    "text": "FIVE IS PASSAGE OF RESOLUTION ",
+    "start": 225.725,
+    "duration": 5.372
+  },
+  {
+    "text": "FOR GIFT ACCEPTANCE FROM ",
+    "start": 229.095,
+    "duration": 3.037
+  },
+  {
+    "text": "INTERNATIONAL ASSOCIATION OF ",
+    "start": 231.197,
+    "duration": 2.102
+  },
+  {
+    "text": "CRIME ANALYSTS OF TRAVEL ",
+    "start": 232.232,
+    "duration": 1.334
+  },
+  {
+    "text": "EXPENSES.",
+    "start": 233.4,
+    "duration": 2.135
+  },
+  {
+    "text": "SIX IS PASSAGE OF RESOLUTION FOR",
+    "start": 233.667,
+    "duration": 3.803
+  },
+  {
+    "text": "GIFT ACCEPTANCE FROM THE HUNT ",
+    "start": 235.635,
+    "duration": 3.971
+  },
+  {
+    "text": "INSTITUTE EARLY CHILDHOOD POLICY",
+    "start": 237.57,
+    "duration": 5.206
+  },
+  {
+    "text": "FELLOWSHIP OF TRAVEL AND LODGING",
+    "start": 239.706,
+    "duration": 3.737
+  },
+  {
+    "text": "EXPENSES.",
+    "start": 242.876,
+    "duration": 2.169
+  },
+  {
+    "text": "SEVEN IS DATA REQUESTS PROCESS ",
+    "start": 243.543,
+    "duration": 2.002
+  },
+  {
+    "text": "STAFF DIRECTION.",
+    "start": 245.145,
+    "duration": 2.068
+  },
+  {
+    "text": "EIGHT IS NEIGHBORHOOD SAFETY ",
+    "start": 245.645,
+    "duration": 3.67
+  },
+  {
+    "text": "DEPARTMENT MANAGEMENT UPDATES ",
+    "start": 247.313,
+    "duration": 3.104
+  },
+  {
+    "text": "LEGISLATIVE DIRECTIVE.",
+    "start": 249.416,
+    "duration": 2.602
+  },
+  {
+    "text": "NUMBER NINE IS PROCUREMENT ",
+    "start": 250.517,
+    "duration": 3.403
+  },
+  {
+    "text": "PRACTICES FOR VIOLENCE ",
+    "start": 252.118,
+    "duration": 2.836
+  },
+  {
+    "text": "PREVENTION CONTRACTS LEGISLATIVE",
+    "start": 254.02,
+    "duration": 1.201
+  },
+  {
+    "text": "DIRECTIVE.",
+    "start": 255.055,
+    "duration": 4.104
+  },
+  {
+    "text": "10 IS BID FOR 1st AVENUE SOUTH ",
+    "start": 255.322,
+    "duration": 5.438
+  },
+  {
+    "text": "RECONSTRUCTION GREEN STORMWATER ",
+    "start": 259.259,
+    "duration": 2.269
+  },
+  {
+    "text": "INFRASTRUCTURE PROJECT.",
+    "start": 260.86,
+    "duration": 2.369
+  },
+  {
+    "text": "11 IS BID FOR MINNEAPOLIS ",
+    "start": 261.828,
+    "duration": 2.603
+  },
+  {
+    "text": "CONVENTION CENTER BALLROOM ",
+    "start": 263.33,
+    "duration": 2.836
+  },
+  {
+    "text": "CARPET REPLACEMENT PROJECT.",
+    "start": 264.531,
+    "duration": 5.539
+  },
+  {
+    "text": "12 IS BID FOR HILTON RAMP ",
+    "start": 266.466,
+    "duration": 4.771
+  },
+  {
+    "text": "WATERPROOFING PROJECT.",
+    "start": 270.17,
+    "duration": 3.003
+  },
+  {
+    "text": "13 IS BID FOR LARGE DIAMETER ",
+    "start": 271.338,
+    "duration": 4.471
+  },
+  {
+    "text": "SEWER CURED IN PLACE PIPELINING ",
+    "start": 273.273,
+    "duration": 3.437
+  },
+  {
+    "text": "2024 PROJECT.",
+    "start": 275.909,
+    "duration": 2.436
+  },
+  {
+    "text": "14 IS BID FOR MINNEAPOLIS PUBLIC",
+    "start": 276.81,
+    "duration": 5.639
+  },
+  {
+    "text": "WORKS TRAFFIC CONTROL DEVICES.",
+    "start": 278.445,
+    "duration": 6.172
+  },
+  {
+    "text": "15 IS COUNCIL ACTION AMENDMENTS ",
+    "start": 282.682,
+    "duration": 3.27
+  },
+  {
+    "text": "RELATED TO A BID FOR LEAD ",
+    "start": 284.718,
+    "duration": 4.504
+  },
+  {
+    "text": "SERVICE LINES REPLACEMENT.",
+    "start": 286.052,
+    "duration": 5.239
+  },
+  {
+    "text": "16 IS COUNCIL ACTION AMENDMENT ",
+    "start": 289.322,
+    "duration": 3.203
+  },
+  {
+    "text": "RELATED TO CONTRACT FOR ",
+    "start": 291.391,
+    "duration": 4.137
+  },
+  {
+    "text": "PARTNERSHIP ENGAGEMENT FUND ",
+    "start": 292.625,
+    "duration": 3.17
+  },
+  {
+    "text": "PROJECTS.",
+    "start": 295.628,
+    "duration": 2.536
+  },
+  {
+    "text": "17 IS MASTER CONTRACTS FOR 2025 ",
+    "start": 295.895,
+    "duration": 4.805
+  },
+  {
+    "text": "THROUGH 2027 CONVENTION CENTER ",
+    "start": 298.264,
+    "duration": 6.874
+  },
+  {
+    "text": "AND TARGET CENTER, CONSULTING ",
+    "start": 300.8,
+    "duration": 4.738
+  },
+  {
+    "text": "POOL.",
+    "start": 305.238,
+    "duration": 3.67
+  },
+  {
+    "text": "18 IS CONTRACT WITH VARIOUS ",
+    "start": 306.139,
+    "duration": 3.804
+  },
+  {
+    "text": "VENDORS FOR SECURITY FINANCE AND",
+    "start": 309.009,
+    "duration": 2.302
+  },
+  {
+    "text": "PROPERTY SERVICES.",
+    "start": 310.043,
+    "duration": 2.803
+  },
+  {
+    "text": "19 IS CONTRACT WITH DELTA DENTAL",
+    "start": 311.411,
+    "duration": 4.071
+  },
+  {
+    "text": "OF MINNESOTA FOR DELTA INSURANCE",
+    "start": 313.613,
+    "duration": 2.536
+  },
+  {
+    "text": "SERVICES.",
+    "start": 315.582,
+    "duration": 1.802
+  },
+  {
+    "text": "20 IS CONTRACT WITH BRIDGE ",
+    "start": 316.249,
+    "duration": 2.836
+  },
+  {
+    "text": "HEALTH CARE PARTNERS FOR ",
+    "start": 317.484,
+    "duration": 4.004
+  },
+  {
+    "text": "SCHOOL-BASED CLINIC REVENUE ",
+    "start": 319.185,
+    "duration": 3.838
+  },
+  {
+    "text": "CYCLE MANAGEMENT SERVICES.",
+    "start": 321.588,
+    "duration": 5.939
+  },
+  {
+    "text": "21 IS CONTRACT WITH WORKDAY INC.",
+    "start": 323.356,
+    "duration": 5.873
+  },
+  {
+    "text": "FOR ENTERPRISE RESOURCE PLANNING",
+    "start": 327.627,
+    "duration": 2.236
+  },
+  {
+    "text": "SYSTEM.",
+    "start": 329.329,
+    "duration": 2.336
+  },
+  {
+    "text": "22 IS CONTRACT WITH CURE ",
+    "start": 330.296,
+    "duration": 4.939
+  },
+  {
+    "text": "VIOLENCE GLOBAL FOR ",
+    "start": 331.765,
+    "duration": 4.471
+  },
+  {
+    "text": "MINNEAPOLIS-US TECHNICAL ",
+    "start": 335.335,
+    "duration": 3.57
+  },
+  {
+    "text": "ASSISTANCE PROGRAM INITIATIVE.",
+    "start": 336.336,
+    "duration": 4.204
+  },
+  {
+    "text": "23 IS CONTRACT AMENDMENT WITH ",
+    "start": 339.005,
+    "duration": 5.873
+  },
+  {
+    "text": "RICE LAKE CONSTRUCTION GROUP FOR",
+    "start": 340.64,
+    "duration": 5.739
+  },
+  {
+    "text": "FRIDLEY FILTER PLANT ",
+    "start": 344.978,
+    "duration": 2.069
+  },
+  {
+    "text": "REHABILITATION PROJECT.",
+    "start": 346.479,
+    "duration": 2.837
+  },
+  {
+    "text": "24 IS CONTRACT WITH CDM SMITH ",
+    "start": 347.147,
+    "duration": 5.505
+  },
+  {
+    "text": "FOR FRIDLEY FILTER PLANT ",
+    "start": 349.416,
+    "duration": 4.504
+  },
+  {
+    "text": "REHABILITATION PROJECT.",
+    "start": 352.752,
+    "duration": 3.07
+  },
+  {
+    "text": "25 IS CONTRACT WITH DEB GARVEY ",
+    "start": 354.02,
+    "duration": 3.47
+  },
+  {
+    "text": "COMMUNICATIONS LLC FOR WEBSITE ",
+    "start": 355.922,
+    "duration": 3.07
+  },
+  {
+    "text": "SERVICES CONSULTING.",
+    "start": 357.59,
+    "duration": 4.038
+  },
+  {
+    "text": "26 IS CONTRACT AMENDMENTS WITH ",
+    "start": 359.576,
+    "duration": 2.786
+  },
+  {
+    "text": "VARIOUS ORGANIZATIONS TO ",
+    "start": 361.728,
+    "duration": 2.936
+  },
+  {
+    "text": "CONTINUE COMPREHENSIVE PROGRAMS ",
+    "start": 362.462,
+    "duration": 5.572
+  },
+  {
+    "text": "IN RESPONSE TO ILLICIT OPIOID ",
+    "start": 365.432,
+    "duration": 3.303
+  },
+  {
+    "text": "ABUSE.",
+    "start": 368.134,
+    "duration": 2.336
+  },
+  {
+    "text": "27 IS CONTRACT AMENDMENT WITH ",
+    "start": 369.703,
+    "duration": 2.402
+  },
+  {
+    "text": "DATA NET SYSTEMS CORPORATION FOR",
+    "start": 370.57,
+    "duration": 5.405
+  },
+  {
+    "text": "A SPEAKER MANAGEMENT MODULE.",
+    "start": 373.34,
+    "duration": 6.172
+  },
+  {
+    "text": "28 IS CONTRACT AMENDMENT WITH ",
+    "start": 376.076,
+    "duration": 4.871
+  },
+  {
+    "text": "MESIENGER CONSTRUCTION WITH THE ",
+    "start": 379.612,
+    "duration": 2.47
+  },
+  {
+    "text": "CONVENTION CENTER EXHIBIT HALL ",
+    "start": 381.047,
+    "duration": 2.069
+  },
+  {
+    "text": "DOOR REPLACEMENT PROJECT.",
+    "start": 382.182,
+    "duration": 3.637
+  },
+  {
+    "text": "29 IS CONTRACT AMENDMENT WITH ",
+    "start": 383.75,
+    "duration": 4.705
+  },
+  {
+    "text": "SHAW LUNDQUIST ASSOCIATES INC. ",
+    "start": 385.919,
+    "duration": 6.606
+  },
+  {
+    "text": "FOR CITY HALL RESTACK PHASE 3C.",
+    "start": 388.555,
+    "duration": 7.641
+  },
+  {
+    "text": "30 IS CONTRACT AMENDMENT WITH N ",
+    "start": 392.625,
+    "duration": 4.572
+  },
+  {
+    "text": "HARRIS COMPUTER CORPORATION FOR ",
+    "start": 396.296,
+    "duration": 2.869
+  },
+  {
+    "text": "UPGRADES TO THE UTILITY BILLING ",
+    "start": 397.297,
+    "duration": 2.169
+  },
+  {
+    "text": "SYSTEM.",
+    "start": 399.265,
+    "duration": 1.869
+  },
+  {
+    "text": "31 IS CONTRACT AMENDMENTS WITH ",
+    "start": 399.699,
+    "duration": 3.137
+  },
+  {
+    "text": "VARIOUS VENDORS FOR ADDITIONAL ",
+    "start": 401.234,
+    "duration": 3.07
+  },
+  {
+    "text": "MATERIALS, LABOR AND EQUIPMENT ",
+    "start": 402.936,
+    "duration": 4.838
+  },
+  {
+    "text": "NECESSARY FOR ALLEY SNOW PLOWING",
+    "start": 404.404,
+    "duration": 3.87
+  },
+  {
+    "text": "SERVICES.",
+    "start": 407.874,
+    "duration": 2.77
+  },
+  {
+    "text": "32 IS IS CONTRACT AMENDMENT WITH",
+    "start": 408.808,
+    "duration": 3.103
+  },
+  {
+    "text": "MINNEAPOLIS PUBLIC HOUSING ",
+    "start": 410.744,
+    "duration": 2.602
+  },
+  {
+    "text": "AUTHORITY FOR COMMUNICATIONS ",
+    "start": 412.012,
+    "duration": 4.07
+  },
+  {
+    "text": "EQUIPMENT AT 3121 PILLSBURY ",
+    "start": 413.446,
+    "duration": 4.772
+  },
+  {
+    "text": "AVENUE AND 315 LOWRY AVENUE ",
+    "start": 416.182,
+    "duration": 2.369
+  },
+  {
+    "text": "NORTH.",
+    "start": 418.318,
+    "duration": 1.902
+  },
+  {
+    "text": "33 IS CONTRACT AMENDMENTS WITH ",
+    "start": 418.652,
+    "duration": 4.437
+  },
+  {
+    "text": "SOUND THINKING INC. FOR GUNSHOT ",
+    "start": 420.32,
+    "duration": 3.37
+  },
+  {
+    "text": "LOCATION SYSTEM.",
+    "start": 423.189,
+    "duration": 2.736
+  },
+  {
+    "text": "AND NUMBER 34 IS A GIFT ",
+    "start": 423.79,
+    "duration": 3.07
+  },
+  {
+    "text": "ACCEPTANCE FROM ENVIRONMENTAL ",
+    "start": 426.026,
+    "duration": 4.17
+  },
+  {
+    "text": "PROTECTION AGENCY OF TRAVEL AND ",
+    "start": 426.96,
+    "duration": 4.838
+  },
+  {
+    "text": "LODGING EXPENSES.",
+    "start": 430.296,
+    "duration": 3.437
+  },
+  {
+    "text": "WITH THAT, I WILL STAND FOR ANY ",
+    "start": 431.898,
+    "duration": 6.507
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 433.833,
+    "duration": 5.806
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 439.005,
+    "duration": 1.835
+  },
+  {
+    "text": "THERE ARE NO QUESTIONS.",
+    "start": 439.739,
+    "duration": 2.77
+  },
+  {
+    "text": "NEXT UP WE HAVE THE BUDGET ",
+    "start": 440.94,
+    "duration": 3.371
+  },
+  {
+    "text": "COMMITTEE CHAIRED BY VICE ",
+    "start": 442.609,
+    "duration": 2.302
+  },
+  {
+    "text": "PRESIDENT CHUGHTAI.",
+    "start": 444.411,
+    "duration": 1.701
+  },
+  {
+    "text": ">> THANK YOU, MR. CHAIR.",
+    "start": 445.011,
+    "duration": 2.603
+  },
+  {
+    "text": "THE BUDGET COMMITTEE IS BRINGING",
+    "start": 446.212,
+    "duration": 3.737
+  },
+  {
+    "text": "FORWARD TWO ITEMS FOR APPROVAL ",
+    "start": 447.714,
+    "duration": 3.87
+  },
+  {
+    "text": "AT THIS THURSDAY'S CITY COUNCIL ",
+    "start": 450.05,
+    "duration": 1.868
+  },
+  {
+    "text": "MEETING.",
+    "start": 451.685,
+    "duration": 1.901
+  },
+  {
+    "text": "ITEM NUMBER ONE IS A PASSAGE OF ",
+    "start": 452.018,
+    "duration": 4.138
+  },
+  {
+    "text": "RESOLUTION AMENDING THE 2024 ",
+    "start": 453.687,
+    "duration": 4.371
+  },
+  {
+    "text": "GENERAL APPROPRIATION RESOLUTION",
+    "start": 456.256,
+    "duration": 3.103
+  },
+  {
+    "text": "DESIGNATING FUNDS WITHIN THE ",
+    "start": 458.158,
+    "duration": 2.335
+  },
+  {
+    "text": "NEIGHBORHOOD SAFETY DEPARTMENT'S",
+    "start": 459.459,
+    "duration": 3.47
+  },
+  {
+    "text": "BUDGET TO REDUCE VIOLENCE WHERE ",
+    "start": 460.593,
+    "duration": 3.37
+  },
+  {
+    "text": "HOMICIDES OR SECOND-DEGREE ",
+    "start": 463.029,
+    "duration": 3.637
+  },
+  {
+    "text": "ASSAULTS HAVE OCCURRED IN THE ",
+    "start": 464.064,
+    "duration": 3.97
+  },
+  {
+    "text": "LAKE STREET CULTURAL DISTRICT, ",
+    "start": 466.766,
+    "duration": 3.103
+  },
+  {
+    "text": "AND THE SECTION OF LAKE STREET ",
+    "start": 468.134,
+    "duration": 3.571
+  },
+  {
+    "text": "FROM CEDAR AVENUE TO HIAWATHA ",
+    "start": 469.969,
+    "duration": 2.103
+  },
+  {
+    "text": "AVENUE.",
+    "start": 471.805,
+    "duration": 1.701
+  },
+  {
+    "text": "ITEM TWO IS A PASSAGE OF ",
+    "start": 472.172,
+    "duration": 3.27
+  },
+  {
+    "text": "RESOLUTION AMENDING THE 2024 ",
+    "start": 473.606,
+    "duration": 3.938
+  },
+  {
+    "text": "GENERAL APPROPRIATION RESOLUTION",
+    "start": 475.542,
+    "duration": 2.769
+  },
+  {
+    "text": "AND TRANSFERRING $1.5 MILLION ",
+    "start": 477.644,
+    "duration": 2.769
+  },
+  {
+    "text": "FROM THE CONTINGENCY ACCOUNT TO ",
+    "start": 478.411,
+    "duration": 4.138
+  },
+  {
+    "text": "THE COMMUNITY PLANNING AND ",
+    "start": 480.513,
+    "duration": 3.637
+  },
+  {
+    "text": "ECONOMIC DEVELOPMENT DEPARTMENT ",
+    "start": 482.649,
+    "duration": 3.904
+  },
+  {
+    "text": "FOR A GRANT TO AGATE HOUSING ",
+    "start": 484.25,
+    "duration": 4.371
+  },
+  {
+    "text": "SERVICES FOR REHABILITATION OF ",
+    "start": 486.653,
+    "duration": 3.136
+  },
+  {
+    "text": "AGATE'S BOARD AND LODGE ",
+    "start": 488.722,
+    "duration": 3.837
+  },
+  {
+    "text": "TRANSITIONAL HOUSING AND SHELTER",
+    "start": 489.889,
+    "duration": 4.572
+  },
+  {
+    "text": "FACILITY AT 510 SOUTH 8th ",
+    "start": 492.659,
+    "duration": 2.469
+  },
+  {
+    "text": "STREET.",
+    "start": 494.561,
+    "duration": 2.102
+  },
+  {
+    "text": "IN ADDITION TO THAT, THE BUDGET ",
+    "start": 495.228,
+    "duration": 3.203
+  },
+  {
+    "text": "COMMITTEE HAS MET SEVERAL TIMES ",
+    "start": 496.763,
+    "duration": 4.605
+  },
+  {
+    "text": "OVER THIS LAST CYCLE TO BEGIN ",
+    "start": 498.531,
+    "duration": 4.572
+  },
+  {
+    "text": "DEPARTMENTAL PRESENTATIONS.",
+    "start": 501.468,
+    "duration": 3.803
+  },
+  {
+    "text": "AND WE HAVE RECEIVED ",
+    "start": 503.203,
+    "duration": 3.236
+  },
+  {
+    "text": "PRESENTATIONS ON A BUDGET ",
+    "start": 505.372,
+    "duration": 4.337
+  },
+  {
+    "text": "OVERVIEW, THE SETTLEMENT ",
+    "start": 506.539,
+    "duration": 4.672
+  },
+  {
+    "text": "AGREEMENT, THE FINANCE AND ",
+    "start": 509.809,
+    "duration": 2.303
+  },
+  {
+    "text": "PROPERTY SERVICES DEPARTMENT'S ",
+    "start": 511.311,
+    "duration": 3.637
+  },
+  {
+    "text": "BUDGET, ALONG WITH HUMAN ",
+    "start": 512.212,
+    "duration": 3.403
+  },
+  {
+    "text": "RESOURCES, ASSESSING DEPARTMENT,",
+    "start": 515.048,
+    "duration": 3.036
+  },
+  {
+    "text": "CIVIL RIGHTS DEPARTMENT, ",
+    "start": 515.715,
+    "duration": 4.071
+  },
+  {
+    "text": "COMMUNICATIONS, 311 SERVICE ",
+    "start": 518.184,
+    "duration": 2.97
+  },
+  {
+    "text": "CENTER, INFORMATION TECHNOLOGY, ",
+    "start": 519.886,
+    "duration": 3.27
+  },
+  {
+    "text": "AND THE TECHNOLOGY IMPROVEMENT ",
+    "start": 521.254,
+    "duration": 2.102
+  },
+  {
+    "text": "PLAN.",
+    "start": 523.256,
+    "duration": 5.572
+  },
+  {
+    "text": "OUR FIRST PUBLIC HEARING ON THE ",
+    "start": 523.456,
+    "duration": 6.574
+  },
+  {
+    "text": "2025-2026 BUDGET IS SET TO TAKE ",
+    "start": 528.928,
+    "duration": 2.436
+  },
+  {
+    "text": "PLACE THIS UPCOMING MONDAY, ",
+    "start": 530.13,
+    "duration": 4.905
+  },
+  {
+    "text": "SEPTEMBER 23, AT 6:05 P.M.",
+    "start": 531.464,
+    "duration": 6.507
+  },
+  {
+    "text": "WITH THAT, I'M STAND FOR ANY ",
+    "start": 535.135,
+    "duration": 3.103
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 538.071,
+    "duration": 0.767
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 538.338,
+    "duration": 2.002
+  },
+  {
+    "text": "NO ONE IS ON QUEUE.",
+    "start": 538.938,
+    "duration": 2.67
+  },
+  {
+    "text": "SO NEXT UP WE HAVE THE BUSINESS ",
+    "start": 540.44,
+    "duration": 2.936
+  },
+  {
+    "text": "HOUSING AND ZONING COMMITTEE.",
+    "start": 541.708,
+    "duration": 3.437
+  },
+  {
+    "text": "CHAIRED BY COUNCIL MEMBER OSMAN.",
+    "start": 543.476,
+    "duration": 4.738
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHAVEZ.",
+    "start": 545.245,
+    "duration": 5.305
+  },
+  {
+    "text": "THE COMMITTEE WILL BE FORWARD 2G",
+    "start": 548.315,
+    "duration": 4.137
+  },
+  {
+    "text": "1 ITEMS AT THURSDAY'S COUNCIL ",
+    "start": 550.967,
+    "duration": 2.419
+  },
+  {
+    "text": "MEETING.",
+    "start": 552.552,
+    "duration": 3.971
+  },
+  {
+    "text": "ITEM ONE IS APPROVING ",
+    "start": 553.486,
+    "duration": 6.273
+  },
+  {
+    "text": "APPLICATION FOR DARLING ON SALE ",
+    "start": 556.623,
+    "duration": 5.405
+  },
+  {
+    "text": "LIQUOR WITH SUNDAY SALES LIMITED",
+    "start": 559.859,
+    "duration": 3.337
+  },
+  {
+    "text": "ENTERTAINMENT LICENSE.",
+    "start": 562.128,
+    "duration": 2.636
+  },
+  {
+    "text": "ITEM TWO IS APPROVING ",
+    "start": 563.296,
+    "duration": 5.005
+  },
+  {
+    "text": "APPLICATION FOR AKI BREADHAUS, ",
+    "start": 564.864,
+    "duration": 6.474
+  },
+  {
+    "text": "FOR ON SALE WINE WITH STRONG ",
+    "start": 568.401,
+    "duration": 4.171
+  },
+  {
+    "text": "BEER LIMITED ENTERTAINMENT ",
+    "start": 571.438,
+    "duration": 1.701
+  },
+  {
+    "text": "LICENSE.",
+    "start": 572.672,
+    "duration": 3.704
+  },
+  {
+    "text": "NUMBER THREE IS APPROVING AN ",
+    "start": 573.239,
+    "duration": 5.906
+  },
+  {
+    "text": "APPLICATION FOR LA MADRE ON SALE",
+    "start": 576.476,
+    "duration": 5.105
+  },
+  {
+    "text": "LIQUOR WITH SUNDAY SALES NO LIVE",
+    "start": 579.245,
+    "duration": 3.504
+  },
+  {
+    "text": "ENTERTAINMENT LICENSE.",
+    "start": 581.681,
+    "duration": 6.006
+  },
+  {
+    "text": "ITEM FOUR IS APPROVING MINTAHOE ",
+    "start": 582.849,
+    "duration": 7.007
+  },
+  {
+    "text": "CATERS AND EVENTS ON SALE LIQUOR",
+    "start": 587.787,
+    "duration": 3.604
+  },
+  {
+    "text": "WITH SUNDAY SALES, GENERAL ",
+    "start": 589.956,
+    "duration": 2.87
+  },
+  {
+    "text": "ENTERTAINMENT LICENSE.",
+    "start": 591.491,
+    "duration": 2.302
+  },
+  {
+    "text": "IT",
+    "start": 592.926,
+    "duration": 3.92
+  },
+  {
+    "text": "ITEM FIVE IS APPROVING AN ",
+    "start": 593.893,
+    "duration": 7.174
+  },
+  {
+    "text": "APPLICATION FOR FOWLING ",
+    "start": 596.93,
+    "duration": 6.556
+  },
+  {
+    "text": "WAREHOUSE ON SALE SUNDAY SALES ",
+    "start": 601.167,
+    "duration": 4.421
+  },
+  {
+    "text": "WITH NO LIVE ENTERTAINMENT LIE ",
+    "start": 603.586,
+    "duration": 3.037
+  },
+  {
+    "text": "SEENS.",
+    "start": 605.689,
+    "duration": 3.269
+  },
+  {
+    "text": "SIX IS RENTAL PRE-EVICTION ",
+    "start": 606.706,
+    "duration": 4.054
+  },
+  {
+    "text": "NOTIFICATION OF ORDINANCE.",
+    "start": 609.059,
+    "duration": 5.138
+  },
+  {
+    "text": "ITEM SEVEN IS APPROVING A LAND ",
+    "start": 610.86,
+    "duration": 6.774
+  },
+  {
+    "text": "SALE FOR VARIOUS OTHER ACTIONS ",
+    "start": 614.297,
+    "duration": 7.274
+  },
+  {
+    "text": "FOR PORTION OF 2103 WEST ",
+    "start": 617.734,
+    "duration": 4.104
+  },
+  {
+    "text": "BROADWAY.",
+    "start": 621.671,
+    "duration": 5.572
+  },
+  {
+    "text": "ITEM 8 IS APPROVING MODIFICATION",
+    "start": 621.938,
+    "duration": 9.51
+  },
+  {
+    "text": "OF THREE TAX INCREMENT TIFF ",
+    "start": 628.445,
+    "duration": 5.205
+  },
+  {
+    "text": "PLANS TO INCREASE THE BUDGET FOR",
+    "start": 631.548,
+    "duration": 3.937
+  },
+  {
+    "text": "AFFORDABLE HOUSELING.",
+    "start": 633.75,
+    "duration": 3.403
+  },
+  {
+    "text": "ITEM 9 IS LIQUOR LICENSE ",
+    "start": 635.585,
+    "duration": 3.237
+  },
+  {
+    "text": "APPROVAL.",
+    "start": 637.253,
+    "duration": 4.872
+  },
+  {
+    "text": "ITEM 10 IS LIQUOR LICENSE ",
+    "start": 638.922,
+    "duration": 3.437
+  },
+  {
+    "text": "RENEWAL.",
+    "start": 642.225,
+    "duration": 2.77
+  },
+  {
+    "text": "ITEM 11 IS THREE GAMBLING ",
+    "start": 642.459,
+    "duration": 2.802
+  },
+  {
+    "text": "APPROVALS.",
+    "start": 645.095,
+    "duration": 3.336
+  },
+  {
+    "text": "ITEM 12 IS 18 GAMBLING LICENSE ",
+    "start": 645.362,
+    "duration": 5.238
+  },
+  {
+    "text": "RENEWAL.",
+    "start": 648.531,
+    "duration": 5.539
+  },
+  {
+    "text": "ITEM 13 IS A CONTRACT WITH SMG ",
+    "start": 650.7,
+    "duration": 6.173
+  },
+  {
+    "text": "FOR FIRE WATCH SERVICES.",
+    "start": 654.17,
+    "duration": 6.607
+  },
+  {
+    "text": "ITEM 14 IS APPROVING A ",
+    "start": 656.973,
+    "duration": 7.608
+  },
+  {
+    "text": "COMMEMORATIVE STREET EDITION TO ",
+    "start": 660.877,
+    "duration": 6.373
+  },
+  {
+    "text": "SEAN HILL JUNIOR BETWEEN IRVING ",
+    "start": 664.681,
+    "duration": 4.438
+  },
+  {
+    "text": "AVENUE NORTH AND KNOX AVENUE ",
+    "start": 667.35,
+    "duration": 1.969
+  },
+  {
+    "text": "NORTH.",
+    "start": 669.219,
+    "duration": 2.035
+  },
+  {
+    "text": "ITEM 16 IS ACCEPTING A ",
+    "start": 669.419,
+    "duration": 2.903
+  },
+  {
+    "text": "SCHOLARSHIP AGREEMENT FOR ",
+    "start": 671.354,
+    "duration": 1.902
+  },
+  {
+    "text": "HERITAGE PRESERVATION ",
+    "start": 672.422,
+    "duration": 2.603
+  },
+  {
+    "text": "COMMISSIONERS AND CPED STAFF TO ",
+    "start": 673.356,
+    "duration": 5.472
+  },
+  {
+    "text": "ATTEND PRESERVE MN2024.",
+    "start": 675.125,
+    "duration": 6.306
+  },
+  {
+    "text": "ITEM 16 IS CONSENTING TO A SMALL",
+    "start": 678.928,
+    "duration": 7.041
+  },
+  {
+    "text": "AND MEDIUM MULTIFAMILY LOANS ",
+    "start": 681.531,
+    "duration": 6.907
+  },
+  {
+    "text": "ASSUMPTION AND AMENDMENT FOR ",
+    "start": 686.069,
+    "duration": 4.037
+  },
+  {
+    "text": "3123 23rd AVENUE SOUTH.",
+    "start": 688.538,
+    "duration": 4.705
+  },
+  {
+    "text": "ITEM 17 IS APPROVING WADAAG ",
+    "start": 690.206,
+    "duration": 5.239
+  },
+  {
+    "text": "COMMONS AFFORDABLE HOUSING TRUST",
+    "start": 693.343,
+    "duration": 2.97
+  },
+  {
+    "text": "FUND PROJECT BUDGET ",
+    "start": 695.545,
+    "duration": 1.101
+  },
+  {
+    "text": "APPROPRIATION.",
+    "start": 696.413,
+    "duration": 2.736
+  },
+  {
+    "text": "ITEM 18 IS APPROVING ",
+    "start": 696.746,
+    "duration": 4.305
+  },
+  {
+    "text": "MODIFICATION OF PORTLAND VILLAGE",
+    "start": 699.249,
+    "duration": 2.235
+  },
+  {
+    "text": "FINANCING.",
+    "start": 701.151,
+    "duration": 4.204
+  },
+  {
+    "text": "ITEM 19 IS APPROVING THE COMP ",
+    "start": 701.584,
+    "duration": 4.705
+  },
+  {
+    "text": "PLAN AMENDMENT FOR RIGHT-OF-WAY ",
+    "start": 705.455,
+    "duration": 6.24
+  },
+  {
+    "text": "OF VACATION FOR PORTION OF 1027 ",
+    "start": 707.857,
+    "duration": 5.139
+  },
+  {
+    "text": "ESSEX STREET SOUTHEAST.",
+    "start": 711.795,
+    "duration": 2.969
+  },
+  {
+    "text": "ITEM 20 IS APPROVING THE OFFICE ",
+    "start": 713.096,
+    "duration": 6.306
+  },
+  {
+    "text": "TO RESIDENTIAL CONVERSIONS ",
+    "start": 715.131,
+    "duration": 4.772
+  },
+  {
+    "text": "ORDINANCE.",
+    "start": 719.502,
+    "duration": 4.171
+  },
+  {
+    "text": "AND FINALLY, ITEM 21 IS ",
+    "start": 720.003,
+    "duration": 4.938
+  },
+  {
+    "text": "APPROVING A BOND POLICY ",
+    "start": 723.773,
+    "duration": 3.47
+  },
+  {
+    "text": "AMENDMENT AND REFERRING TO THE ",
+    "start": 725.041,
+    "duration": 4.872
+  },
+  {
+    "text": "MATTER TO MCDA BOARD OF ",
+    "start": 727.344,
+    "duration": 3.903
+  },
+  {
+    "text": "COMMISSIONERS WHO WILL BE ",
+    "start": 730.013,
+    "duration": 2.102
+  },
+  {
+    "text": "MEETING FOLLOWING THURSDAY ",
+    "start": 731.348,
+    "duration": 2.102
+  },
+  {
+    "text": "COUNCIL MEETING.",
+    "start": 732.215,
+    "duration": 2.736
+  },
+  {
+    "text": "I'LL STAND FOR ANY QUESTIONS.",
+    "start": 733.55,
+    "duration": 3.67
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 735.051,
+    "duration": 3.237
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 737.454,
+    "duration": 2.802
+  },
+  {
+    "text": "THERE ARE NO QUESTIONS, SO NEXT ",
+    "start": 738.388,
+    "duration": 4.171
+  },
+  {
+    "text": "UP WE HAVE THE CLIMATE AND ",
+    "start": 740.357,
+    "duration": 2.936
+  },
+  {
+    "text": "INFRASTRUCTURE COMMITTEE CHAIRED",
+    "start": 742.659,
+    "duration": 3.503
+  },
+  {
+    "text": "BY COUNCIL MEMBER CASHMAN.",
+    "start": 743.393,
+    "duration": 4.271
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHAVEZ.",
+    "start": 746.262,
+    "duration": 3.27
+  },
+  {
+    "text": "THE CLIMATE AND INFRASTRUCTURE ",
+    "start": 747.764,
+    "duration": 5.639
+  },
+  {
+    "text": "COMMITTEE IS BRINGING FORWARD 10",
+    "start": 749.632,
+    "duration": 3.971
+  },
+  {
+    "text": "ITEMS.",
+    "start": 753.503,
+    "duration": 1.268
+  },
+  {
+    "text": "ITEMS ONE THROUGH 3 ARE ",
+    "start": 753.703,
+    "duration": 2.102
+  },
+  {
+    "text": "APPROVING THE 2025 OPERATING ",
+    "start": 754.871,
+    "duration": 2.836
+  },
+  {
+    "text": "PLANS AN SERVICE CHARGES FOR THE",
+    "start": 755.905,
+    "duration": 3.304
+  },
+  {
+    "text": "DOWNTOWN BUSINESS IMPROVEMENT, ",
+    "start": 757.807,
+    "duration": 2.636
+  },
+  {
+    "text": "SPECIAL SERVICE DISTRICT, THE ",
+    "start": 759.309,
+    "duration": 3.27
+  },
+  {
+    "text": "WEST BROADWAY IMPROVEMENT ",
+    "start": 760.543,
+    "duration": 4.138
+  },
+  {
+    "text": "SPECIAL SERVICE DISTRICT, AND ",
+    "start": 762.679,
+    "duration": 4.004
+  },
+  {
+    "text": "THE 428A SPECIAL SERVICE ",
+    "start": 764.781,
+    "duration": 2.202
+  },
+  {
+    "text": "DISTRICTS.",
+    "start": 766.783,
+    "duration": 1.802
+  },
+  {
+    "text": "ITEM FOUR IS APPROVING THE ",
+    "start": 767.083,
+    "duration": 3.604
+  },
+  {
+    "text": "CONCEPT LAYOUT FOR THE 10th ",
+    "start": 768.685,
+    "duration": 3.37
+  },
+  {
+    "text": "AVENUE SOUTH BRIDGE PROJECT OVER",
+    "start": 770.787,
+    "duration": 2.002
+  },
+  {
+    "text": "MIDTOWN GREENWAY.",
+    "start": 772.155,
+    "duration": 2.836
+  },
+  {
+    "text": "ITEM FIVE IS APPROVING THE ",
+    "start": 772.889,
+    "duration": 3.737
+  },
+  {
+    "text": "CONCEPT LAYOUT FOR THE 26th ",
+    "start": 775.091,
+    "duration": 4.138
+  },
+  {
+    "text": "STREET EAST AND HIAWATHA AVENUE ",
+    "start": 776.726,
+    "duration": 3.47
+  },
+  {
+    "text": "SAFETY IMPROVEMENT PROJECT.",
+    "start": 779.329,
+    "duration": 3.27
+  },
+  {
+    "text": "ITEM 6 IS APPROVING THE CONCEPT ",
+    "start": 780.296,
+    "duration": 4.472
+  },
+  {
+    "text": "LAYOUT FOR HEN PEN COUNTY CEDAR ",
+    "start": 782.699,
+    "duration": 3.67
+  },
+  {
+    "text": "AVENUE RECONSTRUCTION PROJECT ",
+    "start": 784.868,
+    "duration": 2.803
+  },
+  {
+    "text": "ALONG CEDAR AVE.",
+    "start": 786.469,
+    "duration": 2.736
+  },
+  {
+    "text": "ITEM 7 IS APPROVING THE LAYOUT ",
+    "start": 787.771,
+    "duration": 3.303
+  },
+  {
+    "text": "FOR HENNEPIN COUNTY'S LOWRY ",
+    "start": 789.305,
+    "duration": 3.537
+  },
+  {
+    "text": "AVENUE NORTHEAST RECONSTRUCTION ",
+    "start": 791.174,
+    "duration": 1.969
+  },
+  {
+    "text": "PROJECT.",
+    "start": 792.942,
+    "duration": 1.802
+  },
+  {
+    "text": "ITEM 8 IS AUTHORIZING A ",
+    "start": 793.243,
+    "duration": 2.803
+  },
+  {
+    "text": "COOPERATIVE AGREEMENT WITH THE ",
+    "start": 794.844,
+    "duration": 2.57
+  },
+  {
+    "text": "PARK BOARD FOR THE EAST BANK ",
+    "start": 796.146,
+    "duration": 3.203
+  },
+  {
+    "text": "TRAIL CONNECTION PROJECT.",
+    "start": 797.514,
+    "duration": 3.937
+  },
+  {
+    "text": "ITEM 9 IS SUBMITTING COMMENTS ON",
+    "start": 799.449,
+    "duration": 5.072
+  },
+  {
+    "text": "THE MET COUNCIL'S DRAFT IMAGINE ",
+    "start": 801.551,
+    "duration": 5.305
+  },
+  {
+    "text": "2050 TRANSPORTATION POLICY PLAN.",
+    "start": 804.621,
+    "duration": 4.571
+  },
+  {
+    "text": "AND THE PASSAGE OF A RESOLUTION ",
+    "start": 806.956,
+    "duration": 4.422
+  },
+  {
+    "text": "APPROVING BUS RAPID TRANSIT ON ",
+    "start": 809.292,
+    "duration": 3.137
+  },
+  {
+    "text": "NICOLLET CENTRAL TRANSIT ",
+    "start": 811.494,
+    "duration": 1.335
+  },
+  {
+    "text": "COIDOR.",
+    "start": 812.562,
+    "duration": 1.902
+  },
+  {
+    "text": "ITEM 10 IS PASSAGE OF A ",
+    "start": 812.929,
+    "duration": 3.57
+  },
+  {
+    "text": "RESOLUTION EXPRESSING THE CITY'S",
+    "start": 814.564,
+    "duration": 4.104
+  },
+  {
+    "text": "PRIORITIES FOR THE MINNESOTA ",
+    "start": 816.599,
+    "duration": 4.038
+  },
+  {
+    "text": "DEPARTMENT OF TRANSPORTATION'S ",
+    "start": 818.768,
+    "duration": 3.304
+  },
+  {
+    "text": "RETHINKING I94 PROJECT.",
+    "start": 820.737,
+    "duration": 4.871
+  },
+  {
+    "text": "AND I'LL STAND FOR QUESTIONS ON ",
+    "start": 822.172,
+    "duration": 6.072
+  },
+  {
+    "text": "THESE ITEMS.",
+    "start": 825.709,
+    "duration": 3.036
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 828.511,
+    "duration": 1.702
+  },
+  {
+    "text": "I SEE YOURSELF ON QUEUE, COUNCIL",
+    "start": 829.012,
+    "duration": 2.035
+  },
+  {
+    "text": "MEMBER CASHMAN.",
+    "start": 830.313,
+    "duration": 1.335
+  },
+  {
+    "text": "YES.",
+    "start": 831.147,
+    "duration": 0.701
+  },
+  {
+    "text": "OKAY.",
+    "start": 831.748,
+    "duration": 0.367
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 831.948,
+    "duration": 2.269
+  },
+  {
+    "text": "FOR THE LAST ITEM, I DID WANT TO",
+    "start": 832.215,
+    "duration": 3.437
+  },
+  {
+    "text": "LET COUNCIL MEMBERS KNOW THAT ",
+    "start": 834.317,
+    "duration": 2.469
+  },
+  {
+    "text": "I'M BRINGING A SMALL AMENDMENT ",
+    "start": 835.752,
+    "duration": 2.102
+  },
+  {
+    "text": "ON THURSDAY.",
+    "start": 836.987,
+    "duration": 2.702
+  },
+  {
+    "text": "IT'S REALLY JUST THE ADDITION OF",
+    "start": 837.954,
+    "duration": 4.872
+  },
+  {
+    "text": "TWO WORDS, SO IT WILL SAY THAT ",
+    "start": 839.789,
+    "duration": 4.905
+  },
+  {
+    "text": "BE IT FURTHER RESOLVED THAT THE ",
+    "start": 842.926,
+    "duration": 2.436
+  },
+  {
+    "text": "CITY COUNCIL OF MINNEAPOLIS ",
+    "start": 844.794,
+    "duration": 3.003
+  },
+  {
+    "text": "SUPPORT STUDYING OPTIONS THAT ",
+    "start": 845.462,
+    "duration": 4.671
+  },
+  {
+    "text": "REPURPOSE THE I-94 TRENCH FOR ",
+    "start": 847.897,
+    "duration": 4.071
+  },
+  {
+    "text": "HIGH-SPEED PUBLIC TRANSIT ",
+    "start": 850.233,
+    "duration": 3.036
+  },
+  {
+    "text": "CONNECTIONS BETWEEN DOWNTOWN ",
+    "start": 852.068,
+    "duration": 1.969
+  },
+  {
+    "text": "MINNEAPOLIS TO DOWNTOWN ST. ",
+    "start": 853.37,
+    "duration": 1.968
+  },
+  {
+    "text": "PAUL, AND THE BROADER REGION, SO",
+    "start": 854.137,
+    "duration": 4.338
+  },
+  {
+    "text": "JUST THE ADDITION OF \"PUBLIC ",
+    "start": 855.438,
+    "duration": 4.104
+  },
+  {
+    "text": "TRANSIT\" AS A PRIORITY IN ",
+    "start": 858.575,
+    "duration": 2.636
+  },
+  {
+    "text": "SETTING THE CONNECTIONS BETWEEN ",
+    "start": 859.643,
+    "duration": 1.868
+  },
+  {
+    "text": "THE CITIES.",
+    "start": 861.311,
+    "duration": 3.57
+  },
+  {
+    "text": "AND I'LL BE BRINGING THAT ON ",
+    "start": 861.611,
+    "duration": 4.972
+  },
+  {
+    "text": "THURSDAY.",
+    "start": 864.981,
+    "duration": 2.436
+  },
+  {
+    "text": "THANKS.",
+    "start": 866.683,
+    "duration": 1.435
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 867.717,
+    "duration": 1.769
+  },
+  {
+    "text": "NEXT UP WE HAVE THE PUBLIC ",
+    "start": 868.218,
+    "duration": 2.736
+  },
+  {
+    "text": "HEALTH AND SAFETY COMMITTEE, SO ",
+    "start": 869.586,
+    "duration": 2.669
+  },
+  {
+    "text": "I'LL PASS IT TO THE VICE CHAIR ",
+    "start": 871.054,
+    "duration": 3.136
+  },
+  {
+    "text": "OF THAT COMMITTEE, COUNCIL ",
+    "start": 872.422,
+    "duration": 3.003
+  },
+  {
+    "text": "MEMBER WONSLEY.",
+    "start": 874.29,
+    "duration": 3.471
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHAVEZ.",
+    "start": 875.992,
+    "duration": 3.604
+  },
+  {
+    "text": "THE PUBLIC HEALTH AND SAFETY ",
+    "start": 877.861,
+    "duration": 4.271
+  },
+  {
+    "text": "COMMITTEE IS BRINGING FORWARD 3 ",
+    "start": 879.696,
+    "duration": 2.636
+  },
+  {
+    "text": "ITEMS.",
+    "start": 882.232,
+    "duration": 2.436
+  },
+  {
+    "text": "THE FIRST IS APPROVING THE ",
+    "start": 882.432,
+    "duration": 3.17
+  },
+  {
+    "text": "MAYOR'S NOMINATION OF RACHEL ",
+    "start": 884.768,
+    "duration": 3.236
+  },
+  {
+    "text": "SAYRE TO THE APPOINTED POSITION ",
+    "start": 885.702,
+    "duration": 3.603
+  },
+  {
+    "text": "OF EMERGENCY MANAGEMENT DIRECTOR",
+    "start": 888.104,
+    "duration": 5.506
+  },
+  {
+    "text": "FOR A TERM ENDING IN JANUARY ",
+    "start": 889.406,
+    "duration": 4.604
+  },
+  {
+    "text": "2026.",
+    "start": 893.71,
+    "duration": 2.269
+  },
+  {
+    "text": "NUMBER TWO IS A PASSAGE OF ",
+    "start": 894.11,
+    "duration": 3.571
+  },
+  {
+    "text": "ORDINANCE TO AMEND THE HOUSING ",
+    "start": 896.079,
+    "duration": 3.403
+  },
+  {
+    "text": "CODE TO MANDATE REGULAR ",
+    "start": 897.781,
+    "duration": 5.639
+  },
+  {
+    "text": "REPORTING RELATING TO ENCAMPMENT",
+    "start": 899.582,
+    "duration": 4.105
+  },
+  {
+    "text": "REMOVALS.",
+    "start": 903.52,
+    "duration": 1.268
+  },
+  {
+    "text": "NUMBER 3 IS AUTHORIZING A ",
+    "start": 903.787,
+    "duration": 2.636
+  },
+  {
+    "text": "REVENUE CONTRACT WITH THE ",
+    "start": 904.888,
+    "duration": 3.603
+  },
+  {
+    "text": "MINNESOTA TIMBERWOLVES IN THE ",
+    "start": 906.523,
+    "duration": 4.538
+  },
+  {
+    "text": "AMOUNT OF $236,000 FOR BOMB ",
+    "start": 908.591,
+    "duration": 4.105
+  },
+  {
+    "text": "DETECTION SECURITY SERVICES AT ",
+    "start": 911.161,
+    "duration": 3.069
+  },
+  {
+    "text": "TARGET CENTER DURING LARGE ",
+    "start": 912.796,
+    "duration": 1.668
+  },
+  {
+    "text": "EVENTS.",
+    "start": 914.331,
+    "duration": 1.801
+  },
+  {
+    "text": "AND WITH THAT, I'LL STAND FOR ",
+    "start": 914.564,
+    "duration": 2.202
+  },
+  {
+    "text": "ANY QUESTIONS.",
+    "start": 916.232,
+    "duration": 3.904
+  },
+  {
+    "text": ">> THANK YOU, COUNCIL MEMBER ",
+    "start": 916.933,
+    "duration": 3.637
+  },
+  {
+    "text": "WONSLEY.",
+    "start": 920.236,
+    "duration": 2.303
+  },
+  {
+    "text": "THERE ARE NO QUESTIONS, SO ",
+    "start": 920.67,
+    "duration": 3.17
+  },
+  {
+    "text": "LASTLY WE HAVE THE ",
+    "start": 922.639,
+    "duration": 3.77
+  },
+  {
+    "text": "INTERGOVERNMENTAL RELATIONS ",
+    "start": 923.94,
+    "duration": 4.371
+  },
+  {
+    "text": "COMMITTEE WITH THE VICE CHAIR ",
+    "start": 926.509,
+    "duration": 2.503
+  },
+  {
+    "text": "CHOWDHURY.",
+    "start": 928.411,
+    "duration": 2.77
+  },
+  {
+    "text": ">> THANKS, CHAIR CHAVEZ.",
+    "start": 929.312,
+    "duration": 3.37
+  },
+  {
+    "text": "THE INTERGOVERNMENTAL RELATIONS ",
+    "start": 931.281,
+    "duration": 2.836
+  },
+  {
+    "text": "COMMITTEE ISN'T FORWARDING ANY ",
+    "start": 932.782,
+    "duration": 3.27
+  },
+  {
+    "text": "ITEMS TO THE CITY COUNCIL ",
+    "start": 934.217,
+    "duration": 2.736
+  },
+  {
+    "text": "MEETING, WE DID HAVE A LENGTHY ",
+    "start": 936.152,
+    "duration": 2.336
+  },
+  {
+    "text": "PRESENTATION AND DISCUSSION ",
+    "start": 937.053,
+    "duration": 2.436
+  },
+  {
+    "text": "RELATED TO THE BLUE LINE LIGHT ",
+    "start": 938.588,
+    "duration": 2.202
+  },
+  {
+    "text": "RAIL EXTENSION.",
+    "start": 939.589,
+    "duration": 2.603
+  },
+  {
+    "text": "I'LL TAKE THIS OPPORTUNITY TO ",
+    "start": 940.89,
+    "duration": 2.336
+  },
+  {
+    "text": "SHARE THAT CONSIDERATION OF ",
+    "start": 942.292,
+    "duration": 3.437
+  },
+  {
+    "text": "MUNICIPAL CONSENT FOR THIS ",
+    "start": 943.326,
+    "duration": 3.637
+  },
+  {
+    "text": "EXTENSION WILL BE BACK BEFORE ",
+    "start": 945.829,
+    "duration": 2.903
+  },
+  {
+    "text": "THE CLIMATE AND INFRASTRUCTURE ",
+    "start": 947.063,
+    "duration": 4.238
+  },
+  {
+    "text": "COMMITTEE AT ITS NEXT MEETING ",
+    "start": 948.832,
+    "duration": 3.036
+  },
+  {
+    "text": "SCHEDULED FOR THURSDAY, ",
+    "start": 951.401,
+    "duration": 1.335
+  },
+  {
+    "text": "SEPTEMBER 26.",
+    "start": 951.968,
+    "duration": 4.638
+  },
+  {
+    "text": "HAPPY TO STAND FOR ANY ",
+    "start": 952.836,
+    "duration": 4.037
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 956.706,
+    "duration": 1.802
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 957.674,
+    "duration": 1.802
+  },
+  {
+    "text": "THERE ARE NO QUESTIONS.",
+    "start": 958.608,
+    "duration": 2.136
+  },
+  {
+    "text": "ALL RIGHT, MEMBERS.",
+    "start": 959.576,
+    "duration": 2.836
+  },
+  {
+    "text": "SO WITH THAT, WE'VE CONCLUDED ",
+    "start": 960.844,
+    "duration": 3.37
+  },
+  {
+    "text": "ALL BUSINESS TO COME BEFORE THE ",
+    "start": 962.512,
+    "duration": 2.202
+  },
+  {
+    "text": "COMMITTEE TODAY.",
+    "start": 964.314,
+    "duration": 2.235
+  },
+  {
+    "text": "AND HEARING NO OBJECTION, I WILL",
+    "start": 964.814,
+    "duration": 3.47
+  },
+  {
+    "text": "DECLARE THIS MEETING ADJOURNED.",
+    "start": 966.65,
+    "duration": 1.901
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 968.385,
+    "duration": 1.668
+  },
+  {
+    "text": "[GAVEL] ",
+    "start": 968.652,
+    "duration": 2.302
+  },
+  {
+    "text": ".",
+    "start": 970.887,
+    "duration": 0.2
+  },
+  {
+    "text": ".",
+    "start": 971.021,
+    "duration": 0.2
+  },
+  {
+    "text": ".",
+    "start": 971.154,
+    "duration": 26.41
+  },
+  {
+    "text": ".",
+    "start": 971.287,
+    "duration": 26.277
+  }
+]
