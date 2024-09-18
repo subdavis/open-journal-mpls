@@ -6,11 +6,12 @@ from dateutil.parser import parse as date_parse
 from youtube_transcript_api import (
     NoTranscriptAvailable,
     NoTranscriptFound,
-    YouTubeTranscriptApi,
     TranscriptsDisabled,
+    YouTubeTranscriptApi,
 )
 
 from lims_utils.utils import archivePath, load_file, save_file, save_text
+
 
 # This function takes a transcript as a list of objects
 # Described: [{text: 'string', start: float, duration: float}]

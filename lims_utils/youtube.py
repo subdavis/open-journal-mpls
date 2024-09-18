@@ -23,9 +23,7 @@ class YoutubeMatcher:
         self.totalResults = 0
 
     def get_video_transcript(self, video_id):
-        caption_resources = self.client.captions.list(
-            part="snippet", video_id=video_id
-        )
+        caption_resources = self.client.captions.list(part="snippet", video_id=video_id)
         caption_id = None
         for caption in caption_resources.items:
             if caption.snippet.language == "en":

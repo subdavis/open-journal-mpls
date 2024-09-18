@@ -8,7 +8,7 @@ archivePath = Path("archive")
 
 def save_file(filename: Path, data: Union[dict, list]):
     with open(filename, "w+") as f:
-        json.dump(data, f)
+        json.dump(data, f, indent=2)
 
 
 def save_text(filename: Path, text: str):

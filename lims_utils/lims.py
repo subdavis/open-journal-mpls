@@ -1,4 +1,3 @@
-import json
 import os
 from urllib.parse import urljoin
 
@@ -39,7 +38,7 @@ class LimsApi:
             "Name": "Public Health & Safety Committee",
             "Type": "Council",
             "IsCurrent": True
-        }
+        }[]
         """
         url = urljoin(base_url, "/api/v1/referenceList/MeetingBodies")
         resp = self.session.get(url=url)

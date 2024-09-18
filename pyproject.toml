@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-tenacity = "^9.0.0"
 youtube-transcript-api = "^0.6.2"
 python-dateutil = "^2.9.0.post0"
 types-python-dateutil = "^2.9.0.20240821"
@@ -20,6 +19,8 @@ python-youtube = "^0.9.6"
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
 mypy = "^1.11.2"
+isort = "^5.13.2"
+black = "^24.8.0"
 
 [tool.poetry.scripts]
 updateCache = "lims_utils.scripts:updateCache"
@@ -31,3 +32,6 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.mypy]
 ignore_missing_imports = true
+
+[tool.isort]
+profile = "black"

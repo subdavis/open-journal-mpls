@@ -1,11 +1,9 @@
 import random
-from datetime import datetime
+from datetime import datetime, timedelta
 from time import sleep
 from typing import Optional, Tuple
 
-import requests
 from dateutil.parser import parse as date_parse
-from tenacity import retry, stop_after_attempt, wait_fixed, wait_random
 
 from lims_utils.lims import LimsApi
 from lims_utils.utils import archivePath, load_file, save_file
@@ -30,7 +28,9 @@ def load_meeting_cache() -> list:
 
 
 def update_meeting_cache(
-    calendarYear: str, bodiesOfInterest: list
+    calendarYear: str,
+    bodiesOfInterest: list,
+    cutoff: Optional[timedelta] = None,
 ) -> Tuple[list, list]:
     cacheList = load_meeting_cache()
     newMeetings = []
@@ -55,7 +55,10 @@ def update_meeting_cache(
             meetingTime = date_parse(meeting["MeetingDateTime"])
             meeting["VideoTitle"] = video_title(meeting)
             print(f"  Searching for {meeting['VideoTitle']}", end="", flush=True)
-            if meeting["VideoTitle"] in cachedMeetingIdSet:
+            if cutoff and meetingTime < (datetime.now() - cutoff):
+                print(" - Meeting is too old.")
+                break
+            elif meeting["VideoTitle"] in cachedMeetingIdSet:
                 print(" - Cached!")
                 pass
             elif meetingTime < datetime.now():
@@ -69,6 +72,6 @@ def update_meeting_cache(
             else:
                 print(" - Future meeting.")
         save_file(archivePath / meetingCacheFile, cacheList + newMeetings)
-        sleep(4)
+        sleep(random.uniform(6, 8))
 
     return cacheList, newMeetings

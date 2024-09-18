@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 from time import sleep
 
 from dateutil.parser import parse as date_parse
@@ -13,10 +14,13 @@ load_dotenv()
 
 def updateCache():
     bodies = LimsApi().getMeetingBodies().json()
+    # We're only interested in City Council and not other bodies
     bodiesOfInterest = filter(
         lambda x: x["Type"] == "Council" and x["IsCurrent"] is True, bodies
     )
-    update_meeting_cache(2024, bodiesOfInterest)
+    currentYear = datetime.now().year
+    cutoff = timedelta(weeks=8)
+    update_meeting_cache(currentYear, bodiesOfInterest, cutoff)
 
 
 def generate():
