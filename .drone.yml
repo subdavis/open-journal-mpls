@@ -1,3 +1,4 @@
+---
 kind: pipeline
 type: docker
 name: daily-generation-routine
@@ -48,9 +49,3 @@ steps:
       - git add .
       - git commit -m "automated daily generation routine"
       - git push https://oauth2:${GITHUB_TOKEN}@github.com/your-repo/your-project.git
-
-trigger:
-  cron:
-    - 6 21 * * *
-  event:
-    - cron
