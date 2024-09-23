@@ -32,3 +32,10 @@ steps:
       - git add .
       - git commit -m "automated daily generation routine"
       - git push https://subdavis:${GITHUB_TOKEN}@github.com/subdavis/open-journal-mpls.git
+
+trigger:
+  event:
+    - cron
+  cron:
+    - "daily-generation-routine"
+ 
