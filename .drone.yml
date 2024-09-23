@@ -4,11 +4,6 @@ type: docker
 name: daily-generation-routine
 
 steps:
-  - name: checkout
-    image: alpine/git
-    commands:
-      - git clone --recursive https://github.com/your-repo/your-project.git .
-
   - name: install-poetry
     image: python:3
     commands:
