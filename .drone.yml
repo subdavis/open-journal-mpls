@@ -8,29 +8,10 @@ steps:
     image: python:3
     commands:
       - curl -sSL https://install.python-poetry.org | python3 -
+      - export PATH="/root/.local/bin:$PATH"
       - poetry --version
       - poetry install
-
-  - name: run-updateCache
-    image: python:3
-    environment:
-      LIMS_KEY:
-        from_secret: LIMS_KEY
-      YOUTUBE_API_KEY:
-        from_secret: YOUTUBE_API_KEY
-    commands:
       - poetry run updateCache
-
-  - name: run-generate
-    image: python:3
-    environment:
-      ANTHROPIC_KEY:
-        from_secret: ANTHROPIC_KEY
-      LIMS_KEY:
-        from_secret: LIMS_KEY
-      YOUTUBE_API_KEY:
-        from_secret: YOUTUBE_API_KEY
-    commands:
       - poetry run generate
 
   - name: commit-and-push
@@ -43,4 +24,4 @@ steps:
       - git config --global user.email 'drone-ci[bot]@users.noreply.github.com'
       - git add .
       - git commit -m "automated daily generation routine"
-      - git push https://oauth2:${GITHUB_TOKEN}@github.com/your-repo/your-project.git
+      - git push https://subdavis:${GITHUB_TOKEN}@github.com/subdavis/open-journal-mpls.git
