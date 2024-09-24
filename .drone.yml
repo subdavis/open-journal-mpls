@@ -5,7 +5,7 @@ name: daily-generation-routine
 
 steps:
   - name: install-poetry
-    image: python:3
+    image: mwalbeck/python-poetry:latest
     environment:
       ANTHROPIC_KEY:
         from_secret: ANTHROPIC_KEY
@@ -14,8 +14,6 @@ steps:
       YOUTUBE_API_KEY:
         from_secret: YOUTUBE_API_KEY
     commands:
-      - curl -sSL https://install.python-poetry.org | python3 -
-      - export PATH="/root/.local/bin:$PATH"
       - poetry --version
       - poetry install
       - poetry run updateCache
