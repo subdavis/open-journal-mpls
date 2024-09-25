@@ -20,7 +20,7 @@ steps:
       - poetry run generate
 
   - name: commit-and-push
-    image: alpine/git
+    image: bitnami/git
     environment:
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
