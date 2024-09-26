@@ -25,11 +25,12 @@ steps:
       GITHUB_TOKEN:
         from_secret: GITHUB_TOKEN
     commands:
-      - git config --global user.name 'drone-ci[bot]'
-      - git config --global user.email 'drone-ci[bot]@users.noreply.github.com'
+      - git config --global user.name $GIT_COMMITTER_NAME
+      - git config --global user.email $GIT_AUTHOR_EMAIL
       - git add .
       - git commit -m "automated daily generation routine"
-      - git push "https://${GITHUB_TOKEN}@github.com/subdavis/open-journal-mpls.git"
+      - git remote set-url origin "https://$GITHUB_TOKEN@github.com/subdavis/open-journal-mpls.git"
+      - git push --set-upstream origin main
 
 trigger:
   event:
