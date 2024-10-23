@@ -7432,5 +7432,1223 @@
     "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3972/BHZ_09242024_Committee_Report.pdf",
     "VideoTitle": "September 24, 2024 Business, Housing & Zoning Committee",
     "VideoId": "-_HoDd8pkog"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-09-26T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4866",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3973/Budget_09262024_Committee_Report.pdf",
+    "VideoTitle": "September 26, 2024 Budget Committee",
+    "VideoId": "Ls_WfCc_HR0"
+  },
+  {
+    "MeetingBody": "Climate & Infrastructure Committee",
+    "MeetingDateTime": "2024-09-26T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Chair"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/CI/4849",
+    "MinutesPDFURL": null,
+    "VideoTitle": "September 26, 2024 Climate & Infrastructure Committee",
+    "VideoId": "pnWY9hEsF5c"
+  },
+  {
+    "MeetingBody": "Committee of the Whole",
+    "MeetingDateTime": "2024-09-30T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/COW/4871",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3982/COW_09302024_Committee_Report .pdf",
+    "VideoTitle": "September 30, 2024 Committee of the Whole",
+    "VideoId": "TVWvsG5Wuj4"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-09-30T10:00:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4873",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3981/Budget_09302024_Committee_Report.pdf",
+    "VideoTitle": "September 30, 2024 Budget Committee",
+    "VideoId": "76AzlbZdAQg"
+  },
+  {
+    "MeetingBody": "City Council",
+    "MeetingDateTime": "2024-10-02T09:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Vice-President"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "President"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Council/4887",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 2, 2024 Minneapolis City Council",
+    "VideoId": "c4iTouHwkB8"
+  },
+  {
+    "MeetingBody": "Administration & Enterprise Oversight Committee",
+    "MeetingDateTime": "2024-10-07T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/AEO/4888",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 7, 2024 Administration & Enterprise Oversight Committee",
+    "VideoId": "-3K9Te3ON6A"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-07T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4893",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3987/Budget_10072024_Committee_Report.pdf",
+    "VideoTitle": "October 7, 2024 Budget Committee",
+    "VideoId": "zbF5LKd93WE"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-08T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4897",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3989/Budget_10082024_Committee_Report.pdf",
+    "VideoTitle": "October 8, 2024 Budget Committee",
+    "VideoId": "sC-335BKZEI"
+  },
+  {
+    "MeetingBody": "Business, Housing & Zoning Committee",
+    "MeetingDateTime": "2024-10-08T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/BHZ/4885",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 8, 2024 Business, Housing & Zoning Committee",
+    "VideoId": "mn-9pXDvBCk"
+  },
+  {
+    "MeetingBody": "Public Health & Safety Committee",
+    "MeetingDateTime": "2024-10-09T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/PHS/4890",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 9, 2024 Public Health & Safety Committee",
+    "VideoId": "62u1RNwj8pA"
+  },
+  {
+    "MeetingBody": "Climate & Infrastructure Committee",
+    "MeetingDateTime": "2024-10-10T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Chair"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/CI/4886",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 10, 2024 Climate & Infrastructure Committee",
+    "VideoId": "1FqE7KYy2gs"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-11T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4898",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/3997/Budget_10112024_Committee_Report.pdf",
+    "VideoTitle": "October 11, 2024 Budget Committee",
+    "VideoId": "v0ZQP3Mw8gg"
+  },
+  {
+    "MeetingBody": "Committee of the Whole",
+    "MeetingDateTime": "2024-10-15T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/COW/4899",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 15, 2024 Committee of the Whole",
+    "VideoId": "noOOQ4q9n6M"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-15T10:00:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4901",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4004/Budget_10152024_Committee_Report.pdf",
+    "VideoTitle": "October 15, 2024 Budget Committee",
+    "VideoId": "DThG__2eqiA"
+  },
+  {
+    "MeetingBody": "City Council",
+    "MeetingDateTime": "2024-10-17T09:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Vice-President"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "President"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Council/4913",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 17, 2024 Minneapolis City Council",
+    "VideoId": "cL2Zvoh9FBM"
+  },
+  {
+    "MeetingBody": "Administration & Enterprise Oversight Committee",
+    "MeetingDateTime": "2024-10-21T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/AEO/4912",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 21, 2024 Administration & Enterprise Oversight Committee",
+    "VideoId": "4_lRkMcTd6M"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-21T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4916",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4010/Budget_10212024_Committee_Report.pdf",
+    "VideoTitle": "October 21, 2024 Budget Committee",
+    "VideoId": "paw_LGh_rGw"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-22T10:00:00",
+    "MeetingType": "Adjourned",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4917",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4012/Budget_10222024_Committee_Report.pdf",
+    "VideoTitle": "October 22, 2024 Budget Committee",
+    "VideoId": "B_PFQIKvoK8"
+  },
+  {
+    "MeetingBody": "Business, Housing & Zoning Committee",
+    "MeetingDateTime": "2024-10-22T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/BHZ/4906",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 22, 2024 Business, Housing & Zoning Committee",
+    "VideoId": "Z3G0RbQNWdY"
   }
 ]
