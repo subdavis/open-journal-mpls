@@ -8811,5 +8811,82 @@
     "MinutesPDFURL": null,
     "VideoTitle": "October 24, 2024 Climate & Infrastructure Committee",
     "VideoId": "m-PYqOr0g5s"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2024-10-28T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/4928",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4026/Budget_10282024_Committee_Report.pdf",
+    "VideoTitle": "October 28, 2024 Budget Committee",
+    "VideoId": "I3BBux_MktI"
   }
 ]
