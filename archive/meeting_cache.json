@@ -8888,5 +8888,159 @@
     "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4026/Budget_10282024_Committee_Report.pdf",
     "VideoTitle": "October 28, 2024 Budget Committee",
     "VideoId": "I3BBux_MktI"
+  },
+  {
+    "MeetingBody": "Committee of the Whole",
+    "MeetingDateTime": "2024-10-29T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/COW/4925",
+    "MinutesPDFURL": null,
+    "VideoTitle": "October 29, 2024 Committee of the Whole",
+    "VideoId": "B-i5fqNeLTw"
+  },
+  {
+    "MeetingBody": "Intergovernmental Relations Committee",
+    "MeetingDateTime": "2024-10-29T10:00:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/IGR/4930",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4028/IGR_10292024_Committee_Report.pdf",
+    "VideoTitle": "October 29, 2024 Intergovernmental Relations Committee",
+    "VideoId": "Geash4xKxd4"
   }
 ]

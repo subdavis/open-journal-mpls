@@ -1,0 +1,5547 @@
+[
+  {
+    "text": ">> [GAVEL] ",
+    "start": 22.789,
+    "duration": 1.735
+  },
+  {
+    "text": ">> GOOD AFTERNOON.",
+    "start": 24.057,
+    "duration": 1.835
+  },
+  {
+    "text": "MY NAME IS AISHA CHUGHTAI AND ",
+    "start": 24.624,
+    "duration": 2.202
+  },
+  {
+    "text": "I'M THE CHAIR OF THE BUDGET ",
+    "start": 25.992,
+    "duration": 1.101
+  },
+  {
+    "text": "COMMITTEE.",
+    "start": 26.926,
+    "duration": 3.404
+  },
+  {
+    "text": "I'M GOING TO CALL TO ORDER OUR ",
+    "start": 27.193,
+    "duration": 4.538
+  },
+  {
+    "text": "REGULAR MEETING FOR MONDAY, ",
+    "start": 30.43,
+    "duration": 2.402
+  },
+  {
+    "text": "OCTOBER 28, 2024.",
+    "start": 31.831,
+    "duration": 2.57
+  },
+  {
+    "text": "BEFORE WE BEGIN THE MEETING I ",
+    "start": 32.932,
+    "duration": 3.037
+  },
+  {
+    "text": "WANT TO OFFER A FRIENDLY ",
+    "start": 34.501,
+    "duration": 3.403
+  },
+  {
+    "text": "REMINDER TO ALL MEMBERS, STAFF, ",
+    "start": 36.069,
+    "duration": 2.736
+  },
+  {
+    "text": "AND THE PUBLIC THAT THESE ",
+    "start": 38.004,
+    "duration": 2.002
+  },
+  {
+    "text": "MEETINGS ARE BROADCAST LIVE TO ",
+    "start": 38.905,
+    "duration": 2.903
+  },
+  {
+    "text": "ENABLE GREATER PUBLIC ",
+    "start": 40.106,
+    "duration": 2.069
+  },
+  {
+    "text": "PARTICIPATION.",
+    "start": 41.908,
+    "duration": 2.069
+  },
+  {
+    "text": "THESE BROADCASTS INCLUDE ",
+    "start": 42.275,
+    "duration": 3.003
+  },
+  {
+    "text": "REALTIME CAPTIONING AS A FURTHER",
+    "start": 44.077,
+    "duration": 2.402
+  },
+  {
+    "text": "METHOD TO INCREASE THE ",
+    "start": 45.378,
+    "duration": 3.737
+  },
+  {
+    "text": "ACCESSIBILITY OF OUR PROCEEDINGS",
+    "start": 46.579,
+    "duration": 3.037
+  },
+  {
+    "text": "TO THE COMMUNITY.",
+    "start": 49.215,
+    "duration": 1.902
+  },
+  {
+    "text": "THEREFORE, ALL SPEAKERS NEED TO ",
+    "start": 49.716,
+    "duration": 3.036
+  },
+  {
+    "text": "BE MINDFUL OF THE RATE OFHEIR ",
+    "start": 51.217,
+    "duration": 3.17
+  },
+  {
+    "text": "SPEECH SO THAT OUR CAPTIONERS ",
+    "start": 52.852,
+    "duration": 4.038
+  },
+  {
+    "text": "CAN FULLY CAPTURE AND TRANSCRIBE",
+    "start": 54.487,
+    "duration": 3.17
+  },
+  {
+    "text": "ALL COMMENTS FOR THE BROADCAST.",
+    "start": 56.99,
+    "duration": 4.204
+  },
+  {
+    "text": "WE ASK ALL SPEAKERS TO MODERATE ",
+    "start": 57.757,
+    "duration": 4.738
+  },
+  {
+    "text": "THE SPEED AND CLARITY OF THEIR ",
+    "start": 61.294,
+    "duration": 1.835
+  },
+  {
+    "text": "COMMENTS.",
+    "start": 62.595,
+    "duration": 1.202
+  },
+  {
+    "text": "AT THIS TIME I'LL ASK THE CLERK ",
+    "start": 63.229,
+    "duration": 2.269
+  },
+  {
+    "text": "TO CALL THE ROLL SO WE CAN ",
+    "start": 64.197,
+    "duration": 5.839
+  },
+  {
+    "text": "VERIFY THE PRESENCE OF A QUORUM.",
+    "start": 65.598,
+    "duration": 5.106
+  },
+  {
+    "text": ">> COUNCIL MEMBER PAYNE, ",
+    "start": 70.136,
+    "duration": 1.202
+  },
+  {
+    "text": "PRESENT.",
+    "start": 70.804,
+    "duration": 2.168
+  },
+  {
+    "text": ">> WONSLEY, PRESE.",
+    "start": 71.938,
+    "duration": 2.903
+  },
+  {
+    "text": ">> RAINVILLE, PRESENT.",
+    "start": 73.807,
+    "duration": 6.039
+  },
+  {
+    "text": ">> VETAW, PRESENT.",
+    "start": 75.308,
+    "duration": 10.644
+  },
+  {
+    "text": ">> ELLISON.",
+    "start": 80.313,
+    "duration": 9.276
+  },
+  {
+    "text": "OSMAN.",
+    "start": 86.052,
+    "duration": 4.672
+  },
+  {
+    "text": "CASHMAN.",
+    "start": 89.689,
+    "duration": 1.268
+  },
+  {
+    "text": "JEINS.",
+    "start": 90.857,
+    "duration": 2.736
+  },
+  {
+    "text": "CHAVEZ, PRESENT.",
+    "start": 91.057,
+    "duration": 5.239
+  },
+  {
+    "text": ">> CHOWDHURY, PRESENT.",
+    "start": 93.96,
+    "duration": 4.438
+  },
+  {
+    "text": ">> PALMISANO, PRESENT.",
+    "start": 96.68,
+    "duration": 3.72
+  },
+  {
+    "text": ">> VICE CHAIR KOSKI, PRESENT.",
+    "start": 99.165,
+    "duration": 4.071
+  },
+  {
+    "text": ">> CHAIR CHUGHTAI, PRESENT.",
+    "start": 100.6,
+    "duration": 3.771
+  },
+  {
+    "text": ">> THERE ARE NE MEMBERS ",
+    "start": 103.403,
+    "duration": 1.368
+  },
+  {
+    "text": "PRESENT.",
+    "start": 104.471,
+    "duration": 3.37
+  },
+  {
+    "text": ">> LET THE RECORD REFLECT THAT ",
+    "start": 105.038,
+    "duration": 4.204
+  },
+  {
+    "text": " HAVE A QUORUM.",
+    "start": 107.974,
+    "duration": 2.836
+  },
+  {
+    "text": "I'LL ALSO REMIND MY COLLEAGUES ",
+    "start": 109.342,
+    "duration": 2.803
+  },
+  {
+    "text": "THAT WE WILL BE USING SPEAKER ",
+    "start": 110.91,
+    "duration": 2.436
+  },
+  {
+    "text": "MANAGEMENT TODAY, SO PLEASE MAKE",
+    "start": 112.245,
+    "duration": 7.074
+  },
+  {
+    "text": "SURE TO SIGN IN.",
+    "start": 113.446,
+    "duration": 8.976
+  },
+  {
+    "text": "WE HAVE ONE IM ON OUR CONSENT ",
+    "start": 119.419,
+    "duration": 4.671
+  },
+  {
+    "text": "AGENDA TODAY ALONG WITH THREE ",
+    "start": 122.522,
+    "duration": 2.536
+  },
+  {
+    "text": "DISCUSSION ITEMS.",
+    "start": 124.19,
+    "duration": 2.97
+  },
+  {
+    "text": "WE'LL START BUT TAKING UP OUR ",
+    "start": 125.158,
+    "duration": 3.67
+  },
+  {
+    "text": "CONSENT AGENDA WHICH IS ",
+    "start": 127.26,
+    "duration": 2.503
+  },
+  {
+    "text": "APPOINTMENTS TO THE CAPITAL LONG",
+    "start": 128.928,
+    "duration": 2.203
+  },
+  {
+    "text": "RANGE IMPROVEMENT COMMITTEE.",
+    "start": 129.863,
+    "duration": 4.004
+  },
+  {
+    "text": "ARE THERE ANY QUESTIONS FROM ",
+    "start": 131.231,
+    "duration": 6.072
+  },
+  {
+    "text": "MEMBERS OF THE COMMITTEE RELATED",
+    "start": 133.967,
+    "duration": 4.838
+  },
+  {
+    "text": "TO THE APPOINTMENTS?",
+    "start": 137.404,
+    "duration": 5.138
+  },
+  {
+    "text": "AWE CLERKS, DO WE HAVE SPEAKER ",
+    "start": 138.905,
+    "duration": 5.806
+  },
+  {
+    "text": "MANAGEMENT SET UP?  JUST ",
+    "start": 142.642,
+    "duration": 2.302
+  },
+  {
+    "text": "STARTED.",
+    "start": 144.811,
+    "duration": 2.169
+  },
+  {
+    "text": "ALL RIGHT.",
+    "start": 145.045,
+    "duration": 3.303
+  },
+  {
+    "text": "ARE THERE ANY QUESTIONS?  ",
+    "start": 147.08,
+    "duration": 2.603
+  },
+  {
+    "text": "WONDERFUL.",
+    "start": 148.448,
+    "duration": 3.337
+  },
+  {
+    "text": "I WILL FIRST RECOGNIZE COUNCIL ",
+    "start": 149.783,
+    "duration": 2.669
+  },
+  {
+    "text": "MEMBER WONSLEY.",
+    "start": 151.885,
+    "duration": 3.603
+  },
+  {
+    "text": ">> NO QUESTIONS.",
+    "start": 152.552,
+    "duration": 5.906
+  },
+  {
+    "text": "JUST WANTED TO THANK MY ",
+    "start": 155.588,
+    "duration": 5.072
+  },
+  {
+    "text": "APPOINTEE FOR JOINING ON TO THIS",
+    "start": 158.558,
+    "duration": 3.504
+  },
+  {
+    "text": "PRETTY AWESOME BOARD.",
+    "start": 160.76,
+    "duration": 3.537
+  },
+  {
+    "text": "THIS IS THE CLOSEST THING THAT ",
+    "start": 162.162,
+    "duration": 6.506
+  },
+  {
+    "text": "WE HAVE TO PARTICIPATING ",
+    "start": 164.397,
+    "duration": 5.239
+  },
+  {
+    "text": "BUDGETING, AND I AM GLAD WARD 2 ",
+    "start": 168.768,
+    "duration": 2.77
+  },
+  {
+    "text": "HAS A REPRESENTATIVE TO HELP US ",
+    "start": 169.736,
+    "duration": 4.571
+  },
+  {
+    "text": "FIGURE OUT H WE'RE MAKING ",
+    "start": 171.638,
+    "duration": 6.306
+  },
+  {
+    "text": "SOUND DECISIONS AS WE APPROACH ",
+    "start": 174.407,
+    "duration": 6.006
+  },
+  {
+    "text": "OUR LARGE LONG-TERM DECISIONS.",
+    "start": 178.044,
+    "duration": 4.638
+  },
+  {
+    "text": "JU WANTED TO GIVE A SHOUTOUT ",
+    "start": 180.547,
+    "duration": 2.702
+  },
+  {
+    "text": "TO MATT.",
+    "start": 182.782,
+    "duration": 4.939
+  },
+  {
+    "text": ">> THANK YOU SO MUCH.ANY OTHER  ",
+    "start": 183.85,
+    "duration": 4.138
+  },
+  {
+    "text": "COMMENTS?",
+    "start": 187.821,
+    "duration": 1.468
+  },
+  {
+    "text": "COUNCIL PRESIDENT PAYNE.",
+    "start": 188.088,
+    "duration": 2.802
+  },
+  {
+    "text": ">> THANK YOU, MADAM PRESIDENT.",
+    "start": 189.389,
+    "duration": 3.57
+  },
+  {
+    "text": "I AM RE-APPOINTING MY TWO ",
+    "start": 190.991,
+    "duration": 5.038
+  },
+  {
+    "text": "APPOINTEES AND I AM HAPPY TO SEE",
+    "start": 193.059,
+    "duration": 4.471
+  },
+  {
+    "text": "THEM CONTINUE ON IN AN IMPORTANT",
+    "start": 196.129,
+    "duration": 1.768
+  },
+  {
+    "text": "LE.",
+    "start": 197.664,
+    "duration": 1.802
+  },
+  {
+    "text": ">> WONDERFUL, THANK YOU.",
+    "start": 198.198,
+    "duration": 3.87
+  },
+  {
+    "text": "NOT SEEING FURTHER QUESTIONS OR ",
+    "start": 199.549,
+    "duration": 4.354
+  },
+  {
+    "text": "DISCUSSIONS, SO WITH THAT, LET'S",
+    "start": 202.168,
+    "duration": 5.139
+  },
+  {
+    "text": "DO A VOICE VOTE ON THIS ITEM.",
+    "start": 204.004,
+    "duration": 6.706
+  },
+  {
+    "text": "ALL THOSE IN FAVOR PLEASE ",
+    "start": 207.407,
+    "duration": 5.138
+  },
+  {
+    "text": "SIGNIFY BY SAYING AYE.",
+    "start": 210.81,
+    "duration": 3.804
+  },
+  {
+    "text": "THOSE OPPOSED SAY NAY.",
+    "start": 212.645,
+    "duration": 4.004
+  },
+  {
+    "text": "E THERE ANY ABSTENTIONS?  THE ",
+    "start": 214.748,
+    "duration": 5.839
+  },
+  {
+    "text": "AYES HAVE IT AND THAT MOTION ",
+    "start": 216.75,
+    "duration": 4.104
+  },
+  {
+    "text": "CARRIES.",
+    "start": 220.687,
+    "duration": 2.569
+  },
+  {
+    "text": "OUR NEXT ITEM IS THE PASSAGE OF ",
+    "start": 220.954,
+    "duration": 5.038
+  },
+  {
+    "text": "ORDINANCE RELATED TO THE ",
+    "start": 223.356,
+    "duration": 3.804
+  },
+  {
+    "text": "APPOINTED POSITION OF DIRECTOR ",
+    "start": 226.092,
+    "duration": 2.136
+  },
+  {
+    "text": "OF ADMINISTRATION IN THE CITY ",
+    "start": 227.694,
+    "duration": 1.168
+  },
+  {
+    "text": "ATTORNEY'S OFFICE.",
+    "start": 228.328,
+    "duration": 2.936
+  },
+  {
+    "text": "FOR THAT I WILL INVITE BRENDA ",
+    "start": 228.962,
+    "duration": 3.87
+  },
+  {
+    "text": "MILLER FROM THE HUMAN RESOURCES ",
+    "start": 231.364,
+    "duration": 2.436
+  },
+  {
+    "text": "TO BEGIN THAT PRESENTATION, AND ",
+    "start": 232.932,
+    "duration": 3.137
+  },
+  {
+    "text": "THEN WE'LL BE JOINED BY CITY ",
+    "start": 233.9,
+    "duration": 4.605
+  },
+  {
+    "text": "ATTORNEY ANDERSON.",
+    "start": 236.169,
+    "duration": 3.37
+  },
+  {
+    "text": ">> GOOD MORNING OR GOOD ",
+    "start": 239.139,
+    "duration": 2.002
+  },
+  {
+    "text": "AFTERNOON, CHAIR CHUGHTAI AND ",
+    "start": 239.639,
+    "duration": 2.036
+  },
+  {
+    "text": "MEMBERS OF THE COMMITTEE.",
+    "start": 241.241,
+    "duration": 1.902
+  },
+  {
+    "text": "I AM BRINGING FORWARD TWO ",
+    "start": 241.775,
+    "duration": 3.069
+  },
+  {
+    "text": "APPOINTED POSITIONS TODAY FOR ",
+    "start": 243.243,
+    "duration": 2.269
+  },
+  {
+    "text": "YOUR CONSIDERATION.",
+    "start": 244.944,
+    "duration": 3.337
+  },
+  {
+    "text": "AS MENTIONED, THE FIRST POSITION",
+    "start": 245.612,
+    "duration": 3.937
+  },
+  {
+    "text": "IS THE DIRECTOR ADMINISTRATION ",
+    "start": 248.381,
+    "duration": 2.336
+  },
+  {
+    "text": "IN THE CITY ATTORNEY'S OFFICE.",
+    "start": 249.649,
+    "duration": 2.67
+  },
+  {
+    "text": "THIS POSITION IS PART OF THE ",
+    "start": 250.817,
+    "duration": 3.47
+  },
+  {
+    "text": "CITY ATTORNEY'S OFFICE AND ",
+    "start": 252.419,
+    "duration": 2.636
+  },
+  {
+    "text": "MANAGES THE ADMINISTRATION ",
+    "start": 254.387,
+    "duration": 2.569
+  },
+  {
+    "text": "FUNCTION OF THE CITY ATTORNEY'S ",
+    "start": 255.155,
+    "duration": 2.602
+  },
+  {
+    "text": "OFFICE.",
+    "start": 257.057,
+    "duration": 1.968
+  },
+  {
+    "text": "THE DIRECTOR OF ADMINISTRATION ",
+    "start": 257.857,
+    "duration": 3.938
+  },
+  {
+    "text": "HAS BEEN EVALUATED AT 513 ",
+    "start": 259.125,
+    "duration": 4.138
+  },
+  {
+    "text": "POINTS, GRADE 11.",
+    "start": 261.895,
+    "duration": 6.773
+  },
+  {
+    "text": "THE SALARY SCHEDULE FOR 2024 ",
+    "start": 263.363,
+    "duration": 5.872
+  },
+  {
+    "text": "RANGES FROM $111,000 TO ",
+    "start": 268.768,
+    "duration": 0.834
+  },
+  {
+    "text": "$132,000.",
+    "start": 269.336,
+    "duration": 2.969
+  },
+  {
+    "text": "IN 2024 AND 2025, THE COST WILL ",
+    "start": 270.07,
+    "duration": 4.804
+  },
+  {
+    "text": "BE OFFSET BY FUNDS FROM THE ",
+    "start": 272.939,
+    "duration": 3.637
+  },
+  {
+    "text": "NONPERSONNEL BUDGET.",
+    "start": 274.974,
+    "duration": 4.605
+  },
+  {
+    "text": "IN 2026 THE C.A.O. WILL MAKE AN ",
+    "start": 276.676,
+    "duration": 5.739
+  },
+  {
+    "text": "ONGOING CUT TO THE NONPERSONNEL ",
+    "start": 279.679,
+    "duration": 4.071
+  },
+  {
+    "text": "BUDGET TO OFFSETHE DIFFERENT, ",
+    "start": 282.515,
+    "duration": 2.369
+  },
+  {
+    "text": "AND THE CHANGES ARE EFFECTIVE ",
+    "start": 283.85,
+    "duration": 2.936
+  },
+  {
+    "text": "OCTOBER 31, 2024.",
+    "start": 284.985,
+    "duration": 4.738
+  },
+  {
+    "text": "THIS POSION MEETS THE CRITERIA",
+    "start": 286.886,
+    "duration": 5.172
+  },
+  {
+    "text": "OF SECTION 2010.10 OF THE MINES ",
+    "start": 289.823,
+    "duration": 3.436
+  },
+  {
+    "text": "ANY CODE OF ORDINANCES FOR ",
+    "start": 292.158,
+    "duration": 1.735
+  },
+  {
+    "text": "APPOINTED POSITIONS.",
+    "start": 293.36,
+    "duration": 3.536
+  },
+  {
+    "text": "IT REPORTS TO THE CITY TORNEY.",
+    "start": 295.161,
+    "duration": 3.771
+  },
+  {
+    "text": "IT'S A MEMBER OF THE CITY ",
+    "start": 296.997,
+    "duration": 3.069
+  },
+  {
+    "text": "ATTORNEY'S OFFICE EXECUTIVE ",
+    "start": 299.032,
+    "duration": 1.768
+  },
+  {
+    "text": "MANAGEMENT TEAM.",
+    "start": 300.166,
+    "duration": 1.702
+  },
+  {
+    "text": "IT PARTICIPATES IN THE ",
+    "start": 301.368,
+    "duration": 1.835
+  },
+  {
+    "text": "DEVELOPMENT AND IMPLEMENTATION ",
+    "start": 301.968,
+    "duration": 4.538
+  },
+  {
+    "text": "OF CITY POLICIES, GOALS AND ",
+    "start": 303.303,
+    "duration": 4.304
+  },
+  {
+    "text": "STRATEGIC PLANNING FOR THE CITY ",
+    "start": 306.606,
+    "duration": 1.435
+  },
+  {
+    "text": "ATTORNEY'S OFFICE.",
+    "start": 307.707,
+    "duration": 2.069
+  },
+  {
+    "text": "IT REQUIRES LEADERSHIP, VISION, ",
+    "start": 308.375,
+    "duration": 6.172
+  },
+  {
+    "text": "TEAM BIDDING AND STRATEGY ",
+    "start": 309.876,
+    "duration": 5.038
+  },
+  {
+    "text": "IMPLEMENTATION.",
+    "start": 314.647,
+    "duration": 2.636
+  },
+  {
+    "text": "AND FINALLY, ESTABLISHES ",
+    "start": 315.015,
+    "duration": 4.437
+  },
+  {
+    "text": "POLICIES, GOALS, AND STRATEGIES ",
+    "start": 317.384,
+    "duration": 4.271
+  },
+  {
+    "text": "ESTABLISHED BY THE MAYOR, CITY ",
+    "start": 319.552,
+    "duration": 3.037
+  },
+  {
+    "text": "COUNCIL, AND CITY ATTORNEY.",
+    "start": 321.755,
+    "duration": 3.236
+  },
+  {
+    "text": "PLEASE FIND THAT THE DIRECTOR OF",
+    "start": 322.689,
+    "duration": 4.237
+  },
+  {
+    "text": "ADMINISTRATION C.A.O. MEETS THE ",
+    "start": 325.091,
+    "duration": 3.837
+  },
+  {
+    "text": "APPOINTED CRITERIA AS DEFINED IN",
+    "start": 327.027,
+    "duration": 3.753
+  },
+  {
+    "text": "SECTION 2010.10 OF THE ",
+    "start": 329.029,
+    "duration": 3.119
+  },
+  {
+    "text": "MINNEAPOLIS CODE OF ORDINANCES ",
+    "start": 330.88,
+    "duration": 5.272
+  },
+  {
+    "text": "AND FORWARDED ON COUNCIL FOR ",
+    "start": 332.248,
+    "duration": 4.238
+  },
+  {
+    "text": "APPROVAL.",
+    "start": 336.252,
+    "duration": 4.071
+  },
+  {
+    "text": ">> THANK YOU FOR THAT ",
+    "start": 337.253,
+    "duration": 4.105
+  },
+  {
+    "text": "PRESENTATION, MS. MILLER.",
+    "start": 340.423,
+    "duration": 2.803
+  },
+  {
+    "text": "I WILL INVITE CITY ATTORNEY ",
+    "start": 341.458,
+    "duration": 3.703
+  },
+  {
+    "text": "ANDERSON TO JOIN US AND SPEAK TO",
+    "start": 343.326,
+    "duration": 3.437
+  },
+  {
+    "text": "THE CONTEXT FOR THIS POSITION.",
+    "start": 345.261,
+    "duration": 3.237
+  },
+  {
+    "text": "WELCOME, CITY ATTORNEY.",
+    "start": 346.863,
+    "duration": 3.537
+  },
+  {
+    "text": ">> COUNCIL VICE PRESIDENT, ",
+    "start": 348.598,
+    "duration": 2.536
+  },
+  {
+    "text": "COUNCIL MEMBERS, THANK YOU VERY ",
+    "start": 350.5,
+    "duration": 2.436
+  },
+  {
+    "text": "MUCH FOR HEARING THIS REQUEST.",
+    "start": 351.234,
+    "duration": 3.003
+  },
+  {
+    "text": "SO THIS IS ACTUALLY AN EXISTING ",
+    "start": 353.036,
+    "duration": 2.302
+  },
+  {
+    "text": "POSITION THAT'S IN THE ",
+    "start": 354.337,
+    "duration": 2.603
+  },
+  {
+    "text": "CLASSIFIED SERVICE.",
+    "start": 355.438,
+    "duration": 4.371
+  },
+  {
+    "text": "IT'S THE OPERATIONS MANAGER.",
+    "start": 357.04,
+    "duration": 5.372
+  },
+  {
+    "text": "AN IT'S BASICALLY CONVERTING ",
+    "start": 359.943,
+    "duration": 4.538
+  },
+  {
+    "text": "FROM A CLASSIFIED POSITION TO AN",
+    "start": 362.512,
+    "duration": 4.471
+  },
+  {
+    "text": "UNCLASSIFIED POSITION TO REALLY ",
+    "start": 364.581,
+    "duration": 5.705
+  },
+  {
+    "text": "RECOGNIZE THATHE INCREASED ",
+    "start": 367.083,
+    "duration": 4.939
+  },
+  {
+    "text": "RESPONSIBILITY AND ROLE FOR THIS",
+    "start": 370.387,
+    "duration": 3.77
+  },
+  {
+    "text": "POSITION WITHIN MY OFFICE, IT IS",
+    "start": 372.122,
+    "duration": 5.639
+  },
+  {
+    "text": "A ROLE THAT IS TRULY PART OF THE",
+    "start": 374.624,
+    "duration": 4.371
+  },
+  {
+    "text": "MANAGEMENT TEAM AND IS ESSENTIAL",
+    "start": 377.861,
+    "duration": 5.038
+  },
+  {
+    "text": "TO HELP SET THE STRATEGY OF THE ",
+    "start": 379.796,
+    "duration": 4.204
+  },
+  {
+    "text": "INTERNAL WORKINGS OF THE CITY ",
+    "start": 382.999,
+    "duration": 1.602
+  },
+  {
+    "text": "ATTORNEY'S OFFICE.",
+    "start": 384.1,
+    "duration": 2.069
+  },
+  {
+    "text": "SO AGAIN, IT IS NOT CREATING A ",
+    "start": 384.834,
+    "duration": 2.002
+  },
+  {
+    "text": "NEW POSITION.",
+    "start": 386.269,
+    "duration": 3.27
+  },
+  {
+    "text": "IT'S JUST CONVERTING AN EXISTING",
+    "start": 386.936,
+    "duration": 4.371
+  },
+  {
+    "text": "POSITION WITH AN INCUMBENT INTO ",
+    "start": 389.639,
+    "duration": 5.572
+  },
+  {
+    "text": "THE UNCLASSIFIEDSERVICE.",
+    "start": 391.408,
+    "duration": 4.738
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 395.278,
+    "duration": 1.769
+  },
+  {
+    "text": "COLLEAGUES, ARE THERE ANY ",
+    "start": 396.246,
+    "duration": 2.602
+  },
+  {
+    "text": "QUESTIONS OR DISCUSSION RELATED ",
+    "start": 397.147,
+    "duration": 3.703
+  },
+  {
+    "text": "TO THIS ITEM?  I'LL FIRST ",
+    "start": 398.948,
+    "duration": 2.87
+  },
+  {
+    "text": "RECOGNIZE COUNCIL MEMBER ",
+    "start": 400.95,
+    "duration": 1.202
+  },
+  {
+    "text": "WONSLEY.",
+    "start": 401.918,
+    "duration": 2.102
+  },
+  {
+    "text": ">> THANK YOU,HAIR CHUGHTAI.",
+    "start": 402.285,
+    "duration": 4.171
+  },
+  {
+    "text": "I DID HAVE A CLARIFYING QUESTION",
+    "start": 404.12,
+    "duration": 3.671
+  },
+  {
+    "text": "IN REGARDSO YOU MENTIONING ",
+    "start": 406.756,
+    "duration": 3.27
+  },
+  {
+    "text": "THIS IS NOT A NEW POSITION.",
+    "start": 407.891,
+    "duration": 4.971
+  },
+  {
+    "text": "WILL THISASICALLY OVERSEE ",
+    "start": 410.126,
+    "duration": 5.339
+  },
+  {
+    "text": "EXISTING POSITION THAT WAS ",
+    "start": 412.962,
+    "duration": 4.205
+  },
+  {
+    "text": "INCLUDED IN YOUR DEPARTMENT ",
+    "start": 415.565,
+    "duration": 2.603
+  },
+  {
+    "text": "BUDGET PRESENTATION WHERE YOU ",
+    "start": 417.267,
+    "duration": 3.904
+  },
+  {
+    "text": "ALSO LIST YOU HAVE A MANAGING --",
+    "start": 418.268,
+    "duration": 4.071
+  },
+  {
+    "text": "SORRY, MANAGER OF ",
+    "start": 421.271,
+    "duration": 2.202
+  },
+  {
+    "text": "ADMINISTRATION?  SO WILL THIS ",
+    "start": 422.439,
+    "duration": 3.37
+  },
+  {
+    "text": "DIRECTOR POSITION OVSEE THAT, ",
+    "start": 423.573,
+    "duration": 3.704
+  },
+  {
+    "text": "OR WILL IT -- ESSENTIALLY, YEAH,",
+    "start": 426.042,
+    "duration": 3.37
+  },
+  {
+    "text": "WHAT WILL BE THE STATUS OF THAT ",
+    "start": 427.377,
+    "duration": 2.469
+  },
+  {
+    "text": "POSITION?  ",
+    "start": 429.512,
+    "duration": 1.435
+  },
+  {
+    "text": ">> COUNCIL VICE PRESIDENT, ",
+    "start": 430.347,
+    "duration": 1.968
+  },
+  {
+    "text": "COUNCIL MEMBER WONSLEY, THIS ",
+    "start": 431.047,
+    "duration": 3.971
+  },
+  {
+    "text": "POSITION REPLACES THAT POSITION,",
+    "start": 432.415,
+    "duration": 5.272
+  },
+  {
+    "text": "SO AGAIN, IT IS A POSITION WITH ",
+    "start": 435.685,
+    "duration": 3.704
+  },
+  {
+    "text": "AN INCUMBENT, AND IT IS JUST ",
+    "start": 437.921,
+    "duration": 2.369
+  },
+  {
+    "text": "CONVERTING THAT SAME POSITION ",
+    "start": 439.489,
+    "duration": 2.436
+  },
+  {
+    "text": "INTO THE UNCLASSIFIED SERVICE, ",
+    "start": 440.39,
+    "duration": 2.769
+  },
+  {
+    "text": "AND THEN THE OLD POSITION GOES ",
+    "start": 442.025,
+    "duration": 1.535
+  },
+  {
+    "text": "AWAY.",
+    "start": 443.259,
+    "duration": 1.302
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 443.96,
+    "duration": 2.703
+  },
+  {
+    "text": "SO IT'S JUST THE DIFRENCE OF ",
+    "start": 444.661,
+    "duration": 2.369
+  },
+  {
+    "text": "FRAMING.",
+    "start": 446.763,
+    "duration": 1.735
+  },
+  {
+    "text": "YOU MENTIONED OPERATIONAL ",
+    "start": 447.13,
+    "duration": 1.602
+  },
+  {
+    "text": "MANAGER.",
+    "start": 448.598,
+    "duration": 2.236
+  },
+  {
+    "text": "THIS SAYS MANAGER OF ",
+    "start": 448.832,
+    "duration": 3.136
+  },
+  {
+    "text": "ADMINISTRATION, BUT IT'S ",
+    "start": 450.934,
+    "duration": 1.702
+  },
+  {
+    "text": "REPLACING.",
+    "start": 452.068,
+    "duration": 1.335
+  },
+  {
+    "text": "OKAY, THANK YOU.",
+    "start": 452.736,
+    "duration": 2.569
+  },
+  {
+    "text": ">> THANK YOU.ARE THERE ANY OTHER",
+    "start": 453.503,
+    "duration": 5.138
+  },
+  {
+    "text": "DISCUSSION?  ",
+    "start": 455.405,
+    "duration": 5.005
+  },
+  {
+    "text": "I'M NOT SEEING ANY.",
+    "start": 458.742,
+    "duration": 4.104
+  },
+  {
+    "text": "I WILL NOTE THAT WE'VE BEEN ",
+    "start": 460.677,
+    "duration": 3.804
+  },
+  {
+    "text": "JOINED IN THE COMMITTEE MEETING ",
+    "start": 462.946,
+    "duration": 4.905
+  },
+  {
+    "text": "BY COUNCIL MEMBER JENKINS.",
+    "start": 466.85,
+    "duration": 2.702
+  },
+  {
+    "text": "SO SEEING NO FURTHER DISCUSSION,",
+    "start": 468.051,
+    "duration": 4.972
+  },
+  {
+    "text": "I WILL MOVE APPROVAL OF THIS ",
+    "start": 469.653,
+    "duration": 4.337
+  },
+  {
+    "text": "ITEM.",
+    "start": 473.123,
+    "duration": 2.135
+  },
+  {
+    "text": "ALL THOSE IN FAVOR PLEASE ",
+    "start": 474.09,
+    "duration": 4.238
+  },
+  {
+    "text": "SIGNIFY BY SAYING AYE.",
+    "start": 475.358,
+    "duration": 4.505
+  },
+  {
+    "text": "THOSE OPPOSED SAY NAY.",
+    "start": 478.428,
+    "duration": 5.072
+  },
+  {
+    "text": "ANY ABSTENTIONS?  THE AYES HAVE ",
+    "start": 479.963,
+    "duration": 5.739
+  },
+  {
+    "text": "IT AND THAT MOTION CARRIES.",
+    "start": 483.6,
+    "duration": 4.404
+  },
+  {
+    "text": "NEXT UP IS THE PASSAGE OF ",
+    "start": 485.802,
+    "duration": 4.238
+  },
+  {
+    "text": "ORDINANCE RELATED TO THE ",
+    "start": 488.104,
+    "duration": 3.27
+  },
+  {
+    "text": "APPOINTED POSITION OF DEPUTY ",
+    "start": 490.14,
+    "duration": 2.903
+  },
+  {
+    "text": "DIRECTOR OF RECORDS MANAGEMENT ",
+    "start": 491.474,
+    "duration": 3.604
+  },
+  {
+    "text": "AND DATA PRACTICES IN THE CITY ",
+    "start": 493.143,
+    "duration": 2.636
+  },
+  {
+    "text": "CLERK'S OFFICE.",
+    "start": 495.178,
+    "duration": 3.07
+  },
+  {
+    "text": "I'LL NOW RE-INVITE MS. BRENDA ",
+    "start": 495.879,
+    "duration": 4.938
+  },
+  {
+    "text": "MILLER FROM HUMAN RESOURCES TO ",
+    "start": 498.348,
+    "duration": 3.437
+  },
+  {
+    "text": "GIVE US THAT PRESENTATION, AND ",
+    "start": 500.917,
+    "duration": 4.071
+  },
+  {
+    "text": "THEN WE'LL BE JOINED BY THE ",
+    "start": 501.885,
+    "duration": 4.838
+  },
+  {
+    "text": "CLERS OFFICE.",
+    "start": 505.088,
+    "duration": 3.437
+  },
+  {
+    "text": "WELCOME BACK, MS. MILLER.",
+    "start": 506.823,
+    "duration": 2.436
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 508.792,
+    "duration": 1.768
+  },
+  {
+    "text": "SO THE SECOND POSITION AS STATED",
+    "start": 509.426,
+    "duration": 2.636
+  },
+  {
+    "text": "IS THE DEPUTY DIRECTOR OF ",
+    "start": 510.66,
+    "duration": 4.071
+  },
+  {
+    "text": "RECORDS MANAGEMENT AND DATA ",
+    "start": 512.162,
+    "duration": 2.836
+  },
+  {
+    "text": "PRACTICES.",
+    "start": 514.831,
+    "duration": 1.835
+  },
+  {
+    "text": "THIS POSITION IS PART OF THE ",
+    "start": 515.098,
+    "duration": 2.469
+  },
+  {
+    "text": "CITY CLERK'S OFFICE AND TOGETHER",
+    "start": 516.766,
+    "duration": 3.337
+  },
+  {
+    "text": "WITH THE ASSISTANT CITY CLERK ",
+    "start": 517.667,
+    "duration": 3.837
+  },
+  {
+    "text": "MANAGES THE INFORMATION ",
+    "start": 520.203,
+    "duration": 2.136
+  },
+  {
+    "text": "GOVERNMENTS RECORD MANAGEMENT ",
+    "start": 521.604,
+    "duration": 2.236
+  },
+  {
+    "text": "AND DATA PRACTICES DIVISION.",
+    "start": 522.439,
+    "duration": 3.536
+  },
+  {
+    "text": "THE DEPUTY DIRECTOR RECORDS ",
+    "start": 523.94,
+    "duration": 2.936
+  },
+  {
+    "text": "MANAGEMENT AND DATA PRACTICES ",
+    "start": 526.076,
+    "duration": 3.57
+  },
+  {
+    "text": "HAS BEEN EVALUATED AT 515 ",
+    "start": 526.976,
+    "duration": 4.572
+  },
+  {
+    "text": "POINTS, GRADE 11.",
+    "start": 529.746,
+    "duration": 6.006
+  },
+  {
+    "text": "THE SALARY SCHEDULE ",
+    "start": 531.648,
+    "duration": 4.638
+  },
+  {
+    "text": "APPROXIMATELY RANGES FROM ",
+    "start": 535.852,
+    "duration": 0.901
+  },
+  {
+    "text": "$112,000 TO $133,000.",
+    "start": 536.386,
+    "duration": 2.436
+  },
+  {
+    "text": "THE 2024 INCREMENTAL COST IS ",
+    "start": 536.853,
+    "duration": 3.203
+  },
+  {
+    "text": "BEING PAID FOR FROM THE CITY ",
+    "start": 538.922,
+    "duration": 2.869
+  },
+  {
+    "text": "CLERK'S BUDGET AND CHANGES ARE ",
+    "start": 540.156,
+    "duration": 5.973
+  },
+  {
+    "text": "EFFECTIVE OCTOBER 31, 2024.",
+    "start": 541.891,
+    "duration": 6.774
+  },
+  {
+    "text": "THIS POSITION MEETS THE CRITERIA",
+    "start": 546.229,
+    "duration": 4.638
+  },
+  {
+    "text": "OF SECTION 20.1010 OF THE ",
+    "start": 548.932,
+    "duration": 3.036
+  },
+  {
+    "text": "MINNEAPOLIS CODE OF ORDINANCES ",
+    "start": 550.967,
+    "duration": 2.169
+  },
+  {
+    "text": "AND REPORTS TO THE ASSISTANT ",
+    "start": 552.068,
+    "duration": 1.568
+  },
+  {
+    "text": "CITY CLERK.",
+    "start": 553.236,
+    "duration": 1.769
+  },
+  {
+    "text": "IT IS A MEMBER OF THE CITY ",
+    "start": 553.737,
+    "duration": 2.836
+  },
+  {
+    "text": "CLERK'S OFFICE ECUTIVE ",
+    "start": 555.105,
+    "duration": 2.535
+  },
+  {
+    "text": "MANAGEMENT TEAM.",
+    "start": 556.673,
+    "duration": 1.968
+  },
+  {
+    "text": "IT CONTRIBUTES TO THE ",
+    "start": 558.241,
+    "duration": 2.87
+  },
+  {
+    "text": "DEVELOPMENT I IMPLEMENTATION OF ",
+    "start": 558.742,
+    "duration": 3.737
+  },
+  {
+    "text": "CITY POLICIES, GOALS AND ",
+    "start": 561.211,
+    "duration": 2.436
+  },
+  {
+    "text": "STRATEGIC PLANNING FOR THE CITY ",
+    "start": 562.579,
+    "duration": 1.802
+  },
+  {
+    "text": "CLERK'S OFFICE.",
+    "start": 563.747,
+    "duration": 3.003
+  },
+  {
+    "text": "IT REQUIRES LEADERSHIP, VISION, ",
+    "start": 564.648,
+    "duration": 3.97
+  },
+  {
+    "text": "TEAM BUILDING, AND STRATEGY ",
+    "start": 566.85,
+    "duration": 2.769
+  },
+  {
+    "text": "IMPLEMENTATION AND FALLY, ",
+    "start": 568.718,
+    "duration": 2.77
+  },
+  {
+    "text": "ESTABLISHES POLICIES, GOALS AND ",
+    "start": 569.719,
+    "duration": 2.503
+  },
+  {
+    "text": "STRATEGIES THAT ARE CONSISTENT ",
+    "start": 571.588,
+    "duration": 3.07
+  },
+  {
+    "text": "WITH THE GOALS AND PRIORITIES ",
+    "start": 572.322,
+    "duration": 3.67
+  },
+  {
+    "text": "ESTABLISHED BY THE MAYOR, CITY ",
+    "start": 574.758,
+    "duration": 4.337
+  },
+  {
+    "text": "COUNCIL, AND THE CITY CLERK.",
+    "start": 576.092,
+    "duration": 4.371
+  },
+  {
+    "text": "PLEASE FIND THAT THE DEPUTY ",
+    "start": 579.195,
+    "duration": 2.47
+  },
+  {
+    "text": "DIRECTOR RECORDS MANAGEMENT AND ",
+    "start": 580.563,
+    "duration": 3.104
+  },
+  {
+    "text": "DATA PRACTIC MEETS THE ",
+    "start": 581.765,
+    "duration": 3.336
+  },
+  {
+    "text": "APPOINTED CRITERIA AS DEFINED IN",
+    "start": 583.767,
+    "duration": 2.903
+  },
+  {
+    "text": "SECTION 20.1010 OF THE ",
+    "start": 585.201,
+    "duration": 2.169
+  },
+  {
+    "text": "MINNEAPOLIS CODE OF ORDINANCES.",
+    "start": 586.77,
+    "duration": 2.369
+  },
+  {
+    "text": "AND FORWARDED ONTO COUNCIL FOR ",
+    "start": 587.47,
+    "duration": 2.036
+  },
+  {
+    "text": "FINAL APPROVAL.",
+    "start": 589.239,
+    "duration": 1.935
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 589.606,
+    "duration": 3.47
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 591.374,
+    "duration": 4.071
+  },
+  {
+    "text": "I'LL NOW INVITE MR. RAMELHOFF ",
+    "start": 593.176,
+    "duration": 3.337
+  },
+  {
+    "text": "FROM THE CLERK'S OFFICE TO TELL ",
+    "start": 595.545,
+    "duration": 4.571
+  },
+  {
+    "text": "US MORE ABOUT THIS POSITION.",
+    "start": 598.448,
+    "duration": 2.469
+  },
+  {
+    "text": ">> GOOD AFTERNOON.",
+    "start": 600.216,
+    "duration": 2.536
+  },
+  {
+    "text": "THANK YOU, COUNCIL VICE ",
+    "start": 601.017,
+    "duration": 3.137
+  },
+  {
+    "text": "PRESIDENT, COUNCIL MEMBERS.",
+    "start": 602.852,
+    "duration": 3.137
+  },
+  {
+    "text": "MUCH LIKE THE CITY ATTORNEY'S ",
+    "start": 604.254,
+    "duration": 3.437
+  },
+  {
+    "text": "POSITION, THIS IS REALLY",
+    "start": 606.089,
+    "duration": 3.804
+  },
+  {
+    "text": "REFLECTING RECLASSIFYING AN ",
+    "start": 607.791,
+    "duration": 2.869
+  },
+  {
+    "text": "EXISTING POSITION THAT HAS AN ",
+    "start": 609.993,
+    "duration": 1.368
+  },
+  {
+    "text": "INCUMBENT IN IT.",
+    "start": 610.76,
+    "duration": 3.404
+  },
+  {
+    "text": "AND THE REASON WE'RE ASKING TO ",
+    "start": 611.461,
+    "duration": 4.538
+  },
+  {
+    "text": "DO THIS IS BECAUSE THE -- REALLY",
+    "start": 614.497,
+    "duration": 3.103
+  },
+  {
+    "text": "THERECLASSIFICATION IS PROMPTED",
+    "start": 616.099,
+    "duration": 4.204
+  },
+  {
+    "text": "BY SIGNIFICANT CHANGES TO WHAT ",
+    "start": 617.934,
+    "duration": 2.936
+  },
+  {
+    "text": "THE LE DID.",
+    "start": 620.403,
+    "duration": 2.503
+  },
+  {
+    "text": "THE ROLE WE'RE TALKING ABOUT ",
+    "start": 620.97,
+    "duration": 3.304
+  },
+  {
+    "text": "SUPERVISES THE DATA PRACTICES ",
+    "start": 623.006,
+    "duration": 6.406
+  },
+  {
+    "text": "TEAM IN MY DIVISION, AND NOT IN ",
+    "start": 624.374,
+    "duration": 6.506
+  },
+  {
+    "text": "A THE VERY DISTANT PAST, THAT ",
+    "start": 629.579,
+    "duration": 3.437
+  },
+  {
+    "text": "WAS A TEAM OF THREE PEOPLE.",
+    "start": 630.98,
+    "duration": 3.838
+  },
+  {
+    "text": "THAT TEAMAS GROWN LARGELY BY ",
+    "start": 633.116,
+    "duration": 3.17
+  },
+  {
+    "text": "INCORPORATING TEAMS THAT WERE ",
+    "start": 634.918,
+    "duration": 2.135
+  },
+  {
+    "text": "HANDLING RESPONSIBILITIES IN ",
+    "start": 636.386,
+    "duration": 1.835
+  },
+  {
+    "text": "OTHER DEPAMENTS, MOSTLY THE ",
+    "start": 637.153,
+    "duration": 1.735
+  },
+  {
+    "text": "POLICE DEPARTMENT.",
+    "start": 638.321,
+    "duration": 4.438
+  },
+  {
+    "text": "SO THE TEAM IS NOW A TEAM OF 14 ",
+    "start": 639.089,
+    "duration": 5.171
+  },
+  {
+    "text": "INCLUDING THIS POSITION.",
+    "start": 642.859,
+    "duration": 2.769
+  },
+  {
+    "text": "AND THE SIMPLE HUB STRUCTURE ",
+    "start": 644.361,
+    "duration": 3.87
+  },
+  {
+    "text": "THAT WE HAD NO LONGER IS ",
+    "start": 645.729,
+    "duration": 2.769
+  },
+  {
+    "text": "EFFECTIVE.",
+    "start": 648.331,
+    "duration": 3.037
+  },
+  {
+    "text": "WE NEED TO HAVE A PROPER ",
+    "start": 648.898,
+    "duration": 5.005
+  },
+  {
+    "text": "MANAGEMENT, SUPERVISOR, SORT OF ",
+    "start": 651.468,
+    "duration": 4.971
+  },
+  {
+    "text": "STAFF STRUCTURE IN ORDERO BE ",
+    "start": 654.004,
+    "duration": 2.902
+  },
+  {
+    "text": "EFFECTIVE.",
+    "start": 656.539,
+    "duration": 1.335
+  },
+  {
+    "text": "BECAUSE THIS -- BECAUSE OF THE ",
+    "start": 657.007,
+    "duration": 4.404
+  },
+  {
+    "text": "CHANGE OF DUTIES PROMPTED THIS ",
+    "start": 657.974,
+    "duration": 4.571
+  },
+  {
+    "text": "RECLASSIFICATION, WE ARE TAKING ",
+    "start": 661.511,
+    "duration": 1.702
+  },
+  {
+    "text": "THE OPPORTUNITY TO MOVE THIS",
+    "start": 662.645,
+    "duration": 2.937
+  },
+  {
+    "text": "FROM THE CLASSIFIED TO THE ",
+    "start": 663.313,
+    "duration": 2.936
+  },
+  {
+    "text": "UNCLASSIFIED SECTION AND BECOME ",
+    "start": 665.682,
+    "duration": 1.268
+  },
+  {
+    "text": "PART OF THE MANAGEMENT TEAM IN ",
+    "start": 666.349,
+    "duration": 1.468
+  },
+  {
+    "text": "THE CLERK'S OFFICE.",
+    "start": 667.05,
+    "duration": 3.136
+  },
+  {
+    "text": "WE THINK THIS WILL ALLOW US TO ",
+    "start": 668.018,
+    "duration": 4.704
+  },
+  {
+    "text": "HAVE KIND OF BACK FILLING ",
+    "start": 670.286,
+    "duration": 3.671
+  },
+  {
+    "text": "CAPABILITIES, HAVE CONTINUITY ",
+    "start": 672.822,
+    "duration": 3.504
+  },
+  {
+    "text": "OVER TIME, AND REALLY REFCT ",
+    "start": 674.057,
+    "duration": 4.271
+  },
+  {
+    "text": "KIND OF THE WORK AND NEED THAT ",
+    "start": 676.426,
+    "duration": 3.17
+  },
+  {
+    "text": "WE ARE DOING TODAY AS WELL AS ",
+    "start": 678.428,
+    "duration": 3.27
+  },
+  {
+    "text": "BETTER SITUATE US FOR THE ",
+    "start": 679.696,
+    "duration": 2.235
+  },
+  {
+    "text": "FUTURE.",
+    "start": 681.798,
+    "duration": 3.003
+  },
+  {
+    "text": "SO I'M HAPPY TO TAKE ANY ",
+    "start": 682.098,
+    "duration": 3.003
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 684.901,
+    "duration": 1.101
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 685.201,
+    "duration": 1.802
+  },
+  {
+    "text": "COLLEAGUES, ARE THERE ANY ",
+    "start": 686.102,
+    "duration": 3.237
+  },
+  {
+    "text": "QUESTIONS OR COMMENTS RELATED TO",
+    "start": 687.103,
+    "duration": 6.14
+  },
+  {
+    "text": "ITEM NUMBER THREE?  ",
+    "start": 689.439,
+    "duration": 5.439
+  },
+  {
+    "text": "I'M NOT SEEING ANY.",
+    "start": 693.343,
+    "duration": 2.469
+  },
+  {
+    "text": "THANK YOU SO MUCH.",
+    "start": 694.978,
+    "duration": 2.202
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 695.945,
+    "duration": 2.87
+  },
+  {
+    "text": ">> SEEING NO FURTHER -- SEE ",
+    "start": 697.714,
+    "duration": 2.336
+  },
+  {
+    "text": "NOTHING DISCUSSION OR QUESTIONS,",
+    "start": 698.915,
+    "duration": 2.703
+  },
+  {
+    "text": "I WILL MOVE APPROVAL OF THIS ",
+    "start": 700.15,
+    "duration": 1.801
+  },
+  {
+    "text": "ITEM.",
+    "start": 701.718,
+    "duration": 3.87
+  },
+  {
+    "text": "ALL THOSE IN FAVOR PLEASE ",
+    "start": 702.052,
+    "duration": 4.904
+  },
+  {
+    "text": "SIGNIFY BY SAYING AYE.",
+    "start": 705.689,
+    "duration": 2.102
+  },
+  {
+    "text": "THOSE OPPOSED SAY NAY.",
+    "start": 707.057,
+    "duration": 3.436
+  },
+  {
+    "text": "THE AYES HAVE IT AND THAT MOTION",
+    "start": 707.891,
+    "duration": 3.503
+  },
+  {
+    "text": "CARRIES.",
+    "start": 710.593,
+    "duration": 3.704
+  },
+  {
+    "text": "OUR LAST ITEM TODAY, ITEM NUMBER",
+    "start": 711.494,
+    "duration": 5.105
+  },
+  {
+    "text": "FOUR S A REPORT ON LEGISLATIVE ",
+    "start": 714.397,
+    "duration": 2.87
+  },
+  {
+    "text": "DIRECTIVE REQUESTING INFORMATION",
+    "start": 716.7,
+    "duration": 3.37
+  },
+  {
+    "text": "AND DATA ON FINANCIAL REPORTING ",
+    "start": 717.367,
+    "duration": 3.971
+  },
+  {
+    "text": "MONITORING AND PERFORMANCE ",
+    "start": 720.17,
+    "duration": 3.27
+  },
+  {
+    "text": "MEASUREMENT.",
+    "start": 721.438,
+    "duration": 5.672
+  },
+  {
+    "text": "I'LL NOW INVITE THE -- THE -- ",
+    "start": 723.54,
+    "duration": 6.406
+  },
+  {
+    "text": "FINCE AND PROPERTY SERVICES ",
+    "start": 727.243,
+    "duration": 5.106
+  },
+  {
+    "text": "DEPARTMENT TO JOIN US TO GIVE ",
+    "start": 730.046,
+    "duration": 6.307
+  },
+  {
+    "text": "THAT PRESENTATION.",
+    "start": 732.449,
+    "duration": 8.174
+  },
+  {
+    "text": "WELCOME, DEPUTY C.F.O. ",
+    "start": 736.453,
+    "duration": 5.605
+  },
+  {
+    "text": ">> GOOD AFTERNOON, COUNCIL VICE ",
+    "start": 740.991,
+    "duration": 1.935
+  },
+  {
+    "text": "PRESIDENT CHUGHTAI AND MEMBERS ",
+    "start": 742.158,
+    "duration": 1.602
+  },
+  {
+    "text": "OF THE BUDGET COMMITTEE.",
+    "start": 743.026,
+    "duration": 4.838
+  },
+  {
+    "text": "I WANT TO PREFACE THERE IS NO ",
+    "start": 743.86,
+    "duration": 5.706
+  },
+  {
+    "text": "PRESENTATION PREPARED.",
+    "start": 747.964,
+    "duration": 3.137
+  },
+  {
+    "text": "I DO HAVE SOME PREPARED REMARKS ",
+    "start": 749.666,
+    "duration": 2.636
+  },
+  {
+    "text": "AND I WILL STAND FOR QUESTIONS ",
+    "start": 751.201,
+    "duration": 3.804
+  },
+  {
+    "text": "AFTER MYREPARED REMARKS.",
+    "start": 752.402,
+    "duration": 4.237
+  },
+  {
+    "text": "FIRST, I WOULD LIKE TO INTRODUCE",
+    "start": 755.105,
+    "duration": 6.54
+  },
+  {
+    "text": "MYSELF AS THE DEPUTY C.F.O. ROD ",
+    "start": 756.74,
+    "duration": 7.407
+  },
+  {
+    "text": "CHOFF FOR THE BUDGET OFFICE.",
+    "start": 761.745,
+    "duration": 3.937
+  },
+  {
+    "text": "THE COMMITTEE REQUESTED THE MORE",
+    "start": 764.247,
+    "duration": 3.67
+  },
+  {
+    "text": "CONTEXT WHICH PROVIDED SPENDING ",
+    "start": 765.782,
+    "duration": 3.937
+  },
+  {
+    "text": "AND REVENUE INFORMATION.",
+    "start": 768.018,
+    "duration": 2.402
+  },
+  {
+    "text": "THROUGH E SECOND QUARTER ",
+    "start": 769.819,
+    "duration": 3.37
+  },
+  {
+    "text": "ENDING JUNE 30, 2024.",
+    "start": 770.52,
+    "duration": 4.838
+  },
+  {
+    "text": "THE REPORT SUBMITTED T YOU ",
+    "start": 773.289,
+    "duration": 4.839
+  },
+  {
+    "text": "TODAY RESPONDS TO THOSE ",
+    "start": 775.458,
+    "duration": 2.937
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 778.228,
+    "duration": 1.701
+  },
+  {
+    "text": "WOULD ALSO LIKE TO PREFACE THE",
+    "start": 778.528,
+    "duration": 3.604
+  },
+  {
+    "text": "PURPOSE AND INTENT OF A ",
+    "start": 780.03,
+    "duration": 3.236
+  },
+  {
+    "text": "QUARTERLY REPORT.",
+    "start": 782.232,
+    "duration": 3.27
+  },
+  {
+    "text": "A QUARTERLY REPORT IS A SNAPSHOT",
+    "start": 783.867,
+    "duration": 4.337
+  },
+  {
+    "text": "IN TIME OF THE CITY'S FINANCES.",
+    "start": 786.87,
+    "duration": 3.937
+  },
+  {
+    "text": "THE ENTERPRISE, AS YOU KNOW, ",
+    "start": 788.304,
+    "duration": 4.038
+  },
+  {
+    "text": "WILL CONTINUE TO SPEND AS WE'LL ",
+    "start": 790.907,
+    "duration": 2.87
+  },
+  {
+    "text": "SHOW CASE IN QUARTER THREE AND ",
+    "start": 792.442,
+    "duration": 2.903
+  },
+  {
+    "text": "QUARTER FOUR IN THIS CASE.",
+    "start": 793.877,
+    "duration": 4.004
+  },
+  {
+    "text": "AS A SNAPSHOT IN TIME, QUARTERLY",
+    "start": 795.445,
+    "duration": 3.971
+  },
+  {
+    "text": "REPORTS WILL GIVE US THE CURRENT",
+    "start": 797.981,
+    "duration": 3.203
+  },
+  {
+    "text": "FINANCIAL CLIMATE, BUT KEEP IN ",
+    "start": 799.516,
+    "duration": 3.603
+  },
+  {
+    "text": "MIND THE FINANCIAL CLIMATE CAN ",
+    "start": 801.284,
+    "duration": 3.537
+  },
+  {
+    "text": "BE UNPREDICTABLEND MUCH CAN ",
+    "start": 803.353,
+    "duration": 2.769
+  },
+  {
+    "text": "CHANGE THROUGHOUT THE YEAR.",
+    "start": 804.921,
+    "duration": 2.636
+  },
+  {
+    "text": "FOR EXAMPLE, DURING THE COVID ",
+    "start": 806.222,
+    "duration": 2.069
+  },
+  {
+    "text": "YEARS.",
+    "start": 807.657,
+    "duration": 2.136
+  },
+  {
+    "text": "ARTERLY REPORTS PROVIDE SOME ",
+    "start": 808.425,
+    "duration": 3.069
+  },
+  {
+    "text": "PROJECTIONS, BUT DO NOT PROVIDE ",
+    "start": 809.893,
+    "duration": 4.337
+  },
+  {
+    "text": "OFFICIAL SURPLUSES OR DEFICITS.",
+    "start": 811.594,
+    "duration": 4.305
+  },
+  {
+    "text": "OFFICIAL SURPLUSES AND DEFICITS ",
+    "start": 814.331,
+    "duration": 3.67
+  },
+  {
+    "text": "ARE NOT RECOGNIZED UNTIL WE ",
+    "start": 815.999,
+    "duration": 3.837
+  },
+  {
+    "text": "CLOSE OUR BOOKS, BEING THE FIRST",
+    "start": 818.101,
+    "duration": 4.104
+  },
+  {
+    "text": "CLASS CITY, WE HAVE THE OFFICE ",
+    "start": 819.936,
+    "duration": 3.604
+  },
+  {
+    "text": "OF THE STATE AUDITOR COME IN AND",
+    "start": 822.305,
+    "duration": 5.139
+  },
+  {
+    "text": "AUDIT OUR BOOKS TO ISSUE US A ",
+    "start": 823.64,
+    "duration": 4.971
+  },
+  {
+    "text": "FORMAL, OFFICIAL STATEMENT.",
+    "start": 827.544,
+    "duration": 3.403
+  },
+  {
+    "text": "BECAUSE THERE IS A LAG TIME ",
+    "start": 828.712,
+    "duration": 2.836
+  },
+  {
+    "text": "BETWEEN COMPLETING THE SECOND ",
+    "start": 831.047,
+    "duration": 3.003
+  },
+  {
+    "text": "QUARTER AND ALSO CLOSING OUR",
+    "start": 831.648,
+    "duration": 3.704
+  },
+  {
+    "text": "ACCOUNTING PERIOD, TRANSITION ",
+    "start": 834.15,
+    "duration": 2.269
+  },
+  {
+    "text": "WITHIN TEAM, PREPARING THE ",
+    "start": 835.452,
+    "duration": 2.736
+  },
+  {
+    "text": "REPORT AND ABIDING BY THE ",
+    "start": 836.519,
+    "duration": 4.004
+  },
+  {
+    "text": "MMITTEE'S CALENDAR, MOSTLY ALL",
+    "start": 838.321,
+    "duration": 3.37
+  },
+  {
+    "text": "QUARTER REPORTS ARE OUTDATED BY ",
+    "start": 840.623,
+    "duration": 2.436
+  },
+  {
+    "text": "THE TIME THEY ARE PUBLISHED.",
+    "start": 841.791,
+    "duration": 3.204
+  },
+  {
+    "text": "THEY REMAIN ACCURATE FOR THE ",
+    "start": 843.159,
+    "duration": 3.504
+  },
+  {
+    "text": "PERIOD THEY REPRESENT, BUT ",
+    "start": 845.095,
+    "duration": 3.737
+  },
+  {
+    "text": "SPENNG DOES NOT STOP DURING ",
+    "start": 846.763,
+    "duration": 3.337
+  },
+  {
+    "text": "THAT PREPARATION TIME.",
+    "start": 848.932,
+    "duration": 2.836
+  },
+  {
+    "text": "I WOULD ALSO LIKE TO HIGHLIGHT ",
+    "start": 850.2,
+    "duration": 3.403
+  },
+  {
+    "text": "THAT FINANCE AND PROPERTY ",
+    "start": 851.868,
+    "duration": 3.637
+  },
+  {
+    "text": "SERVICES IS PROUD OF OUR WOR ",
+    "start": 853.703,
+    "duration": 3.203
+  },
+  {
+    "text": "AND OF OUR FINANCIAL REPORTS.",
+    "start": 855.605,
+    "duration": 3.437
+  },
+  {
+    "text": "A COUPLE OF HIGHLIGHTS IS DURING",
+    "start": 857.073,
+    "duration": 4.004
+  },
+  {
+    "text": "THE RECENTUDIT T OFFICE OF THE",
+    "start": 859.142,
+    "duration": 5.005
+  },
+  {
+    "text": "STATE AUDITOR RECENTLY GAVE US ",
+    "start": 861.177,
+    "duration": 4.505
+  },
+  {
+    "text": "AN UNMODIFIED OPINION.",
+    "start": 864.247,
+    "duration": 3.137
+  },
+  {
+    "text": "THERE ARE FOUR TYPES OF AN ",
+    "start": 865.782,
+    "duration": 1.835
+  },
+  {
+    "text": "OPINION.",
+    "start": 867.484,
+    "duration": 3.503
+  },
+  {
+    "text": "THERE IS AN UNMODIFIED.",
+    "start": 867.717,
+    "duration": 6.206
+  },
+  {
+    "text": "THERE IS ALSO A MODIFY.AND THER ",
+    "start": 871.087,
+    "duration": 4.738
+  },
+  {
+    "text": "AND AN ADVERSE OPINION.",
+    "start": 874.024,
+    "duration": 6.406
+  },
+  {
+    "text": "WE HAVE AN UNMODIFIED CATEGORIZE",
+    "start": 876.393,
+    "duration": 5.472
+  },
+  {
+    "text": "US IN A CLEAN STATE MEANING THAT",
+    "start": 880.63,
+    "duration": 4.838
+  },
+  {
+    "text": "OUR FINANCIALS ARE SOUND.",
+    "start": 881.965,
+    "duration": 5.272
+  },
+  {
+    "text": "ALSO, THE AAA BOND RATING THAT I",
+    "start": 885.568,
+    "duration": 4.405
+  },
+  {
+    "text": "WAS A PART OF THIS YEAR, I HAD ",
+    "start": 887.337,
+    "duration": 5.839
+  },
+  {
+    "text": "THE GREAT FORTUNE TO BE A PART ",
+    "start": 890.073,
+    "duration": 3.27
+  },
+  {
+    "text": "OF.",
+    "start": 893.276,
+    "duration": 3.737
+  },
+  {
+    "text": "WE GAVE THE RATING AGENCY ACCESS",
+    "start": 893.443,
+    "duration": 7.14
+  },
+  {
+    "text": "TO THE Q2 REPORTING THAT WAS AN ",
+    "start": 897.147,
+    "duration": 6.006
+  },
+  {
+    "text": "ELEMENT IN THEIR AFFIRMATION OF ",
+    "start": 900.684,
+    "duration": 4.17
+  },
+  {
+    "text": "OUR TRIPLE A BOND RATING, AND ",
+    "start": 903.253,
+    "duration": 4.404
+  },
+  {
+    "text": "THAT IS BETWEEN FINCH AND ",
+    "start": 904.954,
+    "duration": 4.105
+  },
+  {
+    "text": "STANDARDS & POOR.",
+    "start": 907.757,
+    "duration": 4.204
+  },
+  {
+    "text": "ROUGHLY ONLY 9% OF THE ",
+    "start": 909.159,
+    "duration": 4.07
+  },
+  {
+    "text": "MUNICIPALITIES IN MINNESOTA GET ",
+    "start": 912.062,
+    "duration": 2.068
+  },
+  {
+    "text": "THIS IS RECOGNITION, SO WE ARE ",
+    "start": 913.33,
+    "duration": 3.903
+  },
+  {
+    "text": "REALLY, REALLY PROUD OF THAT.",
+    "start": 914.23,
+    "duration": 5.94
+  },
+  {
+    "text": "ALSO, FOR 49 CONSECUTIVE YEARS ",
+    "start": 917.334,
+    "duration": 5.105
+  },
+  {
+    "text": "WE HAVE EARNED A CERTIFICATE OF ",
+    "start": 920.27,
+    "duration": 3.303
+  },
+  {
+    "text": "EXCELLENCE IN FINANCIAL ",
+    "start": 922.539,
+    "duration": 3.703
+  },
+  {
+    "text": "RERTING FROM THE GFOA.",
+    "start": 923.707,
+    "duration": 4.304
+  },
+  {
+    "text": "MOST RECENTLY OUR APPLICATION",
+    "start": 926.343,
+    "duration": 5.638
+  },
+  {
+    "text": "HAS MOVED OVER TO REVIEW STATUS,",
+    "start": 928.111,
+    "duration": 6.907
+  },
+  {
+    "text": "MEANING TT WE ARE STILL ",
+    "start": 932.082,
+    "duration": 5.205
+  },
+  {
+    "text": "SEEKING THAT 50th YEAR.",
+    "start": 935.118,
+    "duration": 3.904
+  },
+  {
+    "text": "BY AROUND MARCH OR APRIL, WE ",
+    "start": 937.454,
+    "duration": 4.204
+  },
+  {
+    "text": "MIGHT GET THAT 50th YEAR ",
+    "start": 939.122,
+    "duration": 3.67
+  },
+  {
+    "text": "CERTIFICATE OF EXCELLENCE IN ",
+    "start": 941.758,
+    "duration": 2.552
+  },
+  {
+    "text": "FINANCIAL REPORTING PENDING OUR ",
+    "start": 942.892,
+    "duration": 3.254
+  },
+  {
+    "text": "APPLICATION PROCESS.",
+    "start": 944.394,
+    "duration": 3.503
+  },
+  {
+    "text": "WE HOPE THIS REPORT PROVIDES THE",
+    "start": 946.696,
+    "duration": 3.387
+  },
+  {
+    "text": "COUNCIL AND THE RESENTS OF ",
+    "start": 947.998,
+    "duration": 3.119
+  },
+  {
+    "text": "MINNEAPOLIS WITH MORE ",
+    "start": 950.166,
+    "duration": 2.002
+  },
+  {
+    "text": "INFORMATION ABOUT HIGH FINANCE ",
+    "start": 951.217,
+    "duration": 2.686
+  },
+  {
+    "text": "CONDUCT THE WORK OF THE CI.",
+    "start": 952.268,
+    "duration": 3.754
+  },
+  {
+    "text": "WHEN WE PRESENT FUTURE ",
+    "start": 954.02,
+    "duration": 3.137
+  },
+  {
+    "text": "CORRELATION AND WE HOPE THIS ",
+    "start": 956.122,
+    "duration": 2.97
+  },
+  {
+    "text": "HELPS THE COUNCIL ENGAGE MORE ",
+    "start": 957.257,
+    "duration": 3.703
+  },
+  {
+    "text": "FUELLY WITH OUR WORK AND INVITE ",
+    "start": 959.192,
+    "duration": 2.87
+  },
+  {
+    "text": "YOU TO VIEW OUR MATERIALS INNED ",
+    "start": 961.061,
+    "duration": 3.069
+  },
+  {
+    "text": " VANCE OF THE MEETINGS SO WE --",
+    "start": 962.262,
+    "duration": 3.437
+  },
+  {
+    "text": "IN ADVANCE OF THE MEETINGS SO WE",
+    "start": 964.331,
+    "duration": 3.036
+  },
+  {
+    "text": "CAN BE RESPONVE TO YOUR ",
+    "start": 965.799,
+    "duration": 1.968
+  },
+  {
+    "text": "QUESTIONS.",
+    "start": 967.467,
+    "duration": 1.735
+  },
+  {
+    "text": "THEREFORE, I'M HAPPY TO STAND ",
+    "start": 967.867,
+    "duration": 2.269
+  },
+  {
+    "text": "FOR FURTHER QUESTIONS.",
+    "start": 969.302,
+    "duration": 1.168
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 970.236,
+    "duration": 0.734
+  },
+  {
+    "text": ">> WONDERFUL.",
+    "start": 970.704,
+    "duration": 1.668
+  },
+  {
+    "text": "THANK YOU FOR GIVING US THAT ",
+    "start": 971.071,
+    "duration": 2.335
+  },
+  {
+    "text": "OVERVIEW.",
+    "start": 972.472,
+    "duration": 1.568
+  },
+  {
+    "text": "COLLEAGUES, ARE THERE ANY ",
+    "start": 973.506,
+    "duration": 4.705
+  },
+  {
+    "text": "QUESTIONS OR COMMENTS RELATED TO",
+    "start": 974.14,
+    "duration": 6.24
+  },
+  {
+    "text": "THE REPORT FROM FINANCE AND ",
+    "start": 978.311,
+    "duration": 5.372
+  },
+  {
+    "text": "PROPERTY SERVICES AND ANY OF E",
+    "start": 980.48,
+    "duration": 6.673
+  },
+  {
+    "text": "COMMENTS FROM TODAY?  ",
+    "start": 983.783,
+    "duration": 5.406
+  },
+  {
+    "text": "I WILL FIRST RECOGNIZE COUNCIL ",
+    "start": 987.253,
+    "duration": 3.37
+  },
+  {
+    "text": "PRESIDENT PAYNE.",
+    "start": 989.289,
+    "duration": 4.771
+  },
+  {
+    "text": ">> THANK YOU, MADAM VICE ",
+    "start": 990.957,
+    "duration": 4.171
+  },
+  {
+    "text": "PRESIDENT.",
+    "start": 994.16,
+    "duration": 3.037
+  },
+  {
+    "text": "I KNOW THAT CASH FLOWS CAN BE ",
+    "start": 995.462,
+    "duration": 2.135
+  },
+  {
+    "text": "LUMPY.",
+    "start": 997.297,
+    "duration": 3.97
+  },
+  {
+    "text": "IT'S NOT LINEAR DAY-TO-DAY, BUT,",
+    "start": 997.697,
+    "duration": 6.84
+  },
+  {
+    "text": "YOU KNOW, AS I'M LOOKING AT THE ",
+    "start": 1001.368,
+    "duration": 6.373
+  },
+  {
+    "text": "TABLE AROUND T SECOND QUARTER ",
+    "start": 1004.637,
+    "duration": 5.106
+  },
+  {
+    "text": "QUARTERLY REPORT, I DON'T WANT ",
+    "start": 1007.841,
+    "duration": 3.77
+  },
+  {
+    "text": "TO SAY THIS IS AN ASSUMPTION, ",
+    "start": 1009.843,
+    "duration": 3.203
+  },
+  {
+    "text": "BUT SHOULD MY UNDERSTANDING BE ",
+    "start": 1011.711,
+    "duration": 3.037
+  },
+  {
+    "text": "IF WE WERE TO, LIKE, DO JUST ",
+    "start": 1013.146,
+    "duration": 6.54
+  },
+  {
+    "text": "LIKE THE RAWLIN YAR MATH OF PRO ",
+    "start": 1014.848,
+    "duration": 7.607
+  },
+  {
+    "text": "RATED -- RAW, LINEAR MATH OF THE",
+    "start": 1019.786,
+    "duration": 4.404
+  },
+  {
+    "text": "PRO RATED REPORT THAT THE ",
+    "start": 1022.555,
+    "duration": 5.573
+  },
+  {
+    "text": "GENERIC BUDGET WOULD BE AT # ",
+    "start": 1024.29,
+    "duration": 5.806
+  },
+  {
+    "text": "50%?  KNOWING THAT DAY-TO-DAY IT",
+    "start": 1028.228,
+    "duration": 3.437
+  },
+  {
+    "text": "WILL NEVER B THE EXACT DOLLAR ",
+    "start": 1030.196,
+    "duration": 4.004
+  },
+  {
+    "text": "AMOUNT THAT IS CASH FLOWING, BUT",
+    "start": 1031.765,
+    "duration": 4.704
+  },
+  {
+    "text": "THAT WOULD BE A ROUGH ESTIMATE ",
+    "start": 1034.3,
+    "duration": 4.105
+  },
+  {
+    "text": "THAT WE SHOULD BE HOLDING ONTO, ",
+    "start": 1036.569,
+    "duration": 2.47
+  },
+  {
+    "text": "RIGHT?  ",
+    "start": 1038.505,
+    "duration": 1.935
+  },
+  {
+    "text": ">> COUNCIL PRESIDENT PAYNE ",
+    "start": 1039.205,
+    "duration": 4.305
+  },
+  {
+    "text": "THROUGH THE MADAM CHAIR, MAY I ",
+    "start": 1040.54,
+    "duration": 4.805
+  },
+  {
+    "text": "ADDRESS COUNCIL PRESIDENT PAYNE?",
+    "start": 1043.61,
+    "duration": 2.736
+  },
+  {
+    "text": "GIVEN THE COMPLEXITY BETWEEN ",
+    "start": 1045.445,
+    "duration": 2.169
+  },
+  {
+    "text": "GOVERNMENT FINANCES AND THE",
+    "start": 1046.446,
+    "duration": 2.302
+  },
+  {
+    "text": "MAJORITY OF THE REVENUE COMES ",
+    "start": 1047.714,
+    "duration": 2.035
+  },
+  {
+    "text": "FROM PROPERTY TAXES AND STATE ",
+    "start": 1048.848,
+    "duration": 2.303
+  },
+  {
+    "text": "AID, WE CANNOT ASSUME IT IS ",
+    "start": 1049.849,
+    "duration": 3.37
+  },
+  {
+    "text": "GOING TO BE LINEAR.",
+    "start": 1051.251,
+    "duration": 2.803
+  },
+  {
+    "text": "THEREFORE, BECAUSE OF THE ",
+    "start": 1053.32,
+    "duration": 2.502
+  },
+  {
+    "text": "REVENUE OF RECOGNITION THAT ",
+    "start": 1054.154,
+    "duration": 4.571
+  },
+  {
+    "text": "TAKES PLACE IN DECEMBER AND ALSO",
+    "start": 1055.922,
+    "duration": 3.604
+  },
+  {
+    "text": "WHEN WE RECEIVE DURING THE ",
+    "start": 1058.825,
+    "duration": 1.568
+  },
+  {
+    "text": "SUMMER MONTHS.",
+    "start": 1059.626,
+    "duration": 3.904
+  },
+  {
+    "text": "SO WE CAN'T ALWAYS ASSUME THAT.",
+    "start": 1060.527,
+    "duration": 5.272
+  },
+  {
+    "text": "WE CAN ALWAYS TRY TO BUDGET FOR ",
+    "start": 1063.63,
+    "duration": 4.137
+  },
+  {
+    "text": "COLLECTIONS OF AROUND 97%, WHICH",
+    "start": 1065.899,
+    "duration": 4.371
+  },
+  {
+    "text": "HAS HISTORICALLY BEEN THE CASE ",
+    "start": 1067.867,
+    "duration": 2.603
+  },
+  {
+    "text": "HERE.",
+    "start": 1070.37,
+    "duration": 1.768
+  },
+  {
+    "text": "TO BUDGET THAT VARIANCE.",
+    "start": 1070.937,
+    "duration": 2.269
+  },
+  {
+    "text": "SO WE CAN ASSUME WE CAN GET ",
+    "start": 1072.305,
+    "duration": 3.537
+  },
+  {
+    "text": "CLOSE TO IT, BUT NOT IN A LINEAR",
+    "start": 1073.306,
+    "duration": 3.17
+  },
+  {
+    "text": "FASHION.",
+    "start": 1075.942,
+    "duration": 1.902
+  },
+  {
+    "text": ">> THAT IS ON THE REVENUE SIDE.",
+    "start": 1076.576,
+    "duration": 2.836
+  },
+  {
+    "text": "I WAS WONDERING MORE ON SO THE ",
+    "start": 1077.944,
+    "duration": 3.837
+  },
+  {
+    "text": "EXPENSE SIDE.",
+    "start": 1079.512,
+    "duration": 3.804
+  },
+  {
+    "text": ">> EXPENSE AS WELL GIVEN THAT ",
+    "start": 1082.015,
+    "duration": 3.804
+  },
+  {
+    "text": "THE MONTH TO MONTH FLUCTUATIONS.",
+    "start": 1083.416,
+    "duration": 4.371
+  },
+  {
+    "text": "YOU MIGHT SEE A VARIANCE FOR A ",
+    "start": 1085.919,
+    "duration": 3.703
+  },
+  {
+    "text": "VACANCY, FOR EXAMPLE, THAT DOES ",
+    "start": 1087.887,
+    "duration": 3.604
+  },
+  {
+    "text": "NOT MN THAT THE POSITION WILL ",
+    "start": 1089.723,
+    "duration": 3.203
+  },
+  {
+    "text": "GET FILLED NOW.",
+    "start": 1091.591,
+    "duration": 3.57
+  },
+  {
+    "text": "IT COULD GET FILLED LATER OR IT ",
+    "start": 1093.026,
+    "duration": 3.036
+  },
+  {
+    "text": "COULD NEVER GET FILLED.",
+    "start": 1095.261,
+    "duration": 1.602
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 1096.229,
+    "duration": 2.236
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 1096.963,
+    "duration": 2.77
+  },
+  {
+    "text": ">> THANKYOU.",
+    "start": 1098.698,
+    "duration": 5.506
+  },
+  {
+    "text": "NEXT I WILL RECOGNIZE VICE CHAIR",
+    "start": 1099.833,
+    "duration": 4.571
+  },
+  {
+    "text": "KOSKI.",
+    "start": 1104.304,
+    "duration": 1.401
+  },
+  {
+    "text": ">> THANK YOU, MADAM VICE ",
+    "start": 1104.504,
+    "duration": 2.102
+  },
+  {
+    "text": "PRESIDENT.",
+    "start": 1105.805,
+    "duration": 2.836
+  },
+  {
+    "text": "THANK YOU, DEPUTY C.F.O. ",
+    "start": 1106.706,
+    "duration": 3.837
+  },
+  {
+    "text": "APPRECIATE THE ADDED INFORMATION",
+    "start": 1108.742,
+    "duration": 4.17
+  },
+  {
+    "text": "AND ALSO ALL THE GREAT WORK THA.",
+    "start": 1110.643,
+    "duration": 4.338
+  },
+  {
+    "text": "I REALLY APPRECIATE YOU ",
+    "start": 1113.346,
+    "duration": 2.503
+  },
+  {
+    "text": "HIGHLIGHTING ALL THAT.",
+    "start": 1115.081,
+    "duration": 3.771
+  },
+  {
+    "text": "AND I DO RECOGNIZE THAT YOU'RE ",
+    "start": 1115.949,
+    "duration": 5.906
+  },
+  {
+    "text": "NEW, SO IF YOU NEED TO PHONE A ",
+    "start": 1118.952,
+    "duration": 5.539
+  },
+  {
+    "text": "FRIEND, PLEASE FEEL FREE DO DO ",
+    "start": 1121.955,
+    "duration": 2.736
+  },
+  {
+    "text": "THAT.",
+    "start": 1124.591,
+    "duration": 0.901
+  },
+  {
+    "text": "I HAVE A FEW QUESTIONS HERE.",
+    "start": 1124.791,
+    "duration": 2.936
+  },
+  {
+    "text": "AND I'LL GO KIND OF IN ORDER OF ",
+    "start": 1125.592,
+    "duration": 3.537
+  },
+  {
+    "text": "THE SUMMAR",
+    "start": 1127.827,
+    "duration": 3.938
+  },
+  {
+    "text": "SO THE RESPONSE SUMMARY ANSWERED",
+    "start": 1129.229,
+    "duration": 5.205
+  },
+  {
+    "text": "TO ONE, IT CONTAIN A LOT OF ",
+    "start": 1131.898,
+    "duration": 2.836
+  },
+  {
+    "text": "INFORMATION.",
+    "start": 1134.534,
+    "duration": 2.202
+  },
+  {
+    "text": "AND SO I HAVE A FOLLOW-UP ",
+    "start": 1134.834,
+    "duration": 2.169
+  },
+  {
+    "text": "QUESTION.",
+    "start": 1136.836,
+    "duration": 1.635
+  },
+  {
+    "text": "ARE THECITY'S QUARTERLY ",
+    "start": 1137.103,
+    "duration": 3.304
+  },
+  {
+    "text": "FINANCIAL REPORTS AUDITED?  OR ",
+    "start": 1138.571,
+    "duration": 4.738
+  },
+  {
+    "text": "INDEPENDENTLY REVIEWED?",
+    "start": 1140.507,
+    "duration": 6.907
+  },
+  {
+    "text": ">> THROUGH THE CHAIR, MADAM VICE",
+    "start": 1143.41,
+    "duration": 7.04
+  },
+  {
+    "text": "CHAIR, OUR CITY REPORTING AND ",
+    "start": 1147.514,
+    "duration": 4.938
+  },
+  {
+    "text": "ALSO OTHER MECHANISMS ARE ",
+    "start": 1150.55,
+    "duration": 2.136
+  },
+  {
+    "text": "AUDITED.",
+    "start": 1152.535,
+    "duration": 0.851
+  },
+  {
+    "text": "WE HAVE INTERNAL PROCESS AROUND ",
+    "start": 1152.786,
+    "duration": 3.803
+  },
+  {
+    "text": "WE ALSO HAVE AN EXTERNAL ",
+    "start": 1153.687,
+    "duration": 3.136
+  },
+  {
+    "text": "PROCESS.",
+    "start": 1156.69,
+    "duration": 2.202
+  },
+  {
+    "text": "AND ALSO WE ALSO NEED TO GET ",
+    "start": 1156.923,
+    "duration": 2.87
+  },
+  {
+    "text": "AUDITED BY THE FEDERAL ",
+    "start": 1158.992,
+    "duration": 2.336
+  },
+  {
+    "text": "GOVERNMENT WITH OUR SINGLE ",
+    "start": 1159.893,
+    "duration": 1.802
+  },
+  {
+    "text": "AUDIT.",
+    "start": 1161.428,
+    "duration": 3.003
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1164.164,
+    "duration": 2.169
+  },
+  {
+    "text": "THANK YOU SO MUCH.",
+    "start": 1164.531,
+    "duration": 4.271
+  },
+  {
+    "text": "AND THEN MOVING TO NUMBER TWO IN",
+    "start": 1166.433,
+    "duration": 4.938
+  },
+  {
+    "text": "THE ANSWERS, 2B SPECIFICALLY, IT",
+    "start": 1168.902,
+    "duration": 5.071
+  },
+  {
+    "text": "CONTAINS THE FOLLOWING ",
+    "start": 1171.471,
+    "duration": 2.803
+  },
+  {
+    "text": "INFORMATION.",
+    "start": 1174.074,
+    "duration": 3.37
+  },
+  {
+    "text": "SO ON THE REVENUES SIDE, THERE'S",
+    "start": 1174.374,
+    "duration": 4.838
+  },
+  {
+    "text": "PROJECTED VALUES IN COLUMN G.",
+    "start": 1177.544,
+    "duration": 4.404
+  },
+  {
+    "text": "THERE'S A FEW -- THERE'S ACTUAL ",
+    "start": 1179.312,
+    "duration": 4.405
+  },
+  {
+    "text": "YEAR TO DATE REVENUE THAT IS ",
+    "start": 1182.048,
+    "duration": 4.305
+  },
+  {
+    "text": "COLUMN E PLUS AN ESTIMATE MADE ",
+    "start": 1183.817,
+    "duration": 3.203
+  },
+  {
+    "text": "BY FINANCE STAFF FOR THE ",
+    "start": 1186.453,
+    "duration": 1.701
+  },
+  {
+    "text": "REMAINDER OF THE YEAR, AND THEN ",
+    "start": 1187.12,
+    "duration": 2.402
+  },
+  {
+    "text": "THERE'S A COUPLE OTHER POINTS ",
+    "start": 1188.254,
+    "duration": 1.802
+  },
+  {
+    "text": "THERE.",
+    "start": 1189.622,
+    "duration": 2.703
+  },
+  {
+    "text": "THEN ON THE EXPENSES PROJECTION ",
+    "start": 1190.156,
+    "duration": 3.804
+  },
+  {
+    "text": "VALUES ARE EITHER ACTUAL YEAR TO",
+    "start": 1192.409,
+    "duration": 4.688
+  },
+  {
+    "text": "DATE EXPENSES, PLUS AN ESTIMATE",
+    "start": 1194.06,
+    "duration": 6.373
+  },
+  {
+    "text": "MADE BY FINANCE STAFF FOR THE ",
+    "start": 1197.197,
+    "duration": 5.472
+  },
+  {
+    "text": "REMAINDER OF THE YEAR.",
+    "start": 1200.533,
+    "duration": 4.238
+  },
+  {
+    "text": "THE SAME AS THE CURRENT BUDGET, ",
+    "start": 1202.769,
+    "duration": 3.737
+  },
+  {
+    "text": "FINANCE MAY ESTIMATE THE FAL ",
+    "start": 1204.871,
+    "duration": 2.903
+  },
+  {
+    "text": "EXPENDITURES WILL BE THE SAME AS",
+    "start": 1206.606,
+    "duration": 2.536
+  },
+  {
+    "text": "THE CURRENT BUDGET.",
+    "start": 1207.874,
+    "duration": 2.569
+  },
+  {
+    "text": "AND IN THAT CASE THERE WOULD NOT",
+    "start": 1209.242,
+    "duration": 3.237
+  },
+  {
+    "text": "BE A BUDGET VARIANCE.",
+    "start": 1210.577,
+    "duration": 3.87
+  },
+  {
+    "text": "THAT WAS JUST QUOTED FROM THE ",
+    "start": 1212.579,
+    "duration": 3.036
+  },
+  {
+    "text": "INFORMATION WE GOT.",
+    "start": 1214.547,
+    "duration": 8.042
+  },
+  {
+    "text": "HOW DO FINANCE STAFF ESTIMATE T ",
+    "start": 1215.715,
+    "duration": 8.609
+  },
+  {
+    "text": " A THROUGH THE CHAIR, MADAM ",
+    "start": 1222.722,
+    "duration": 2.603
+  },
+  {
+    "text": "VICE CHAIR, THERE ARE ",
+    "start": 1224.424,
+    "duration": 2.236
+  },
+  {
+    "text": "APPROXIMATELY 20 MEMBERS OF OUR ",
+    "start": 1225.425,
+    "duration": 2.97
+  },
+  {
+    "text": "ACCOUNTING SFF THAT WORKS ",
+    "start": 1226.76,
+    "duration": 3.103
+  },
+  {
+    "text": "CLOSELY WITH EACH AND EVERY ",
+    "start": 1228.495,
+    "duration": 2.502
+  },
+  {
+    "text": "DEPARTMENT TO COME UP WITH SOME ",
+    "start": 1229.963,
+    "duration": 2.969
+  },
+  {
+    "text": "OFHESE FIGURES.",
+    "start": 1231.231,
+    "duration": 3.236
+  },
+  {
+    "text": "ONE, WE TAKE A LOOK AT THE ",
+    "start": 1233.033,
+    "duration": 3.436
+  },
+  {
+    "text": "SNAPSHOT IN TIME.",
+    "start": 1234.567,
+    "duration": 3.537
+  },
+  {
+    "text": "THE REPORTING PERIOD, OUR ",
+    "start": 1236.569,
+    "duration": 3.537
+  },
+  {
+    "text": "FINANCE STAFF IS ALSO WORKED ",
+    "start": 1238.204,
+    "duration": 4.338
+  },
+  {
+    "text": "CLOSELY WITH THE DEPARTMENT ",
+    "start": 1240.206,
+    "duration": 4.171
+  },
+  {
+    "text": "MANAGERS TO ESTIMATE IF THIS ",
+    "start": 1242.642,
+    "duration": 3.37
+  },
+  {
+    "text": "EXPENSE HERE WILL BE LINEAR.",
+    "start": 1244.477,
+    "duration": 2.803
+  },
+  {
+    "text": "WE WILL EXTRAPOLATE THAT.",
+    "start": 1246.112,
+    "duration": 7.942
+  },
+  {
+    "text": "AND SO ALL OF THESE ARE ",
+    "start": 1247.38,
+    "duration": 9.51
+  },
+  {
+    "text": "FORMULAICALLY IN HERE WITH THE",
+    "start": 1254.154,
+    "duration": 4.137
+  },
+  {
+    "text": "PROFESSIONAL ADVICE OF THE ",
+    "start": 1256.99,
+    "duration": 3.203
+  },
+  {
+    "text": "ACCOUNTANTS, VIS-A-VIS THE ",
+    "start": 1258.391,
+    "duration": 3.437
+  },
+  {
+    "text": "DEPARTMENT MANAGEERS.",
+    "start": 1260.293,
+    "duration": 2.87
+  },
+  {
+    "text": ">> OKAY, THANK YOU.",
+    "start": 1262.295,
+    "duration": 2.102
+  },
+  {
+    "text": "THE ORIGINAL QUESTION WE ASKED ",
+    "start": 1263.263,
+    "duration": 2.936
+  },
+  {
+    "text": "ABOUT SPECIFIC MODELS OR ",
+    "start": 1264.497,
+    "duration": 3.103
+  },
+  {
+    "text": "FORMULAS THAT ARE USED TO ",
+    "start": 1266.299,
+    "duration": 2.169
+  },
+  {
+    "text": "ESTIMATE, AND SO MY ",
+    "start": 1267.701,
+    "duration": 3.003
+  },
+  {
+    "text": "UNDERSTANDING IS YOU'RE SAYING ",
+    "start": 1268.568,
+    "duration": 3.704
+  },
+  {
+    "text": "THAT THERE ARE 20 DIFFERENT ",
+    "start": 1270.804,
+    "duration": 2.602
+  },
+  {
+    "text": "MEMBERS, BUT THEY -- WHAT ARE ",
+    "start": 1272.372,
+    "duration": 4.471
+  },
+  {
+    "text": "THE SPECIFIC MODELS THAT ARE -- ",
+    "start": 1273.506,
+    "duration": 6.974
+  },
+  {
+    "text": "SORRY, AND FORMULAS THAT ARE ",
+    "start": 1276.943,
+    "duration": 4.037
+  },
+  {
+    "text": "USED?  ",
+    "start": 1280.58,
+    "duration": 4.238
+  },
+  {
+    "text": ">> EXCUSE ME, THROUGH THE CHAIR,",
+    "start": 1282.182,
+    "duration": 8.008
+  },
+  {
+    "text": "MADAM VICE CHAIR, NOT TO GET TOO",
+    "start": 1284.918,
+    "duration": 6.84
+  },
+  {
+    "text": "TECHNICAL, OUR ACCOUNTING STAFF ",
+    "start": 1290.29,
+    "duration": 4.838
+  },
+  {
+    "text": "ARE THE PROFESSIONALS ON THE ",
+    "start": 1291.858,
+    "duration": 4.438
+  },
+  {
+    "text": "FIEL",
+    "start": 1295.228,
+    "duration": 3.137
+  },
+  {
+    "text": "OUR ACCOUNTING STAFF WILL ",
+    "start": 1296.396,
+    "duration": 5.772
+  },
+  {
+    "text": "EXTRACT DATA FROM THE E.R.P. ",
+    "start": 1298.465,
+    "duration": 4.471
+  },
+  {
+    "text": "SYSTEM, WHICH IS COMMON, AND ",
+    "start": 1302.268,
+    "duration": 2.436
+  },
+  {
+    "text": "THROUGH THAT TRACT, IT GOES ",
+    "start": 1303.036,
+    "duration": 2.469
+  },
+  {
+    "text": "INTO A TEMPLATE.",
+    "start": 1304.804,
+    "duration": 2.069
+  },
+  {
+    "text": "FROM THAT TEMPLATE, THERE ARE ",
+    "start": 1305.605,
+    "duration": 5.339
+  },
+  {
+    "text": "CERTAIN FORMULAS SUCH AS LOOK ",
+    "start": 1306.973,
+    "duration": 6.206
+  },
+  {
+    "text": "UPS, SUCH AS SUMMATIVE, SUCH AS ",
+    "start": 1311.044,
+    "duration": 3.603
+  },
+  {
+    "text": "DIGIT TABLES AND ALL THAT DATA ",
+    "start": 1313.279,
+    "duration": 2.369
+  },
+  {
+    "text": "ANALYSIS NEEDS TO HAPPEN WITH ",
+    "start": 1314.748,
+    "duration": 2.402
+  },
+  {
+    "text": "THE DATA INTEGRITY, AND ALSO, IT",
+    "start": 1315.749,
+    "duration": 3.003
+  },
+  {
+    "text": "IS VALIDATED WITH THE DEPARTMENT",
+    "start": 1317.784,
+    "duration": 3.136
+  },
+  {
+    "text": "HEADS W THE MANAGERS, TO MAKE ",
+    "start": 1318.852,
+    "duration": 4.204
+  },
+  {
+    "text": "SURE THAT IT -- FOR EXAMPLE, FOR",
+    "start": 1321.021,
+    "duration": 2.268
+  },
+  {
+    "text": "SALARY.",
+    "start": 1323.156,
+    "duration": 2.469
+  },
+  {
+    "text": "IF A PERSON IS EARNING THREE ",
+    "start": 1324.391,
+    "duration": 2.569
+  },
+  {
+    "text": "MONTHS INTO THE YEAR, IF A ",
+    "start": 1325.725,
+    "duration": 5.005
+  },
+  {
+    "text": "PERSON IS MAKING 100K, IT'S 25K,",
+    "start": 1327.06,
+    "duration": 4.805
+  },
+  {
+    "text": "CORRECT?  WHY IS THIS PERSON ",
+    "start": 1330.83,
+    "duration": 5.339
+  },
+  {
+    "text": "MAKING MORE?  IS IT OVERTIME?  ",
+    "start": 1331.965,
+    "duration": 4.938
+  },
+  {
+    "text": ">> THANK YOU SO MUCH.",
+    "start": 1336.269,
+    "duration": 2.436
+  },
+  {
+    "text": "THAT IS REALLYELPFUL TO ",
+    "start": 1337.003,
+    "duration": 3.237
+  },
+  {
+    "text": "UNDERSTAND JUST EVEN THE USE OF ",
+    "start": 1338.805,
+    "duration": 5.105
+  },
+  {
+    "text": "COMMENTND WHAT THAT DOES TO --",
+    "start": 1340.34,
+    "duration": 4.571
+  },
+  {
+    "text": "TO GET YOU THE INFORMATION THAT ",
+    "start": 1344.077,
+    "duration": 3.103
+  },
+  {
+    "text": "YOU ARE USING TO ESTIMATE THOSE ",
+    "start": 1345.011,
+    "duration": 6.006
+  },
+  {
+    "text": "VALUES.",
+    "start": 1347.28,
+    "duration": 5.606
+  },
+  {
+    "text": "ANOTHER QUESTION I HAD, WHEN I'M",
+    "start": 1351.117,
+    "duration": 3.871
+  },
+  {
+    "text": "LOOKING AT NUMBER THREE, SO I ",
+    "start": 1352.986,
+    "duration": 5.205
+  },
+  {
+    "text": "ME TO THE FOLLOWING FINDING ",
+    "start": 1355.722,
+    "duration": 5.138
+  },
+  {
+    "text": "FOR THE PAST FIVE YEARS FROM ",
+    "start": 1358.291,
+    "duration": 4.938
+  },
+  {
+    "text": "2019 TO 2023, EACH SECOND ",
+    "start": 1360.96,
+    "duration": 4.372
+  },
+  {
+    "text": "QUARTER FINANCI REPORT, ",
+    "start": 1363.33,
+    "duration": 2.969
+  },
+  {
+    "text": "YEAR-END PROJECTION HAS ",
+    "start": 1365.432,
+    "duration": 3.637
+  },
+  {
+    "text": "UNDERESTIMATED THE CITY'S TOTAL ",
+    "start": 1366.399,
+    "duration": 3.771
+  },
+  {
+    "text": "REVENUES AND OVERESTIMATED THE ",
+    "start": 1369.169,
+    "duration": 3.103
+  },
+  {
+    "text": "CITY'S TOTAL EXPENSES.",
+    "start": 1370.27,
+    "duration": 6.673
+  },
+  {
+    "text": "CAN YOU CONFIRM THAT FINDING?  ",
+    "start": 1372.372,
+    "duration": 7.741
+  },
+  {
+    "text": ">> MADAM CHAIR, MADAM VICE ",
+    "start": 1377.21,
+    "duration": 4.905
+  },
+  {
+    "text": "CHAIR, I JUST WANT TO SAY THAT ",
+    "start": 1380.213,
+    "duration": 5.139
+  },
+  {
+    "text": "THROUGHOUT THE PAST FIVE YEARS, ",
+    "start": 1382.215,
+    "duration": 5.139
+  },
+  {
+    "text": "A LARGE PORTION OF OUR REVENUE ",
+    "start": 1385.452,
+    "duration": 3.503
+  },
+  {
+    "text": "AND EXPENSES, WE WERE IN THE ",
+    "start": 1387.454,
+    "duration": 2.602
+  },
+  {
+    "text": "COVID YEARS.",
+    "start": 1389.055,
+    "duration": 4.038
+  },
+  {
+    "text": "SO THAT CAN CONSTRUE A LOT OF ",
+    "start": 1390.19,
+    "duration": 3.203
+  },
+  {
+    "text": "THINGS.",
+    "start": 1393.193,
+    "duration": 5.338
+  },
+  {
+    "text": "ASAR AS THE BUDGET SIDE OF THE",
+    "start": 1393.526,
+    "duration": 6.34
+  },
+  {
+    "text": "TEAM, IF YOU LOOK AT THE ACTUAL ",
+    "start": 1398.631,
+    "duration": 3.304
+  },
+  {
+    "text": "GRAPH, EXPENSES AND REVENUE, OUR",
+    "start": 1399.966,
+    "duration": 3.737
+  },
+  {
+    "text": "BUET TEAM AS WE GET CLOSER TO ",
+    "start": 1402.068,
+    "duration": 2.836
+  },
+  {
+    "text": "THE QUARTER END -- EXCUSE ME.",
+    "start": 1403.803,
+    "duration": 3.337
+  },
+  {
+    "text": "AS WE GET CLOSER TO THE QUARTER ",
+    "start": 1405.038,
+    "duration": 3.503
+  },
+  {
+    "text": "END, WE HAVE BEEN PRETTY MUCH IN",
+    "start": 1407.24,
+    "duration": 6.607
+  },
+  {
+    "text": "LINE AROUND 97-98% SO OUR ",
+    "start": 1408.642,
+    "duration": 7.307
+  },
+  {
+    "text": "VARIANCES GET SMALLER, BUT FOR ",
+    "start": 1413.947,
+    "duration": 3.37
+  },
+  {
+    "text": "THE SECOND QUARTER SNAPSHOT, WE ",
+    "start": 1416.049,
+    "duration": 2.536
+  },
+  {
+    "text": "ARE APPROXIMATELY 20% OF ",
+    "start": 1417.417,
+    "duration": 2.736
+  },
+  {
+    "text": "REVENUE, AND THE MAJORY OF ",
+    "start": 1418.685,
+    "duration": 2.102
+  },
+  {
+    "text": "REVENUE COMES IN AROUND THE ",
+    "start": 1420.253,
+    "duration": 1.402
+  },
+  {
+    "text": "DECEMBER TIME FRAME.",
+    "start": 1420.887,
+    "duration": 3.237
+  },
+  {
+    "text": "SO YES, IT IS ACCURATE TO SAY ",
+    "start": 1421.788,
+    "duration": 4.838
+  },
+  {
+    "text": "THAT THE PAST FIVE YEARS OUR ",
+    "start": 1424.224,
+    "duration": 3.97
+  },
+  {
+    "text": "BUDGET AND ACTUALS WERE PRETTY ",
+    "start": 1426.726,
+    "duration": 4.838
+  },
+  {
+    "text": "MUCH IN LINE, BUT THAT DOES NOT ",
+    "start": 1428.294,
+    "duration": 5.639
+  },
+  {
+    "text": "GUARANTEE FUTURE YEARS BECAUSE ",
+    "start": 1431.665,
+    "duration": 3.77
+  },
+  {
+    "text": "THINGS CAN CHANGE AND YOU KNOW ",
+    "start": 1434.034,
+    "duration": 2.902
+  },
+  {
+    "text": "AS WE WITNESSED WITH COVID, A ",
+    "start": 1435.535,
+    "duration": 3.504
+  },
+  {
+    "text": "PANDEMIC HAPPENS.",
+    "start": 1437.037,
+    "duration": 3.036
+  },
+  {
+    "text": ">> IS THAT SOMETHING THAT YOU ",
+    "start": 1439.139,
+    "duration": 2.068
+  },
+  {
+    "text": "WOULD PROJECT?  THAT THAT WOULD ",
+    "start": 1440.173,
+    "duration": 1.368
+  },
+  {
+    "text": "CHANGE?  ",
+    "start": 1441.307,
+    "duration": 5.172
+  },
+  {
+    "text": ">> THAT WOULD BE A PART O THE ",
+    "start": 1442.142,
+    "duration": 5.038
+  },
+  {
+    "text": "CONTROLLER'S DIVISION, WHICH IS ",
+    "start": 1446.579,
+    "duration": 4.739
+  },
+  {
+    "text": "WHAT I ORR OVERSEE AND THE ",
+    "start": 1447.28,
+    "duration": 5.706
+  },
+  {
+    "text": "BUDGET AND WORKING CLOSELY WITH ",
+    "start": 1451.418,
+    "duration": 3.47
+  },
+  {
+    "text": "THE C.F.O., AND ALSO WORKING ",
+    "start": 1453.086,
+    "duration": 2.869
+  },
+  {
+    "text": "WITH COUNCIL AS WELL BECAUSE ",
+    "start": 1454.988,
+    "duration": 2.302
+  },
+  {
+    "text": "IT'S A PARTNERSHIP.",
+    "start": 1456.056,
+    "duration": 4.237
+  },
+  {
+    "text": ">> ARECIATE THAT.",
+    "start": 1457.524,
+    "duration": 4.337
+  },
+  {
+    "text": "THANK YOU SO MUCH.",
+    "start": 1460.393,
+    "duration": 3.57
+  },
+  {
+    "text": "SO NOW FOR QUESTION OR THE ",
+    "start": 1462.095,
+    "duration": 3.337
+  },
+  {
+    "text": "RESPONSE AND REFER ITEM NUMBER ",
+    "start": 1464.064,
+    "duration": 3.203
+  },
+  {
+    "text": "FOUR, IT MAKES IT CLEAR THAT THE",
+    "start": 1465.532,
+    "duration": 3.303
+  },
+  {
+    "text": "FINANCE AND PROPERTY SERVICES ",
+    "start": 1467.367,
+    "duration": 3.236
+  },
+  {
+    "text": "DEPARTMENT HAS THE INFORMATION ",
+    "start": 1468.935,
+    "duration": 4.037
+  },
+  {
+    "text": "REQUESTED, BUT IS NOT WANTING TO",
+    "start": 1470.704,
+    "duration": 3.236
+  },
+  {
+    "text": "PROVIDE THIS.",
+    "start": 1473.073,
+    "duration": 3.903
+  },
+  {
+    "text": "I'M JUST WANTED TO ASK THE CITY ",
+    "start": 1474.04,
+    "duration": 4.972
+  },
+  {
+    "text": "ATTORNEY, WHEN THE CITY COUNL ",
+    "start": 1477.077,
+    "duration": 2.602
+  },
+  {
+    "text": "REQUESTS INFORMATION THROUGH AN ",
+    "start": 1479.112,
+    "duration": 2.369
+  },
+  {
+    "text": "OFFICIAL APPROVED ACT, DOES THE ",
+    "start": 1479.779,
+    "duration": 2.703
+  },
+  {
+    "text": "EXECUTIVE BRANCH HAVE THE ",
+    "start": 1481.581,
+    "duration": 1.969
+  },
+  {
+    "text": "AUTHORITY TO REFUSEO PROVIDE ",
+    "start": 1482.582,
+    "duration": 4.304
+  },
+  {
+    "text": "THAT INFORMATION?  ",
+    "start": 1483.65,
+    "duration": 5.906
+  },
+  {
+    "text": ">> MR. CITY ATTORNEY?  ",
+    "start": 1486.987,
+    "duration": 8.041
+  },
+  {
+    "text": ">> CHAIR CHUGHTAI, COUNCIL MEMB ",
+    "start": 1489.689,
+    "duration": 7.675
+  },
+  {
+    "text": "CHARTER DELEGATED BUDGETARY ",
+    "start": 1495.128,
+    "duration": 3.237
+  },
+  {
+    "text": "RESPONSIBILITY, COUNCIL CAN ASK ",
+    "start": 1497.464,
+    "duration": 2.002
+  },
+  {
+    "text": "FOR INFORMATION FROM THE ",
+    "start": 1498.465,
+    "duration": 1.768
+  },
+  {
+    "text": "ADMINISTRATION AND THE ",
+    "start": 1499.566,
+    "duration": 1.501
+  },
+  {
+    "text": "ADMINISTRATION HAS AN OBLIGATION",
+    "start": 1500.333,
+    "duration": 2.67
+  },
+  {
+    "text": "TO PROVIDE THE INFORMATION.",
+    "start": 1501.968,
+    "duration": 3.237
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 1503.269,
+    "duration": 3.137
+  },
+  {
+    "text": "I APPRECIATE THAT ANSWER.",
+    "start": 1505.438,
+    "duration": 5.205
+  },
+  {
+    "text": "AND SO NOW THAT THAT'S BEEN ",
+    "start": 1506.506,
+    "duration": 6.507
+  },
+  {
+    "text": "SETTLED, IT IS -- I WOULD ASK ",
+    "start": 1510.744,
+    "duration": 3.737
+  },
+  {
+    "text": "AT THE EXECUTIVE BRANCH ",
+    "start": 1513.146,
+    "duration": 3.737
+  },
+  {
+    "text": "FURNISH THE INFORMATION AS ",
+    "start": 1514.581,
+    "duration": 3.003
+  },
+  {
+    "text": "REQUESTED IN THE LEGISTIVE ",
+    "start": 1516.983,
+    "duration": 1.001
+  },
+  {
+    "text": "DIRECTIVE.",
+    "start": 1517.684,
+    "duration": 2.035
+  },
+  {
+    "text": "AND SO I'VE ACTUALLY PULLED ",
+    "start": 1518.084,
+    "duration": 3.07
+  },
+  {
+    "text": "TOGETHER SOME OF THESE BASIC ",
+    "start": 1519.819,
+    "duration": 2.503
+  },
+  {
+    "text": "TABLES AS ANXAMPLE OF WHAT ",
+    "start": 1521.254,
+    "duration": 4.438
+  },
+  {
+    "text": "WOULD BE HELPFUL FOR US TO SEE.",
+    "start": 1522.422,
+    "duration": 5.539
+  },
+  {
+    "text": "AND SO WHEN WE LOOK AT THIS, ",
+    "start": 1525.792,
+    "duration": 3.937
+  },
+  {
+    "text": "IT'S BY DEPARTMENT, SALARY, ",
+    "start": 1528.061,
+    "duration": 3.537
+  },
+  {
+    "text": "WAGES, FRINGES, CONTRACTUAL ",
+    "start": 1529.829,
+    "duration": 3.17
+  },
+  {
+    "text": "SERVICES, OPERATING COSTS, AND ",
+    "start": 1531.698,
+    "duration": 4.004
+  },
+  {
+    "text": "THEN THE ORIGINAL BUDGET, ",
+    "start": 1533.099,
+    "duration": 3.637
+  },
+  {
+    "text": "REVISED, CURRENT BUDGET, AND ",
+    "start": 1535.802,
+    "duration": 2.536
+  },
+  {
+    "text": "YEAR TO DATE ACTUALS.",
+    "start": 1536.836,
+    "duration": 3.971
+  },
+  {
+    "text": "AND THEN WHEN WE LOOK THE OTHER ",
+    "start": 1538.438,
+    "duration": 4.571
+  },
+  {
+    "text": "PIECE THAT WE REQUESTED WAS BY ",
+    "start": 1540.907,
+    "duration": 2.336
+  },
+  {
+    "text": "PROGRAM.",
+    "start": 1543.109,
+    "duration": 1.402
+  },
+  {
+    "text": "SO THE DEPARTMENT, PROGRAM, AND ",
+    "start": 1543.343,
+    "duration": 2.903
+  },
+  {
+    "text": "THEN ORIGINAL BUDGET, REVISED, ",
+    "start": 1544.611,
+    "duration": 2.903
+  },
+  {
+    "text": "CURRENT BUDGET, AND YEAR TO",
+    "start": 1546.346,
+    "duration": 1.435
+  },
+  {
+    "text": "DATE.",
+    "start": 1547.614,
+    "duration": 2.636
+  },
+  {
+    "text": "I'M HAPPY TO SHARE THIS WITH YOU",
+    "start": 1547.881,
+    "duration": 3.236
+  },
+  {
+    "text": "AFTERWARDS SO THAT WE CAN ",
+    "start": 1550.35,
+    "duration": 3.437
+  },
+  {
+    "text": "CONTINUE THOSE CONVERSATIONS AND",
+    "start": 1551.217,
+    "duration": 3.104
+  },
+  {
+    "text": "GET THE INFORMATION.",
+    "start": 1553.887,
+    "duration": 5.405
+  },
+  {
+    "text": "SO APPRECIATE THAT.",
+    "start": 1554.421,
+    "duration": 7.607
+  },
+  {
+    "text": "ONTO NUMBER FIVE, SO THE ",
+    "start": 1559.392,
+    "duration": 4.705
+  },
+  {
+    "text": "RESPONSE SUMMARY'S ANSWER IN ",
+    "start": 1562.128,
+    "duration": 4.154
+  },
+  {
+    "text": "NUMBER FIVE.",
+    "start": 1564.214,
+    "duration": 3.353
+  },
+  {
+    "text": "DOES THE CITY COMMIT CURRENT ",
+    "start": 1566.366,
+    "duration": 4.504
+  },
+  {
+    "text": "YEAR'S BUDGET SAVING TO FUTURE ",
+    "start": 1567.667,
+    "duration": 4.521
+  },
+  {
+    "text": "BUDGET?  THAT WAS NOT THE ",
+    "start": 1570.987,
+    "duration": 2.836
+  },
+  {
+    "text": "QUESTION THAT WAS ASKED, SO I'LL",
+    "start": 1572.288,
+    "duration": 3.804
+  },
+  {
+    "text": "ASK WHAT I BELIEVE IS THE MOST ",
+    "start": 1573.923,
+    "duration": 4.538
+  },
+  {
+    "text": "IMPORTANT OF THOSE QUESTIONS.",
+    "start": 1576.192,
+    "duration": 3.504
+  },
+  {
+    "text": "IS THERE LEGAL PRECEDENT OR ",
+    "start": 1578.561,
+    "duration": 3.437
+  },
+  {
+    "text": "POLICY THAT ALLOWS THE ",
+    "start": 1579.796,
+    "duration": 4.104
+  },
+  {
+    "text": "COMMITTING OF CURRENT BUDGET ",
+    "start": 1582.098,
+    "duration": 7.741
+  },
+  {
+    "text": "SAVINGS TO FUTURE BUDGETS WITHO ",
+    "start": 1584.0,
+    "duration": 6.206
+  },
+  {
+    "text": "AUTHIZATION?  ",
+    "start": 1589.939,
+    "duration": 2.303
+  },
+  {
+    "text": "AND THEN I JUST, YOU KNOW, JUST ",
+    "start": 1590.306,
+    "duration": 2.903
+  },
+  {
+    "text": "STARTING WITH A CLEAR YES OR NO ",
+    "start": 1592.342,
+    "duration": 3.77
+  },
+  {
+    "text": "WOULD BE HELPFUL.",
+    "start": 1593.309,
+    "duration": 5.106
+  },
+  {
+    "text": ">> COUNCIL VICE CHAIR KOSKI, ",
+    "start": 1596.413,
+    "duration": 3.069
+  },
+  {
+    "text": "THUGH THE CHAIR, I WOULD DEFER",
+    "start": 1598.548,
+    "duration": 2.97
+  },
+  {
+    "text": "THAT TO THE ATTORNEY'S OFFICE.",
+    "start": 1599.582,
+    "duration": 4.638
+  },
+  {
+    "text": "I DO NOT HAVE A LEGAL BACKGROUND",
+    "start": 1601.918,
+    "duration": 3.604
+  },
+  {
+    "text": "TO OFFER YOU O PROFESSIONAL ",
+    "start": 1604.354,
+    "duration": 2.336
+  },
+  {
+    "text": "ADVICE ON THAT.",
+    "start": 1605.622,
+    "duration": 1.601
+  },
+  {
+    "text": ">> PERFECT.",
+    "start": 1606.79,
+    "duration": 2.035
+  },
+  {
+    "text": "HAPPY TO, LIKE I SAID, TO PHONE ",
+    "start": 1607.324,
+    "duration": 3.136
+  },
+  {
+    "text": "A FRIEND HERE.",
+    "start": 1608.925,
+    "duration": 2.169
+  },
+  {
+    "text": "DO YOU WANT ME TO REPEAT THE ",
+    "start": 1610.56,
+    "duration": 2.803
+  },
+  {
+    "text": "QUESTION? ",
+    "start": 1611.194,
+    "duration": 3.837
+  },
+  {
+    "text": ">> CHAIR CHUGHTAI, COUNCIL ",
+    "start": 1613.663,
+    "duration": 2.603
+  },
+  {
+    "text": "MEMBER KOSKI, REPEATING IT WOULD",
+    "start": 1615.131,
+    "duration": 3.804
+  },
+  {
+    "text": "BE GOOD, BUT I ALSO THINK I'LL ",
+    "start": 1616.7,
+    "duration": 3.136
+  },
+  {
+    "text": "PROBABLY NEED SOME TIME TO LOOK ",
+    "start": 1619.035,
+    "duration": 1.602
+  },
+  {
+    "text": "AT IT MYSELF.",
+    "start": 1619.969,
+    "duration": 1.802
+  },
+  {
+    "text": ">> THAT IS FINE, TOO.",
+    "start": 1620.737,
+    "duration": 2.903
+  },
+  {
+    "text": "I'LL REPEAT THE QUESTION AND WE ",
+    "start": 1621.871,
+    "duration": 5.005
+  },
+  {
+    "text": "CAN PUT IT AS A MEMO SO WE DON'T",
+    "start": 1623.74,
+    "duration": 5.172
+  },
+  {
+    "text": "TAKE UP TOO MUCH OF OUR TIME, ",
+    "start": 1626.976,
+    "duration": 2.169
+  },
+  {
+    "text": "TOO.",
+    "start": 1629.012,
+    "duration": 1.401
+  },
+  {
+    "text": "IS THERE LEGAL PRECEDENT OR ",
+    "start": 1629.245,
+    "duration": 2.903
+  },
+  {
+    "text": "POLICY THAT ALLOWS THE ",
+    "start": 1630.513,
+    "duration": 2.837
+  },
+  {
+    "text": "COMMITTING OF CURRENT BUDGE ",
+    "start": 1632.248,
+    "duration": 3.971
+  },
+  {
+    "text": "SAVINGS TO FUTURE BUDGETS ",
+    "start": 1633.45,
+    "duration": 5.005
+  },
+  {
+    "text": "WITHOUT FORMAL ALLOCATION OR ",
+    "start": 1636.319,
+    "duration": 4.805
+  },
+  {
+    "text": "AUTHORIZATION?  ",
+    "start": 1638.555,
+    "duration": 4.571
+  },
+  {
+    "text": ">> WOULD YOU LIKE TO HAVE THAT ",
+    "start": 1641.358,
+    "duration": 2.936
+  },
+  {
+    "text": "NOTED FOR ADMINISTRATIVE ",
+    "start": 1643.226,
+    "duration": 1.401
+  },
+  {
+    "text": "FOLLOW-UP?  ",
+    "start": 1644.394,
+    "duration": 1.535
+  },
+  {
+    "text": ">> YES, I THINK THAT MAK THE ",
+    "start": 1644.728,
+    "duration": 1.968
+  },
+  {
+    "text": "MOST SENSE.",
+    "start": 1646.029,
+    "duration": 2.002
+  },
+  {
+    "text": ">> OKAY, WONDERFUL.",
+    "start": 1647.097,
+    "duration": 1.801
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1648.365,
+    "duration": 2.569
+  },
+  {
+    "text": "STILL ON ITEM -- ON THE RESPONSE",
+    "start": 1648.999,
+    "duration": 4.27
+  },
+  {
+    "text": "SUMMARY TO NUMBER FIVE, IT'S ",
+    "start": 1651.034,
+    "duration": 3.537
+  },
+  {
+    "text": "STATED THE CITY DOES, HOWEVER, ",
+    "start": 1653.37,
+    "duration": 2.969
+  },
+  {
+    "text": "BUDGET A PLANNED USE OF FUND ",
+    "start": 1654.671,
+    "duration": 3.77
+  },
+  {
+    "text": "BALANCE BASED ON THE AUDITED ",
+    "start": 1656.439,
+    "duration": 3.037
+  },
+  {
+    "text": "FINANCIAL STATEMENTS FROM THE ",
+    "start": 1658.541,
+    "duration": 1.469
+  },
+  {
+    "text": "PRIOR YEAR.",
+    "start": 1659.576,
+    "duration": 2.402
+  },
+  {
+    "text": "YOU TALKED A LITTLE BIT ABOUT ",
+    "start": 1660.11,
+    "duration": 3.436
+  },
+  {
+    "text": "THIS, BUT WHEN AREHE AUDITED ",
+    "start": 1662.078,
+    "duration": 2.703
+  },
+  {
+    "text": "FINANCIAL STATEMENTS FROM THE ",
+    "start": 1663.646,
+    "duration": 3.604
+  },
+  {
+    "text": "PRIOR YEAR TYPICALLY COMPLETED? ",
+    "start": 1664.881,
+    "duration": 5.272
+  },
+  {
+    "text": ">> MADAM VICE CHAIR, THROUGH THE",
+    "start": 1667.55,
+    "duration": 4.972
+  },
+  {
+    "text": "CHAIR, OUR AUDITED -- I CAN GIVE",
+    "start": 1670.253,
+    "duration": 3.871
+  },
+  {
+    "text": "YOU A BACKGROUND ON YEAR END.",
+    "start": 1672.622,
+    "duration": 2.669
+  },
+  {
+    "text": "YEAR-END PROCESSES START NOW.",
+    "start": 1674.224,
+    "duration": 2.169
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1675.792,
+    "duration": 3.07
+  },
+  {
+    "text": ">> ONCE WE CLOSE THE BOOK ON THE",
+    "start": 1676.726,
+    "duration": 4.772
+  },
+  {
+    "text": "CALENDAR YEAR, BY DECEMBER 31, ",
+    "start": 1678.962,
+    "duration": 3.737
+  },
+  {
+    "text": "WE'RE ALREADY IN CONTACT WITH ",
+    "start": 1681.598,
+    "duration": 4.137
+  },
+  {
+    "text": "THE OFFICE OF THE STATE AUDITOR.",
+    "start": 1682.799,
+    "duration": 5.906
+  },
+  {
+    "text": "USUALLY IT TAKES ABOUT THREE TO ",
+    "start": 1685.835,
+    "duration": 4.705
+  },
+  {
+    "text": "SIX MONTHS TO ISSUE FINAL ",
+    "start": 1688.805,
+    "duration": 2.936
+  },
+  {
+    "text": "AUDITED REPORT.",
+    "start": 1690.64,
+    "duration": 3.037
+  },
+  {
+    "text": "SO THE TIME FRAMES VARY.",
+    "start": 1691.841,
+    "duration": 3.237
+  },
+  {
+    "text": "IT CAN VARY FROM STAFFING.",
+    "start": 1693.777,
+    "duration": 3.203
+  },
+  {
+    "text": "IT CAN VARY FROM, YOU KNOW, THE ",
+    "start": 1695.178,
+    "duration": 3.737
+  },
+  {
+    "text": "OFFICE OF STATE AUDITOR HAS NEW ",
+    "start": 1697.08,
+    "duration": 4.838
+  },
+  {
+    "text": "AUDITORS ON BOARD WHICH WE WILL.",
+    "start": 1699.015,
+    "duration": 6.34
+  },
+  {
+    "text": "SO ON AVERE, IT TAKES ABOUT",
+    "start": 1702.018,
+    "duration": 4.938
+  },
+  {
+    "text": "THREE TO SIX MONTHS AFTER THE ",
+    "start": 1705.455,
+    "duration": 2.703
+  },
+  {
+    "text": "CLOSE OF A CALENDAR YEAR.",
+    "start": 1707.057,
+    "duration": 2.269
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1708.925,
+    "duration": 2.736
+  },
+  {
+    "text": "SO SOMEWHERE BETWEEN MARCH AND ",
+    "start": 1710.093,
+    "duration": 1.768
+  },
+  {
+    "text": "JUNE.",
+    "start": 1711.761,
+    "duration": 0.868
+  },
+  {
+    "text": "OKAY.",
+    "start": 1711.961,
+    "duration": 2.737
+  },
+  {
+    "text": "THAT'S HELPFUL.",
+    "start": 1712.729,
+    "duration": 3.537
+  },
+  {
+    "text": "SO BASED ON THAT INFORMATION, ",
+    "start": 1715.031,
+    "duration": 2.803
+  },
+  {
+    "text": "WOULD BIT ACCURATE TO STATE THAT",
+    "start": 1716.366,
+    "duration": 3.403
+  },
+  {
+    "text": "THE CRENT YEAR'S BUDGET ",
+    "start": 1717.934,
+    "duration": 3.37
+  },
+  {
+    "text": "SAVINGS, WHICH WILL CONTRIBUTE ",
+    "start": 1719.869,
+    "duration": 4.338
+  },
+  {
+    "text": "TO THE FUND BALANCE, WILL NOT BE",
+    "start": 1721.404,
+    "duration": 4.939
+  },
+  {
+    "text": "AVAILABLE FOR USE UNTIL THE ",
+    "start": 1724.307,
+    "duration": 3.737
+  },
+  {
+    "text": "AUDITED FINANAL STATEMENTS ",
+    "start": 1726.443,
+    "duration": 3.169
+  },
+  {
+    "text": "THIS YEAR ARE COMPLETE, SOMETIME",
+    "start": 1728.144,
+    "duration": 4.471
+  },
+  {
+    "text": "BETWEEN THREE ANDIX MONTHS, ",
+    "start": 1729.713,
+    "duration": 4.938
+  },
+  {
+    "text": "WHICH IS AFTER THE 2025 PROPERTY",
+    "start": 1732.716,
+    "duration": 3.803
+  },
+  {
+    "text": "TAX LEVY WL BE SET AND ",
+    "start": 1734.751,
+    "duration": 3.403
+  },
+  {
+    "text": "IMPOSED?  THUS MEANING THAT ",
+    "start": 1736.619,
+    "duration": 2.703
+  },
+  {
+    "text": "THOSE FUNDS CANNOT AND WILL NOT ",
+    "start": 1738.254,
+    "duration": 3.404
+  },
+  {
+    "text": "BE USED TO LOWER THE 2025 ",
+    "start": 1739.723,
+    "duration": 4.337
+  },
+  {
+    "text": "PROPERTY TAX LEVY?  ",
+    "start": 1741.758,
+    "duration": 5.339
+  },
+  {
+    "text": ">> MADAM VICE CHAIR, THROUGH THE",
+    "start": 1744.427,
+    "duration": 6.907
+  },
+  {
+    "text": "CHAIR, GIVEN THE INFLUX OF ",
+    "start": 1747.197,
+    "duration": 6.506
+  },
+  {
+    "text": "REVENUE FROM THE STATE AND ALSO ",
+    "start": 1751.434,
+    "duration": 5.005
+  },
+  {
+    "text": "OTHER REVENUES THAT WE AS A CITY",
+    "start": 1753.803,
+    "duration": 5.573
+  },
+  {
+    "text": "GE IT'S MORE PRUDENT TO ASSUME",
+    "start": 1756.606,
+    "duration": 4.738
+  },
+  {
+    "text": "THAT WE CAN PROJECT, BUT WE ",
+    "start": 1759.476,
+    "duration": 3.136
+  },
+  {
+    "text": "CANNOT OFFICIALLY RECOGNIZE ",
+    "start": 1761.444,
+    "duration": 2.536
+  },
+  {
+    "text": "DURING THAT TIME PERIOD.",
+    "start": 1762.712,
+    "duration": 1.502
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1764.08,
+    "duration": 4.605
+  },
+  {
+    "text": "THANK YOU.APPRECIATE THAT.",
+    "start": 1764.314,
+    "duration": 5.572
+  },
+  {
+    "text": "AND THEN A FINAL QUESTION.",
+    "start": 1768.785,
+    "duration": 3.003
+  },
+  {
+    "text": "HAS THE MAYOR OR THE ",
+    "start": 1769.986,
+    "duration": 4.104
+  },
+  {
+    "text": "ADMINISTRATION OR YOUR TEAM ",
+    "start": 1771.888,
+    "duration": 3.537
+  },
+  {
+    "text": "IMPLEMENTED THE BUDGET CUTS THEY",
+    "start": 1774.19,
+    "duration": 2.403
+  },
+  {
+    "text": "STATED WERE NECESSARY AS A ",
+    "start": 1775.525,
+    "duration": 3.237
+  },
+  {
+    "text": "RESPONSE TO THE BUDGET ",
+    "start": 1776.693,
+    "duration": 5.572
+  },
+  {
+    "text": "REALLOCATION THAT WAS DONE F ",
+    "start": 1778.862,
+    "duration": 3.637
+  },
+  {
+    "text": "AGATE?  ",
+    "start": 1782.365,
+    "duration": 3.504
+  },
+  {
+    "text": ">> MADAM VICE CHAIR, THROUGH THE",
+    "start": 1782.599,
+    "duration": 5.372
+  },
+  {
+    "text": "CHAIR, WE D HAVE THAT ",
+    "start": 1785.969,
+    "duration": 5.906
+  },
+  {
+    "text": "RESOLUTION COME INTO OUR OFFICE.",
+    "start": 1788.071,
+    "duration": 5.772
+  },
+  {
+    "text": "AS OF NOW, I HAVE NOT SEEN ANY ",
+    "start": 1791.975,
+    "duration": 3.103
+  },
+  {
+    "text": "ACTION YET.",
+    "start": 1793.943,
+    "duration": 3.037
+  },
+  {
+    "text": "I WOULD HAVE TO REFER THAT TO ",
+    "start": 1795.178,
+    "duration": 4.271
+  },
+  {
+    "text": "THE COUNCIL, TO THE MAYOR'S ",
+    "start": 1797.08,
+    "duration": 3.937
+  },
+  {
+    "text": "OFFICE, AND ALSO OUR STAFF ",
+    "start": 1799.549,
+    "duration": 1.869
+  },
+  {
+    "text": "MEMBER.",
+    "start": 1801.117,
+    "duration": 1.035
+  },
+  {
+    "text": ">> OKAY.",
+    "start": 1801.818,
+    "duration": 0.767
+  },
+  {
+    "text": "THANK YOU SO MUCH.",
+    "start": 1802.252,
+    "duration": 1.968
+  },
+  {
+    "text": "I APPRECIATE THAT.",
+    "start": 1802.686,
+    "duration": 4.304
+  },
+  {
+    "text": "AND I'LL JUST END WITH THIS.",
+    "start": 1804.321,
+    "duration": 6.339
+  },
+  {
+    "text": "THAT I JUST, AGAIN, I APPRECIATE",
+    "start": 1807.09,
+    "duration": 7.241
+  },
+  {
+    "text": "ALL THE INFORMATIONND FROM MY ",
+    "start": 1810.76,
+    "duration": 5.773
+  },
+  {
+    "text": "VANTAGE POINT HERE, I SEE THAT ",
+    "start": 1814.431,
+    "duration": 3.937
+  },
+  {
+    "text": "THE CITY'S FINANCIAL SITUATION ",
+    "start": 1816.633,
+    "duration": 2.636
+  },
+  {
+    "text": "IS STABLE.",
+    "start": 1818.468,
+    "duration": 4.805
+  },
+  {
+    "text": "OUR PROJECTED YEAR-END GENERAL ",
+    "start": 1819.369,
+    "duration": 6.373
+  },
+  {
+    "text": "FUND BALANCE IS $168.4 MILLION.",
+    "start": 1823.373,
+    "duration": 3.77
+  },
+  {
+    "text": "THAT'S $54.8 MILLION ABOVE OUR ",
+    "start": 1825.842,
+    "duration": 2.603
+  },
+  {
+    "text": "TARGETED BALANCE, WHICH MEANS WE",
+    "start": 1827.243,
+    "duration": 2.77
+  },
+  {
+    "text": "HAVE A CUSHION OF RESERVES ON ",
+    "start": 1828.545,
+    "duration": 4.171
+  },
+  {
+    "text": "TOP OF A CUSHION OF RESERVES.",
+    "start": 1830.113,
+    "duration": 4.571
+  },
+  {
+    "text": "WE HAVE THE CAPACITY TO SPEND ",
+    "start": 1832.816,
+    "duration": 3.937
+  },
+  {
+    "text": "THAT $1.5 MILLION ON EMERGENCY ",
+    "start": 1834.784,
+    "duration": 3.604
+  },
+  {
+    "text": "WITHOUT DISRUPTINGHE BUDGET.",
+    "start": 1836.853,
+    "duration": 3.337
+  },
+  {
+    "text": "AND WE HAVE THE CAPACITY TO ",
+    "start": 1838.488,
+    "duration": 3.57
+  },
+  {
+    "text": "SPEND $1.5 MILLION ON AN ",
+    "start": 1840.29,
+    "duration": 3.637
+  },
+  {
+    "text": "EMERGENCY WITHOUT PUTTING THE ",
+    "start": 1842.158,
+    "duration": 2.67
+  },
+  {
+    "text": "OVERALL FINANCIAL STABILITY OF ",
+    "start": 1844.027,
+    "duration": 2.002
+  },
+  {
+    "text": "THE CITY AT RISK.",
+    "start": 1844.928,
+    "duration": 4.004
+  },
+  {
+    "text": "AND SO I'M GRATEFUL TODAY TO ",
+    "start": 1846.129,
+    "duration": 5.772
+  },
+  {
+    "text": "HAVE SOME CLARITY ON THIS ",
+    "start": 1849.032,
+    "duration": 3.17
+  },
+  {
+    "text": "INFORMATION.",
+    "start": 1852.002,
+    "duration": 1.601
+  },
+  {
+    "text": "SO THANK YOU SO MUCH, AGAIN, FOR",
+    "start": 1852.302,
+    "duration": 3.336
+  },
+  {
+    "text": "YOUR PRESENTATION AND THE ADDED ",
+    "start": 1853.703,
+    "duration": 2.67
+  },
+  {
+    "text": "INFORMATION IN QUESTIONS.",
+    "start": 1855.739,
+    "duration": 2.936
+  },
+  {
+    "text": "I KNOW I ASKED A LOT.",
+    "start": 1856.473,
+    "duration": 4.471
+  },
+  {
+    "text": ">> THANK YOU SO MUCH, VICE CHAIR",
+    "start": 1859.409,
+    "duration": 1.835
+  },
+  {
+    "text": "KOSKI.",
+    "start": 1861.044,
+    "duration": 2.836
+  },
+  {
+    "text": "NEXT I WILL RECOGNIZE COUNCIL ",
+    "start": 1861.344,
+    "duration": 3.27
+  },
+  {
+    "text": "MEMBER PALMISANO.",
+    "start": 1863.98,
+    "duration": 3.837
+  },
+  {
+    "text": ">> THANK YOU, MADAM CHAIR.",
+    "start": 1864.914,
+    "duration": 3.471
+  },
+  {
+    "text": "I DON'T THINK I HAVE ANY ",
+    "start": 1867.917,
+    "duration": 1.669
+  },
+  {
+    "text": "QUESTIONS DIRECTLY, BUT JUST A ",
+    "start": 1868.485,
+    "duration": 3.136
+  },
+  {
+    "text": "COUPLE OF THINGS I WANTED TO ",
+    "start": 1869.686,
+    "duration": 2.703
+  },
+  {
+    "text": "POINT OUT.",
+    "start": 1871.721,
+    "duration": 2.503
+  },
+  {
+    "text": "THE BUDGET TEAM ARE PARTICULARLY",
+    "start": 1872.489,
+    "duration": 3.236
+  },
+  {
+    "text": "HUMBLE PUBLIC SERVANTS.",
+    "start": 1874.324,
+    "duration": 3.57
+  },
+  {
+    "text": "THEY'RE NOT BOASTFUL IN ANY WAY.",
+    "start": 1875.825,
+    "duration": 3.871
+  },
+  {
+    "text": "THEY DO HAVE A FEW THINGS TO BE ",
+    "start": 1877.994,
+    "duration": 5.639
+  },
+  {
+    "text": "PROUD OF IN TERMS OF SERVING OUR",
+    "start": 1879.796,
+    "duration": 4.171
+  },
+  {
+    "text": "CITY.",
+    "start": 1883.733,
+    "duration": 2.603
+  },
+  {
+    "text": "A GOOD PORTION OF THIS REPORT ",
+    "start": 1884.868,
+    "duration": 4.638
+  },
+  {
+    "text": "TALKS ABOUT BEING AUDITED ON AN ",
+    "start": 1886.436,
+    "duration": 5.005
+  },
+  {
+    "text": "ANNUAL BASIS BY THE STATE, AND ",
+    "start": 1889.606,
+    "duration": 3.136
+  },
+  {
+    "text": "THEY'VE RECEIVED A CERTIFICATE ",
+    "start": 1891.541,
+    "duration": 2.736
+  },
+  {
+    "text": "OF AIEVEMENT FOR EXCELLENCE IN",
+    "start": 1893.176,
+    "duration": 5.439
+  },
+  {
+    "text": "FINANCIAL REPORTING FOR 49 YEARS",
+    "start": 1894.377,
+    "duration": 4.938
+  },
+  {
+    "text": "STRAIGHT.",
+    "start": 1898.715,
+    "duration": 6.373
+  },
+  {
+    "text": "SO THANK YOU FOR YOUR -- FOR ",
+    "start": 1899.983,
+    "duration": 15.415
+  },
+  {
+    "text": "BEING PART OF THAT LONG TUT ",
+    "start": 1905.188,
+    "duration": 11.311
+  },
+  {
+    "text": "LANG-- ",
+    "start": 1915.498,
+    "duration": 3.204
+  },
+  {
+    "text": "OF TUTELAGE OF WORK.",
+    "start": 1916.599,
+    "duration": 3.971
+  },
+  {
+    "text": "I D HAVE A CHANCE TO READ THE ",
+    "start": 1918.802,
+    "duration": 3.703
+  },
+  {
+    "text": "REPORT AND MOST OF THEM ARE ON ",
+    "start": 1920.67,
+    "duration": 2.87
+  },
+  {
+    "text": "PAGE 13 IN THE BULLET POINTS ",
+    "start": 1922.605,
+    "duration": 2.036
+  },
+  {
+    "text": "THAT THE FINANCE TEAM POINTS ",
+    "start": 1923.64,
+    "duration": 1.168
+  },
+  {
+    "text": "OUT.",
+    "start": 1924.741,
+    "duration": 2.235
+  },
+  {
+    "text": "THE FIRST ONE IN THE PART THAT ",
+    "start": 1924.908,
+    "duration": 3.136
+  },
+  {
+    "text": "STARTS ABOUT CHANGE IN FUND ",
+    "start": 1927.077,
+    "duration": 3.67
+  },
+  {
+    "text": "BALANCE, IT TALKS ABOUT THE ",
+    "start": 1928.144,
+    "duration": 3.304
+  },
+  {
+    "text": "PROJECTION FOR THE SECOND ",
+    "start": 1930.847,
+    "duration": 2.836
+  },
+  {
+    "text": "QUARTER INDICATES PLANNED ",
+    "start": 1931.548,
+    "duration": 5.405
+  },
+  {
+    "text": "EXPENDITURES WHICH IS A ",
+    "start": 1933.783,
+    "duration": 4.271
+  },
+  {
+    "text": "SIGNIFICANT DRAW DOWN FROM OUR ",
+    "start": 1937.053,
+    "duration": 1.802
+  },
+  {
+    "text": "CURRENT FUND BALANCE.",
+    "start": 1938.154,
+    "duration": 2.703
+  },
+  {
+    "text": "IT TALKS ABOUT HOW THE SITUATION",
+    "start": 1939.189,
+    "duration": 3.703
+  },
+  {
+    "text": "UNDERSCORES THAT THERE IS NO ",
+    "start": 1940.957,
+    "duration": 2.836
+  },
+  {
+    "text": "SURPLUS AVAILABLE.",
+    "start": 1942.993,
+    "duration": 2.836
+  },
+  {
+    "text": "INSTEAD, AND ITSAYS, AND I ",
+    "start": 1943.893,
+    "duration": 3.637
+  },
+  {
+    "text": "QUOTE, WE ARE DEFICIT SPENDING ",
+    "start": 1945.929,
+    "duration": 4.071
+  },
+  {
+    "text": "OUR FUND BALANCE AS OF JUNE 30.",
+    "start": 1947.63,
+    "duration": 5.873
+  },
+  {
+    "text": "SO AS OF THAT SECOND QUARTER ",
+    "start": 1950.3,
+    "duration": 3.437
+  },
+  {
+    "text": "REPORT.",
+    "start": 1953.603,
+    "duration": 3.103
+  },
+  {
+    "text": "ANOTHER PIECE, TALKS ABOUT THE ",
+    "start": 1953.837,
+    "duration": 4.638
+  },
+  {
+    "text": "AMOUNTS THAT WERE ABOVE THE ",
+    "start": 1956.806,
+    "duration": 3.47
+  },
+  {
+    "text": "TARGET WERE IMPORTANT TO ",
+    "start": 1958.575,
+    "duration": 2.736
+  },
+  {
+    "text": "CLARIFY, THAT THIS AMOUNT ",
+    "start": 1960.377,
+    "duration": 3.67
+  },
+  {
+    "text": "INCLUDES RESTRICTED FUND ",
+    "start": 1961.411,
+    "duration": 3.637
+  },
+  {
+    "text": "BALANCES DESIGNATED FOR SPECIFIC",
+    "start": 1964.147,
+    "duration": 1.969
+  },
+  {
+    "text": "PURPOSES AND THEREFORE, SHOD ",
+    "start": 1965.148,
+    "duration": 3.437
+  },
+  {
+    "text": "NOT BE REVIEWED AS A VIEW ",
+    "start": 1966.216,
+    "duration": 3.036
+  },
+  {
+    "text": "SURPLUS.",
+    "start": 1968.685,
+    "duration": 2.235
+  },
+  {
+    "text": "THAT'S A QUOTE FROM THE BULLET ",
+    "start": 1969.352,
+    "duration": 5.039
+  },
+  {
+    "text": "POINT THAT STARTS JUNE 30, 2024 ",
+    "start": 1971.021,
+    "duration": 4.938
+  },
+  {
+    "text": "CASH BALANCE.",
+    "start": 1974.491,
+    "duration": 3.57
+  },
+  {
+    "text": "ANOTHER ONE IS ABOUT THE ",
+    "start": 1976.059,
+    "duration": 3.537
+  },
+  {
+    "text": "PROJECTED REVENUE BUDGET ",
+    "start": 1978.161,
+    "duration": 3.203
+  },
+  {
+    "text": "DEFICIT, AND IT ENDS WITH IT IS ",
+    "start": 1979.696,
+    "duration": 2.703
+  },
+  {
+    "text": "CRUCIAL TO RECOGNIZE THIS DOES ",
+    "start": 1981.464,
+    "duration": 2.97
+  },
+  {
+    "text": "NOT EQUATE TO A SURPLUS.",
+    "start": 1982.499,
+    "duration": 3.236
+  },
+  {
+    "text": "THE ANTICIPATED REDUCTION IN ",
+    "start": 1984.534,
+    "duration": 2.536
+  },
+  {
+    "text": "REVENUE CHALLENGES THE MOTION OF",
+    "start": 1985.835,
+    "duration": 3.237
+  },
+  {
+    "text": "A SURPLUS AS ANY DECREASE IN ",
+    "start": 1987.37,
+    "duration": 5.572
+  },
+  {
+    "text": "REVENUE DIRECTLY IMPACTS OUR ",
+    "start": 1989.172,
+    "duration": 6.173
+  },
+  {
+    "text": "FINANCIAL PROFILE.",
+    "start": 1993.043,
+    "duration": 4.738
+  },
+  {
+    "text": "I WANT OUR CITY TO KEEP ITS ",
+    "start": 1995.445,
+    "duration": 3.203
+  },
+  {
+    "text": "DESIGNATION OF EXCELLENCE IN ",
+    "start": 1997.881,
+    "duration": 1.868
+  },
+  {
+    "text": "FINANCIAL REPORTING AND ",
+    "start": 1998.748,
+    "duration": 1.802
+  },
+  {
+    "text": "BUDGETING,ND I THANK YOU FOR ",
+    "start": 1999.849,
+    "duration": 3.471
+  },
+  {
+    "text": "YOUR WORK.",
+    "start": 2000.65,
+    "duration": 4.138
+  },
+  {
+    "text": "THE CITY DOES NOT COMMIT CURRENT",
+    "start": 2003.42,
+    "duration": 3.57
+  },
+  {
+    "text": "YEAR'S BUDGET SAVINGS TO FUTURE ",
+    "start": 2004.888,
+    "duration": 3.37
+  },
+  {
+    "text": "BUDGETS,O AS WE'VE BEEN TOLD ",
+    "start": 2007.09,
+    "duration": 2.836
+  },
+  {
+    "text": "OVER ANDVER AGAIN, FINANCIAL ",
+    "start": 2008.358,
+    "duration": 2.903
+  },
+  {
+    "text": "REPORTS ARE A SNAPSHOT IN TIME.",
+    "start": 2010.026,
+    "duration": 3.404
+  },
+  {
+    "text": "THEY ARE NOT DEFINIVE ",
+    "start": 2011.361,
+    "duration": 2.569
+  },
+  {
+    "text": "DOCUMENTS.",
+    "start": 2013.53,
+    "duration": 3.236
+  },
+  {
+    "text": "THE STATE AUDITOR'S REPORT IS A ",
+    "start": 2014.03,
+    "duration": 4.104
+  },
+  {
+    "text": "REMINDER OF TH FLUIDITY OF ",
+    "start": 2016.866,
+    "duration": 1.869
+  },
+  {
+    "text": "FINANCIAL REPORTS.",
+    "start": 2018.234,
+    "duration": 6.04
+  },
+  {
+    "text": "THEY CAN BE INFLUENCED BY MANY, ",
+    "start": 2018.835,
+    "duration": 7.274
+  },
+  {
+    "text": "MANY FACTORS, BOTH INTERNAL AND ",
+    "start": 2024.374,
+    "duration": 3.337
+  },
+  {
+    "text": "EXTERNAL, AND NONE OF US HERE ON",
+    "start": 2026.209,
+    "duration": 3.57
+  },
+  {
+    "text": "THE DAIS ARE EXPERTS IN FINANCE,",
+    "start": 2027.811,
+    "duration": 3.57
+  },
+  {
+    "text": "BU WE HAVE HIGHLY EXPERIENCED ",
+    "start": 2030.347,
+    "duration": 1.901
+  },
+  {
+    "text": "PROFESSIONAL STAFF WHO ARE, AND ",
+    "start": 2031.481,
+    "duration": 1.902
+  },
+  {
+    "text": "THEY ARE RIGHT HERE IN THIS ",
+    "start": 2032.349,
+    "duration": 1.234
+  },
+  {
+    "text": "ROOM.",
+    "start": 2033.483,
+    "duration": 2.069
+  },
+  {
+    "text": "WE NEED TO LE THEM DO THEIR ",
+    "start": 2033.75,
+    "duration": 2.903
+  },
+  {
+    "text": "JOBS, AND WE NEED TO BELIEVE ",
+    "start": 2035.652,
+    "duration": 1.902
+  },
+  {
+    "text": "WHAT THEY TELL US.",
+    "start": 2036.753,
+    "duration": 3.403
+  },
+  {
+    "text": "THANK YOU, MADAM CHAIR.",
+    "start": 2037.654,
+    "duration": 3.97
+  },
+  {
+    "text": ">> THANK YOU, COUNCIL MEMBER.",
+    "start": 2040.323,
+    "duration": 4.338
+  },
+  {
+    "text": "I'M N SEEING ANY FURTHER ",
+    "start": 2041.725,
+    "duration": 4.537
+  },
+  {
+    "text": "QUESTIONS OR DISCUSSION.",
+    "start": 2044.761,
+    "duration": 2.369
+  },
+  {
+    "text": "ACTUALLY, I WILL RECOGZE ",
+    "start": 2046.363,
+    "duration": 1.568
+  },
+  {
+    "text": "COUNCIL MEMBER VETAW.",
+    "start": 2047.23,
+    "duration": 2.035
+  },
+  {
+    "text": ">> THANK YOU, CHAIR.",
+    "start": 2048.098,
+    "duration": 3.904
+  },
+  {
+    "text": "I JUST HAD A QUICK CLARIFYING ",
+    "start": 2049.366,
+    "duration": 3.003
+  },
+  {
+    "text": "QUESTION.",
+    "start": 2052.102,
+    "duration": 4.137
+  },
+  {
+    "text": "SO THIS ITEM ISHE LEGISLATIVE ",
+    "start": 2052.602,
+    "duration": 4.938
+  },
+  {
+    "text": "DIRECTIVE THAT WAS BROUGHT ",
+    "start": 2056.339,
+    "duration": 4.371
+  },
+  {
+    "text": "FORWARD BY YOU AND COUNCIL ",
+    "start": 2057.64,
+    "duration": 4.038
+  },
+  {
+    "text": "MEMBER KOSKI AFTER THE $1.5 ",
+    "start": 2060.81,
+    "duration": 4.038
+  },
+  {
+    "text": "MILLION THAT WAS GIVEN TO AGATE ",
+    "start": 2061.778,
+    "duration": 3.67
+  },
+  {
+    "text": "-- ",
+    "start": 2064.981,
+    "duration": 2.002
+  },
+  {
+    "text": ">> YES, THAT'S EXACTLY RIGHT.",
+    "start": 2065.648,
+    "duration": 3.537
+  },
+  {
+    "text": ">> I'M JUST MAKING SURE I'M ",
+    "start": 2067.384,
+    "duration": 3.003
+  },
+  {
+    "text": "THINKING ABOUT THE CORRECT ",
+    "start": 2069.285,
+    "duration": 1.836
+  },
+  {
+    "text": "LEGISLATIVE DIRECTIVE.",
+    "start": 2070.487,
+    "duration": 1.168
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 2071.221,
+    "duration": 2.436
+  },
+  {
+    "text": ">> YEP, YOU'VE GOT IT EXACTLY ",
+    "start": 2071.755,
+    "duration": 2.102
+  },
+  {
+    "text": "RIGHT.",
+    "start": 2073.757,
+    "duration": 0.367
+  },
+  {
+    "text": "WONDERFUL.",
+    "start": 2073.957,
+    "duration": 2.035
+  },
+  {
+    "text": "WITH THAT, I AM NOT SEEING ANY ",
+    "start": 2074.224,
+    "duration": 4.204
+  },
+  {
+    "text": "FURTHER QUESTIONS OR DISCUSSION.",
+    "start": 2076.092,
+    "duration": 4.672
+  },
+  {
+    "text": "SO SEEING NONE, I WILL ASK THE ",
+    "start": 2078.561,
+    "duration": 3.404
+  },
+  {
+    "text": "CLERK TO FILEHAT REPORT.",
+    "start": 2080.864,
+    "duration": 2.903
+  },
+  {
+    "text": "THANK YOU, DEPUTY C.F.O., FOR ",
+    "start": 2082.065,
+    "duration": 5.939
+  },
+  {
+    "text": "YOUR ADDITIONAL REMARKS AND ",
+    "start": 2083.867,
+    "duration": 7.107
+  },
+  {
+    "text": "ANSWERS TO QUESTIONS.",
+    "start": 2088.104,
+    "duration": 4.305
+  },
+  {
+    "text": "WITH THAT, WE HAVE CONCLUDED ALL",
+    "start": 2091.074,
+    "duration": 2.436
+  },
+  {
+    "text": "BUSINESS TO COME BEFORE THIS ",
+    "start": 2092.509,
+    "duration": 1.768
+  },
+  {
+    "text": "COMMITTEE DAY.",
+    "start": 2093.61,
+    "duration": 1.735
+  },
+  {
+    "text": "AND WITHOUT OBJECTION, WE STAND ",
+    "start": 2094.377,
+    "duration": 4.972
+  },
+  {
+    "text": "ADJOURNED.",
+    "start": 2095.445,
+    "duration": 3.904
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 2099.516,
+    "duration": 1.001
+  },
+  {
+    "text": ">>",
+    "start": 2100.45,
+    "duration": 0.2
+  },
+  {
+    "text": ".",
+    "start": 2100.583,
+    "duration": 0.301
+  },
+  {
+    "text": ".",
+    "start": 2100.817,
+    "duration": 0.2
+  },
+  {
+    "text": ".",
+    "start": 2100.95,
+    "duration": 16.917
+  },
+  {
+    "text": ".",
+    "start": 2101.084,
+    "duration": 16.783
+  }
+]
