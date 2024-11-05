@@ -9119,5 +9119,47 @@
     "MinutesPDFURL": null,
     "VideoTitle": "October 31, 2024 Minneapolis City Council",
     "VideoId": "XAI1K9ddoHA"
+  },
+  {
+    "MeetingBody": "Administration & Enterprise Oversight Committee",
+    "MeetingDateTime": "2024-11-04T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/AEO/4943",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4034/AEO_11042024_Committee_Report.pdf",
+    "VideoTitle": "November 4, 2024 Administration & Enterprise Oversight Committee",
+    "VideoId": "1GLTIeH6t3g"
   }
 ]
