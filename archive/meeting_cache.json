@@ -9203,5 +9203,89 @@
     "MinutesPDFURL": null,
     "VideoTitle": "November 6, 2024 Public Health & Safety Committee",
     "VideoId": "WWb9yGPKy4E"
+  },
+  {
+    "MeetingBody": "Climate & Infrastructure Committee",
+    "MeetingDateTime": "2024-11-07T13:30:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Chair"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/CI/4941",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4035/CI_11072024_Committee_Report.pdf",
+    "VideoTitle": "November 7, 2024 Climate & Infrastructure Committee",
+    "VideoId": "EgtJo4inebk"
+  },
+  {
+    "MeetingBody": "Business, Housing & Zoning Committee",
+    "MeetingDateTime": "2024-11-07T10:00:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/BHZ/4942",
+    "MinutesPDFURL": null,
+    "VideoTitle": "November 7, 2024 Business, Housing & Zoning Committee",
+    "VideoId": "F8--NNmFEX0"
   }
 ]
