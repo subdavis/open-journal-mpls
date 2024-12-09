@@ -5,7 +5,7 @@ name: daily-generation-routine
 
 steps:
   - name: install-poetry
-    image: mwalbeck/python-poetry:latest
+    image: mwalbeck/python-poetry:3.12
     environment:
       ANTHROPIC_KEY:
         from_secret: ANTHROPIC_KEY
