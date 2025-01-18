@@ -1,0 +1,1997 @@
+[
+  {
+    "text": "[GAVEL] ",
+    "start": 21.304,
+    "duration": 1.468
+  },
+  {
+    "text": ">> GOOD MORNING.",
+    "start": 22.372,
+    "duration": 1.935
+  },
+  {
+    "text": "AND HAPPY NEW YEAR.",
+    "start": 22.872,
+    "duration": 3.237
+  },
+  {
+    "text": "MY NAME IS ELLIOTT PAYNE AND I'M",
+    "start": 24.507,
+    "duration": 2.369
+  },
+  {
+    "text": "THE PRESIDENT OF THE MINNEAPOLIS",
+    "start": 26.209,
+    "duration": 1.235
+  },
+  {
+    "text": "CITY COUNCIL.",
+    "start": 26.976,
+    "duration": 1.969
+  },
+  {
+    "text": "I'M GOING TO CALL THI SPECIAL ",
+    "start": 27.544,
+    "duration": 2.435
+  },
+  {
+    "text": "MEETING OF THE CITY COUNCIL FOR ",
+    "start": 29.045,
+    "duration": 2.97
+  },
+  {
+    "text": "JANUARY 6, 2025 TO ORDER.",
+    "start": 30.08,
+    "duration": 6.806
+  },
+  {
+    "text": "THE CLERK WILL CALL THE ROLL.",
+    "start": 32.115,
+    "duration": 6.34
+  },
+  {
+    "text": ">> COUNCIL MEMBER JENKINS IS ",
+    "start": 36.986,
+    "duration": 2.737
+  },
+  {
+    "text": "ABSENT.",
+    "start": 38.555,
+    "duration": 2.435
+  },
+  {
+    "text": "COUNCIL MEMBER PALMISANO.",
+    "start": 39.823,
+    "duration": 1.534
+  },
+  {
+    "text": ">> PRESE.",
+    "start": 41.091,
+    "duration": 1.768
+  },
+  {
+    "text": ">> COUNCIL MEMBER CHOWDHURY IS ",
+    "start": 41.491,
+    "duration": 1.602
+  },
+  {
+    "text": "ABSENT.",
+    "start": 42.959,
+    "duration": 1.435
+  },
+  {
+    "text": "COUNCIL MEMBER CASHMAN.",
+    "start": 43.193,
+    "duration": 1.635
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 44.494,
+    "duration": 0.467
+  },
+  {
+    "text": ".",
+    "start": 44.894,
+    "duration": 1.902
+  },
+  {
+    "text": "COUNCIL MEMBER OSMAN.",
+    "start": 45.061,
+    "duration": 2.302
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 46.896,
+    "duration": 1.168
+  },
+  {
+    "text": ".",
+    "start": 47.997,
+    "duration": 0.668
+  },
+  {
+    "text": "COUNCIL MEMBER RAINVILLE.",
+    "start": 48.164,
+    "duration": 1.902
+  },
+  {
+    "text": "PAREN RR.",
+    "start": 48.765,
+    "duration": 1.969
+  },
+  {
+    "text": "COUNCIL MEMBER CHAVEZ.",
+    "start": 50.166,
+    "duration": 1.001
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 50.834,
+    "duration": 0.967
+  },
+  {
+    "text": ".",
+    "start": 51.735,
+    "duration": 1.434
+  },
+  {
+    "text": "COUNCIL MEMBER ELLISON IS ",
+    "start": 51.901,
+    "duration": 2.269
+  },
+  {
+    "text": "ABLENT.",
+    "start": 53.269,
+    "duration": 1.569
+  },
+  {
+    "text": "COUNCIL MEMBER VETAW.",
+    "start": 54.27,
+    "duration": 2.403
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 54.938,
+    "duration": 1.935
+  },
+  {
+    "text": ".",
+    "start": 56.806,
+    "duration": 0.634
+  },
+  {
+    "text": "AWE COUNCIL MEMBER COUNCIL ",
+    "start": 56.973,
+    "duration": 3.003
+  },
+  {
+    "text": "MEMBER KOSKI.",
+    "start": 57.54,
+    "duration": 2.736
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 60.076,
+    "duration": 0.868
+  },
+  {
+    "text": ".",
+    "start": 60.877,
+    "duration": 4.671
+  },
+  {
+    "text": ">> VICE PRESIDENT CHUGHTAI.",
+    "start": 63.646,
+    "duration": 2.203
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 65.648,
+    "duration": 0.434
+  },
+  {
+    "text": ".",
+    "start": 66.015,
+    "duration": 2.803
+  },
+  {
+    "text": ">> PRESIDENT PAYNE.",
+    "start": 66.649,
+    "duration": 2.67
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 68.918,
+    "duration": 2.236
+  },
+  {
+    "text": ">> WE HAVE A QUORUM.",
+    "start": 69.519,
+    "duration": 2.669
+  },
+  {
+    "text": "BEFORE WE BEGIN THE MEETING, I ",
+    "start": 72.288,
+    "duration": 1.535
+  },
+  {
+    "text": "WANT TO OFFER A FRIENDLY ",
+    "start": 73.389,
+    "duration": 1.001
+  },
+  {
+    "text": "REMINDER TO ALL MEMBERS AND ",
+    "start": 73.923,
+    "duration": 1.468
+  },
+  {
+    "text": "STAFF THAT THIS MEETING IS ",
+    "start": 74.491,
+    "duration": 2.502
+  },
+  {
+    "text": "BROADCAST LIVE TO ENABLE GREATER",
+    "start": 75.492,
+    "duration": 2.035
+  },
+  {
+    "text": "PUBLIC PARTICIPATION. THE ",
+    "start": 77.093,
+    "duration": 1.035
+  },
+  {
+    "text": "BROADCAST INCLUDES REAL-TIME ",
+    "start": 77.627,
+    "duration": 1.435
+  },
+  {
+    "text": "CAPTIONING AS A FURTHER METHOD ",
+    "start": 78.228,
+    "duration": 1.468
+  },
+  {
+    "text": "TO INCREASE THE ACCESSIBILITY ",
+    "start": 79.162,
+    "duration": 1.034
+  },
+  {
+    "text": "OUR PROCEEDINGS TO THE ",
+    "start": 79.796,
+    "duration": 0.934
+  },
+  {
+    "text": "COMMUNITY. THEREFORE, ALL ",
+    "start": 80.296,
+    "duration": 1.068
+  },
+  {
+    "text": "SPEAKERS NEED TO BE MINDFUL OF ",
+    "start": 80.83,
+    "duration": 3.003
+  },
+  {
+    "text": "THE RATE OF THEIR SPEECH SO THAT",
+    "start": 81.464,
+    "duration": 3.003
+  },
+  {
+    "text": "R CAPTIONERS CAN FULLY CAPTURE",
+    "start": 83.967,
+    "duration": 1.968
+  },
+  {
+    "text": "AND TRANSCRIBE ALL COMMENTS FOR ",
+    "start": 84.567,
+    "duration": 2.97
+  },
+  {
+    "text": "THE BROADCAST. WE ASK ALL ",
+    "start": 86.035,
+    "duration": 3.237
+  },
+  {
+    "text": "SPEAKERS TO MODERATE THE SPEED ",
+    "start": 87.637,
+    "duration": 6.14
+  },
+  {
+    "text": "AND CLARITY OF THEIR COMMENTS.",
+    "start": 89.372,
+    "duration": 5.773
+  },
+  {
+    "text": "COLLEAGUES, THERE IS A SINGLE ",
+    "start": 93.877,
+    "duration": 2.369
+  },
+  {
+    "text": "ITEM ON OUR AGENDA TODAY, WHICH ",
+    "start": 95.245,
+    "duration": 2.802
+  },
+  {
+    "text": "WAS IDENTIFIED IN THE MAYOR'S ",
+    "start": 96.346,
+    "duration": 4.371
+  },
+  {
+    "text": "CALL FOR THIS SPECIAL MEETING.",
+    "start": 98.148,
+    "duration": 4.17
+  },
+  {
+    "text": "AND THAT IS TO RECEIVE A LEGAL ",
+    "start": 100.817,
+    "duration": 3.103
+  },
+  {
+    "text": "BRIEFING ON THE LITIGATION ",
+    "start": 102.418,
+    "duration": 4.238
+  },
+  {
+    "text": "MATTER OF UNITED STATES ",
+    "start": 104.02,
+    "duration": 4.972
+  },
+  {
+    "text": "DEPARTMENT OF JUSTICE VERSUS ",
+    "start": 106.756,
+    "duration": 3.17
+  },
+  {
+    "text": "CITY OF MINNEAPOLIS A ",
+    "start": 109.092,
+    "duration": 2.102
+  },
+  {
+    "text": "MINNEAPOLIS POLICE DEPARTMENT.",
+    "start": 110.026,
+    "duration": 2.202
+  },
+  {
+    "text": "AS THIS MATTER IS TO BE ",
+    "start": 111.294,
+    "duration": 2.536
+  },
+  {
+    "text": "CONSIDERED AS PART OF A CLOSED ",
+    "start": 112.328,
+    "duration": 2.47
+  },
+  {
+    "text": "SESSION, I WILL RECOGNIZE THE ",
+    "start": 113.93,
+    "duration": 2.636
+  },
+  {
+    "text": "CITY ATTORNEY TO PROVIDE THE ",
+    "start": 114.898,
+    "duration": 2.903
+  },
+  {
+    "text": "LEGAL BASIS FOR THE CLOSED ",
+    "start": 116.666,
+    "duration": 2.369
+  },
+  {
+    "text": "SESSION BRIEFING.",
+    "start": 117.901,
+    "duration": 2.435
+  },
+  {
+    "text": "MADAM CITY ATTORNEY?  ",
+    "start": 119.135,
+    "duration": 2.369
+  },
+  {
+    "text": ">> COUNCIL PRESIDENT, COUNCIL ",
+    "start": 120.637,
+    "duration": 3.603
+  },
+  {
+    "text": "MEMBERS, THIS ITEM ON THE ",
+    "start": 121.604,
+    "duration": 4.038
+  },
+  {
+    "text": "AGENDA, AGAIN S THE MATTER OF ",
+    "start": 124.34,
+    "duration": 2.603
+  },
+  {
+    "text": "THE U.S. DEPARTMENT OF JUSTICE ",
+    "start": 125.742,
+    "duration": 2.536
+  },
+  {
+    "text": "VERSUS CITY OF MINNEAPOLIS AND ",
+    "start": 127.043,
+    "duration": 2.236
+  },
+  {
+    "text": "MINNEAPOLIS POLICE DEPARTMENT.",
+    "start": 128.378,
+    "duration": 3.804
+  },
+  {
+    "text": "YOUR LAWYERS WISH TO PROVIDE TH ",
+    "start": 129.379,
+    "duration": 5.305
+  },
+  {
+    "text": "LITIGATION MATTER INCLUDING ON ",
+    "start": 132.282,
+    "duration": 3.703
+  },
+  {
+    "text": "RESOLUTION POSSIBILITIES.",
+    "start": 134.784,
+    "duration": 2.436
+  },
+  {
+    "text": "ACCORDINGLY UNDER THE MINNESOTA ",
+    "start": 136.085,
+    "duration": 3.237
+  },
+  {
+    "text": "OPEN MEETING LAW, MINNESOTA ",
+    "start": 137.32,
+    "duration": 4.705
+  },
+  {
+    "text": "STUTE SECTION 13D.05, ",
+    "start": 139.455,
+    "duration": 4.872
+  },
+  {
+    "text": "SUBDIVISION 3B, THE COUNCIL MAY ",
+    "start": 142.125,
+    "duration": 3.904
+  },
+  {
+    "text": "UPON A PROPER MOTION CLOSE THE ",
+    "start": 144.427,
+    "duration": 4.705
+  },
+  {
+    "text": "MEETING FOR THE PURPOSES OF ATTS",
+    "start": 146.129,
+    "duration": 5.205
+  },
+  {
+    "text": "PERMITTED BY THE ATTORNEY-CLIENT",
+    "start": 149.232,
+    "duration": 2.369
+  },
+  {
+    "text": "PRIVILEGE.",
+    "start": 151.434,
+    "duration": 1.802
+  },
+  {
+    "text": "IN CONSIDERING THE MOTION, THE ",
+    "start": 151.701,
+    "duration": 2.836
+  },
+  {
+    "text": "COUNCIL SHOULD WEIGH THE RIGHT ",
+    "start": 153.336,
+    "duration": 2.269
+  },
+  {
+    "text": "OF THE PUBLIC TO KNOW WHAT ITS ",
+    "start": 154.637,
+    "duration": 1.969
+  },
+  {
+    "text": "GOVERNMENT IS DOING AGAINST THE ",
+    "start": 155.705,
+    "duration": 2.836
+  },
+  {
+    "text": "NEED OF THE CITY TO PRESERVE THE",
+    "start": 156.706,
+    "duration": 2.669
+  },
+  {
+    "text": "CONFIDENTIALITY OF ITS ",
+    "start": 158.641,
+    "duration": 3.404
+  },
+  {
+    "text": "DISCUSSIONS WITH ITS ATTORNEYS.",
+    "start": 159.475,
+    "duration": 4.438
+  },
+  {
+    "text": ">> THANK YOU, MADAM CITY ",
+    "start": 162.212,
+    "duration": 2.268
+  },
+  {
+    "text": "ATTORNEY.",
+    "start": 164.013,
+    "duration": 1.802
+  },
+  {
+    "text": "I'LL ALSO RECOGNIZE THAT WE HAVE",
+    "start": 164.581,
+    "duration": 2.802
+  },
+  {
+    "text": "JOINED BY COUNCIL MEMBERS ",
+    "start": 165.915,
+    "duration": 3.07
+  },
+  {
+    "text": "ELLISON AND COUNCIL MEMBER ",
+    "start": 167.483,
+    "duration": 1.769
+  },
+  {
+    "text": "CHOWDHURY.",
+    "start": 169.085,
+    "duration": 1.602
+  },
+  {
+    "text": "D WITH THAT, I'LL MOVE TO ",
+    "start": 169.385,
+    "duration": 3.437
+  },
+  {
+    "text": "CLOSE OUR PUBLIC MEETING AS ",
+    "start": 170.787,
+    "duration": 3.17
+  },
+  {
+    "text": "AUTHORIZED UNDER THE OPEN ",
+    "start": 172.922,
+    "duration": 3.037
+  },
+  {
+    "text": "MEETING LAW, SPECIFICALLY ",
+    "start": 174.057,
+    "duration": 4.437
+  },
+  {
+    "text": "MINNESOTA STATUTE SECTION 13D.05",
+    "start": 176.059,
+    "duration": 3.837
+  },
+  {
+    "text": "FOR THE PURPOSE OF RECEIVING A ",
+    "start": 178.595,
+    "duration": 2.736
+  },
+  {
+    "text": "BRIEFING ON THE LITIGATION ",
+    "start": 179.996,
+    "duration": 2.87
+  },
+  {
+    "text": "MATTER OF THE UTED STATES ",
+    "start": 181.431,
+    "duration": 2.469
+  },
+  {
+    "text": "DEPARTMENT OF JUSTICE VERSUS ",
+    "start": 182.966,
+    "duration": 2.369
+  },
+  {
+    "text": "CITY OF MINNEAPOLIS AND ",
+    "start": 184.0,
+    "duration": 3.337
+  },
+  {
+    "text": "MINNEAPOLIS POLICE DEPARTMENT.",
+    "start": 185.435,
+    "duration": 3.236
+  },
+  {
+    "text": "AS REFLECTED ON THE PRINTED ",
+    "start": 187.437,
+    "duration": 1.601
+  },
+  {
+    "text": "AGENDA.",
+    "start": 188.771,
+    "duration": 1.335
+  },
+  {
+    "text": "MAY I HAVE A SECOND TO THAT ",
+    "start": 189.138,
+    "duration": 1.402
+  },
+  {
+    "text": "MOTION?  ",
+    "start": 190.206,
+    "duration": 1.101
+  },
+  {
+    "text": ">>SECOND.",
+    "start": 190.807,
+    "duration": 1.601
+  },
+  {
+    "text": ">> SO MOVED.",
+    "start": 191.407,
+    "duration": 2.636
+  },
+  {
+    "text": ">> WE HAVE A PROPER MOTION ",
+    "start": 193.276,
+    "duration": 1.568
+  },
+  {
+    "text": "BEFORE US.",
+    "start": 194.143,
+    "duration": 3.137
+  },
+  {
+    "text": "THCLERK WILL CALL THE ROLL.",
+    "start": 194.978,
+    "duration": 4.671
+  },
+  {
+    "text": ">> COUNCIL MEMBER JENKINS IS ",
+    "start": 197.38,
+    "duration": 2.503
+  },
+  {
+    "text": "ABSENT.",
+    "start": 199.749,
+    "duration": 2.002
+  },
+  {
+    "text": "COUNCIL MEMBER PALMISANO.",
+    "start": 199.983,
+    "duration": 2.202
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 201.851,
+    "duration": 1.735
+  },
+  {
+    "text": ">> COUNCIL MEMBER CHOWDHURY.",
+    "start": 202.285,
+    "duration": 2.202
+  },
+  {
+    "text": ">> AYE..",
+    "start": 203.686,
+    "duration": 1.602
+  },
+  {
+    "text": "COUNCIL MEMBER CASHMAN.",
+    "start": 204.587,
+    "duration": 1.568
+  },
+  {
+    "text": "YAY RAR.",
+    "start": 205.388,
+    "duration": 2.703
+  },
+  {
+    "text": ">> COUNCIL MEMBER OSMAN,AYE.",
+    "start": 206.322,
+    "duration": 3.637
+  },
+  {
+    "text": "COUNCIL MEMBER RAINVILLE, AYE.",
+    "start": 208.191,
+    "duration": 4.638
+  },
+  {
+    "text": "COUNCIL MEMBER CHAVEZ, AYE.",
+    "start": 210.059,
+    "duration": 5.639
+  },
+  {
+    "text": "COUNCIL MEMBER VETAW, AYE.",
+    "start": 212.929,
+    "duration": 4.154
+  },
+  {
+    "text": "COUNCIL MEMBER ELLISON, AYE.",
+    "start": 215.815,
+    "duration": 4.221
+  },
+  {
+    "text": ">> COUNCIL MEMBER KOSKI, AYE ",
+    "start": 217.233,
+    "duration": 4.438
+  },
+  {
+    "text": "VICE PRESIDENT CHUGHTAI, AYE.",
+    "start": 220.136,
+    "duration": 4.037
+  },
+  {
+    "text": "PRESIDENT PAYNE.",
+    "start": 221.771,
+    "duration": 4.555
+  },
+  {
+    "text": ">> THE BROADCAST OF THE MEETING ",
+    "start": 224.29,
+    "duration": 4.939
+  },
+  {
+    "text": "WILL CONTINUE AND THE COUNCIL ",
+    "start": 226.409,
+    "duration": 4.955
+  },
+  {
+    "text": "WILL RECONVENE AFTER WE HAVE ",
+    "start": 229.329,
+    "duration": 3.97
+  },
+  {
+    "text": "COME BACK FROM CLOSED SESSION.",
+    "start": 231.464,
+    "duration": 5.839
+  },
+  {
+    "text": "WI THAT, THE COUNCIL WILL ",
+    "start": 235.301,
+    "duration": 4.805
+  },
+  {
+    "text": "CONVENE INTO CLOSED SESSION.",
+    "start": 237.403,
+    "duration": 3.871
+  },
+  {
+    "text": "[CLOSED SESSION FOR THE ",
+    "start": 240.206,
+    "duration": 1.835
+  },
+  {
+    "text": "MINNEAPOLIS CITY COUNCIL MEETING",
+    "start": 241.374,
+    "duration": 197.631
+  },
+  {
+    "text": "OF JANUARY 6, 2025] ",
+    "start": 242.242,
+    "duration": 196.763
+  },
+  {
+    "text": "[ CITY OF MINNEAPOLIS IS IN",
+    "start": 6488.064,
+    "duration": 180.964
+  },
+  {
+    "text": "CLOSED SESSION ]",
+    "start": 6492.969,
+    "duration": 176.727
+  },
+  {
+    "text": "[ THE MINNEAPOLIS CITY COUNCIL",
+    "start": 6669.129,
+    "duration": 3.536
+  },
+  {
+    "text": "IS IN A CLOSED SESSION, THE",
+    "start": 6669.796,
+    "duration": 5.505
+  },
+  {
+    "text": "MEETING WILL RESUME WHEN THE",
+    "start": 6673.733,
+    "duration": 491.141
+  },
+  {
+    "text": "CLOSED SESSION ENDS ]",
+    "start": 6675.402,
+    "duration": 490.673
+  },
+  {
+    "text": "THE MINNEAPOLIS CITY CNCIL IS",
+    "start": 7164.974,
+    "duration": 5.038
+  },
+  {
+    "text": "IN A CLOSED SESSION THIS",
+    "start": 7166.175,
+    "duration": 5.572
+  },
+  {
+    "text": "MEETING WILL RESUME WHEN THE",
+    "start": 7170.446,
+    "duration": 1187.603
+  },
+  {
+    "text": "CLOSED SESSION ENDS. ",
+    "start": 7172.515,
+    "duration": 1186.936
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 8358.149,
+    "duration": 2.97
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 8359.751,
+    "duration": 3.236
+  },
+  {
+    "text": "LL RESUME WHEN THE CLOSED",
+    "start": 8361.252,
+    "duration": 386.87
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 8363.087,
+    "duration": 386.103
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 8748.222,
+    "duration": 2.403
+  },
+  {
+    "text": "A CLOSED SSION, THE MEETING",
+    "start": 8749.29,
+    "duration": 3.403
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 8750.825,
+    "duration": 745.495
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 8752.793,
+    "duration": 746.029
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IG",
+    "start": 9496.42,
+    "duration": 5.338
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 9498.922,
+    "duration": 535.168
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 9501.858,
+    "duration": 533.233
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 10034.19,
+    "duration": 2.336
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 10035.291,
+    "duration": 3.103
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 10036.726,
+    "duration": 518.251
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 10038.495,
+    "duration": 517.517
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 10555.077,
+    "duration": 2.469
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 10556.178,
+    "duration": 3.27
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 10557.646,
+    "duration": 431.882
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 10559.749,
+    "duration": 429.779
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 12009.197,
+    "duration": 3.837
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 12011.732,
+    "duration": 2.87
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 12013.134,
+    "duration": 728.611
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 12014.702,
+    "duration": 728.144
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 12741.845,
+    "duration": 2.536
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 12743.046,
+    "duration": 3.437
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 12744.615,
+    "duration": 2631.896
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 12746.617,
+    "duration": 2630.928
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 15376.611,
+    "duration": 3.336
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 15377.712,
+    "duration": 4.538
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 15380.381,
+    "duration": 1339.038
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 15382.35,
+    "duration": 1338.136
+  },
+  {
+    "text": "[ MINNEALIS CITY COUNCIL IS IN",
+    "start": 16719.519,
+    "duration": 3.203
+  },
+  {
+    "text": "A CLOSED SESSION, THIS MEETING",
+    "start": 16721.02,
+    "duration": 3.604
+  },
+  {
+    "text": "WILL RESUME WHEN THELOSED",
+    "start": 16722.822,
+    "duration": 1860.125
+  },
+  {
+    "text": "SESSION ENDS ][ MINNEAPOLIS CITN",
+    "start": 16724.724,
+    "duration": 1859.891
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 18583.214,
+    "duration": 5.672
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 18584.715,
+    "duration": 1545.461
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 18588.986,
+    "duration": 1542.825
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 20130.276,
+    "duration": 4.104
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING",
+    "start": 20131.978,
+    "duration": 3.804
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED",
+    "start": 20134.48,
+    "duration": 741.324
+  },
+  {
+    "text": "SESSION ENDS",
+    "start": 20136.316,
+    "duration": 739.989
+  },
+  {
+    "text": "L",
+    "start": 20876.238,
+    "duration": 1.068
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 20876.405,
+    "duration": 3.704
+  },
+  {
+    "text": "A CLOSED SESSION, THE MTING",
+    "start": 20878.507,
+    "duration": 3.937
+  },
+  {
+    "text": "WILL RESUME WHEN THE SESSION",
+    "start": 20880.209,
+    "duration": 335.401
+  },
+  {
+    "text": "ENDS ]",
+    "start": 20884.446,
+    "duration": 333.834
+  },
+  {
+    "text": "[ MINNESOTA CITY COUNCIL IS IN A",
+    "start": 21215.877,
+    "duration": 5.406
+  },
+  {
+    "text": "CLOSED SESSION, THE MEETING WILL",
+    "start": 21218.38,
+    "duration": 19.019
+  },
+  {
+    "text": "RESUME WHEN THE SESSION ENDS ]",
+    "start": 21221.383,
+    "duration": 16.016
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 21242.07,
+    "duration": 4.972
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING ",
+    "start": 21243.705,
+    "duration": 3.971
+  },
+  {
+    "text": "WILL RESUME WHEN THE SESSION ",
+    "start": 21247.142,
+    "duration": 22.155
+  },
+  {
+    "text": "ENDS ]",
+    "start": 21247.776,
+    "duration": 21.521
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 21657.035,
+    "duration": 5.939
+  },
+  {
+    "text": "A CLOSED SESSION, THIS MEETING ",
+    "start": 21660.238,
+    "duration": 6.506
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED ",
+    "start": 21663.074,
+    "duration": 20.921
+  },
+  {
+    "text": "SESSION ENDS. ]",
+    "start": 21666.844,
+    "duration": 17.151
+  },
+  {
+    "text": "[ MINNEAPOS CITY COUNCIL IS IN",
+    "start": 21712.357,
+    "duration": 4.537
+  },
+  {
+    "text": "A CLOSED SESSION, THIS MEETI ",
+    "start": 21715.36,
+    "duration": 5.071
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED ",
+    "start": 21716.995,
+    "duration": 190.29
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 21720.531,
+    "duration": 186.754
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 21977.555,
+    "duration": 2.836
+  },
+  {
+    "text": "A CLOSED SESSION, THIS MEETING ",
+    "start": 21978.923,
+    "duration": 6.206
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED ",
+    "start": 21980.491,
+    "duration": 405.288
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 21985.229,
+    "duration": 400.55
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 22509.103,
+    "duration": 5.939
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING ",
+    "start": 22510.571,
+    "duration": 6.339
+  },
+  {
+    "text": "WILL RESUME WHEN THE SESSION ",
+    "start": 22515.142,
+    "duration": 859.175
+  },
+  {
+    "text": "ENDS ]",
+    "start": 22517.01,
+    "duration": 857.307
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL IS IN",
+    "start": 23374.484,
+    "duration": 3.303
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING ",
+    "start": 23376.119,
+    "duration": 9.009
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED ",
+    "start": 23377.887,
+    "duration": 188.171
+  },
+  {
+    "text": "SESSION ENDS ]",
+    "start": 23385.228,
+    "duration": 180.83
+  },
+  {
+    "text": "[ MINNEAPOLIS CITY COUNCIL I IN",
+    "start": 23663.556,
+    "duration": 4.871
+  },
+  {
+    "text": "A CLOSED SESSION, THE MEETING ",
+    "start": 23666.626,
+    "duration": 6.506
+  },
+  {
+    "text": "WILL RESUME WHEN THE CLOSED ",
+    "start": 23668.527,
+    "duration": 496.547
+  },
+  {
+    "text": "SESSION ENDS. ]",
+    "start": 23673.232,
+    "duration": 491.842
+  },
+  {
+    "text": ".",
+    "start": 24165.207,
+    "duration": 6.94
+  },
+  {
+    "text": ">> THE TIME IS NOW 3:20 AND THE ",
+    "start": 24194.236,
+    "duration": 5.639
+  },
+  {
+    "text": "CITY COUNCIL HAS RECONVENED IN ",
+    "start": 24196.805,
+    "duration": 4.305
+  },
+  {
+    "text": "OPEN SESSION FOLLOWING OUR ",
+    "start": 24199.975,
+    "duration": 2.87
+  },
+  {
+    "text": "CLOSED SESSION. I'LL ASK T ",
+    "start": 24201.21,
+    "duration": 4.771
+  },
+  {
+    "text": "CLERK TO CALL THE ROLL TO PROVE ",
+    "start": 24202.945,
+    "duration": 5.105
+  },
+  {
+    "text": "THE PRESENCE O A QUORUM. ",
+    "start": 24206.081,
+    "duration": 3.871
+  },
+  {
+    "text": ">> COUNCIL MEMBER PALMISANO. ",
+    "start": 24208.851,
+    "duration": 1.968
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24210.052,
+    "duration": 1.968
+  },
+  {
+    "text": ">> COUNCILEMBER CHOWDHURY. ",
+    "start": 24210.919,
+    "duration": 1.635
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24212.121,
+    "duration": 2.769
+  },
+  {
+    "text": ">> COUNCIL MEMBER CASHMAN. ",
+    "start": 24212.654,
+    "duration": 3.27
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24215.157,
+    "duration": 2.97
+  },
+  {
+    "text": ">> COUNCIL MEMBER OSMAN. ",
+    "start": 24216.024,
+    "duration": 2.47
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24218.227,
+    "duration": 2.469
+  },
+  {
+    "text": ">> COUNCIL MEMBER RAINVILLE IS ",
+    "start": 24218.594,
+    "duration": 2.502
+  },
+  {
+    "text": "ABSENT. ",
+    "start": 24220.796,
+    "duration": 1.768
+  },
+  {
+    "text": ">> COUNCIL MEMBER VETAW. ",
+    "start": 24221.597,
+    "duration": 1.868
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24222.664,
+    "duration": 2.536
+  },
+  {
+    "text": ">> COUNCIL MEMBER ELLISON. ",
+    "start": 24223.565,
+    "duration": 2.036
+  },
+  {
+    "text": ">> HERE. ",
+    "start": 24225.3,
+    "duration": 1.936
+  },
+  {
+    "text": ">> COUNCIL MEMBER KOSKI. ",
+    "start": 24225.868,
+    "duration": 1.968
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24227.469,
+    "duration": 1.869
+  },
+  {
+    "text": ">> COUNCIL MEMBER WONSLEY. ",
+    "start": 24227.936,
+    "duration": 2.369
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24229.505,
+    "duration": 2.602
+  },
+  {
+    "text": ">> COUNCIL MEMBER JENKINS. ",
+    "start": 24230.405,
+    "duration": 2.436
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24232.241,
+    "duration": 2.102
+  },
+  {
+    "text": ">> VICE PRESIDENT CHUGHTAI. ",
+    "start": 24233.041,
+    "duration": 2.236
+  },
+  {
+    "text": ">> PRESENT. ",
+    "start": 24234.443,
+    "duration": 1.334
+  },
+  {
+    "text": ">> PRESIDENT PAYNE. ",
+    "start": 24235.377,
+    "duration": 1.401
+  },
+  {
+    "text": ">> PRESEN ",
+    "start": 24235.944,
+    "duration": 3.137
+  },
+  {
+    "text": ">> THERE ARE 12 MEMBERS PRESENT.",
+    "start": 24236.979,
+    "duration": 5.405
+  },
+  {
+    "text": ">> I MOVE TO APPROVE THE ",
+    "start": 24240.449,
+    "duration": 3.203
+  },
+  {
+    "text": "SETTLEMENT OF ALL CLAIMS ",
+    "start": 24242.484,
+    "duration": 4.705
+  },
+  {
+    "text": "ASSERTED IN THE UNITED STATES ",
+    "start": 24243.752,
+    "duration": 4.671
+  },
+  {
+    "text": "DEPARTMENT OF JUSTICE VERSUS ",
+    "start": 24247.289,
+    "duration": 1.802
+  },
+  {
+    "text": "CITY OF MINNEAPOLIS AND ",
+    "start": 24248.524,
+    "duration": 1.267
+  },
+  {
+    "text": "MINNEAPOLIS POLICE DARTMENT AS",
+    "start": 24249.191,
+    "duration": 3.103
+  },
+  {
+    "text": "SET FORTH IN THE CONSENT DECREE ",
+    "start": 24249.892,
+    "duration": 4.104
+  },
+  {
+    "text": "NEGOTIATED BETWEEN THE U.S. ",
+    "start": 24252.394,
+    "duration": 2.803
+  },
+  {
+    "text": "DEPARTMENT OF JUSTICE DOJ AND ",
+    "start": 24254.096,
+    "duration": 3.637
+  },
+  {
+    "text": "THE CITY. FURTHER, THE CITY ",
+    "start": 24255.297,
+    "duration": 4.071
+  },
+  {
+    "text": "ATTORNEY'S OFFE HAS AUTHORIZED",
+    "start": 24257.833,
+    "duration": 3.537
+  },
+  {
+    "text": "TO EXECUTE AND FILE ANY ",
+    "start": 24259.535,
+    "duration": 4.571
+  },
+  {
+    "text": "DOCUMENTS NECESSARY TO EFECTATE ",
+    "start": 24261.47,
+    "duration": 4.971
+  },
+  {
+    "text": "THE SETTLEMENT IS THERE A ",
+    "start": 24264.206,
+    "duration": 2.502
+  },
+  {
+    "text": "SECO? ",
+    "start": 24266.542,
+    "duration": 1.368
+  },
+  {
+    "text": ">> SECOND. ",
+    "start": 24266.842,
+    "duration": 2.803
+  },
+  {
+    "text": ">> MR. PRESIDENT, BEFORE YOU ",
+    "start": 24268.01,
+    "duration": 3.203
+  },
+  {
+    "text": "BEGIN, I JUST LIKE TO NOTE WE ",
+    "start": 24269.745,
+    "duration": 3.303
+  },
+  {
+    "text": "HAVE COPIES OF THE MOTION YOU ",
+    "start": 24271.313,
+    "duration": 3.337
+  },
+  {
+    "text": "JUST READ OVER HERE IF ANYONE ",
+    "start": 24273.148,
+    "duration": 3.07
+  },
+  {
+    "text": "WOULD LIKE ONE BY THE CLERK. ",
+    "start": 24274.75,
+    "duration": 3.17
+  },
+  {
+    "text": ">> WOULD ANYONE LIKE TO SPEAK ON",
+    "start": 24276.318,
+    "duration": 2.236
+  },
+  {
+    "text": "THIS MOTION BEFORE WE CALL THE ",
+    "start": 24278.02,
+    "duration": 8.808
+  },
+  {
+    "text": "ROLL? SEEING NONE, WE HAVE A ",
+    "start": 24278.654,
+    "duration": 9.509
+  },
+  {
+    "text": "PROPER MOTION BEFORE US. I WILL ",
+    "start": 24286.929,
+    "duration": 9.009
+  },
+  {
+    "text": "ASK THE CLERK TO CALL THE ROLL. ",
+    "start": 24288.263,
+    "duration": 9.243
+  },
+  {
+    "text": ">> COUNCIL MEMBER JENKINS. ",
+    "start": 24296.605,
+    "duration": 2.035
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24298.24,
+    "duration": 1.835
+  },
+  {
+    "text": ">> COUNCIL MEMBER PALMISANO. ",
+    "start": 24298.907,
+    "duration": 1.435
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24300.175,
+    "duration": 1.301
+  },
+  {
+    "text": ">> COUNCILEMBER CHOWDHURY. ",
+    "start": 24300.609,
+    "duration": 1.201
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24301.577,
+    "duration": 1.501
+  },
+  {
+    "text": ">> COUNCIL MEMBER CASHMAN. ",
+    "start": 24301.91,
+    "duration": 1.468
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24303.178,
+    "duration": 2.77
+  },
+  {
+    "text": ">> COUNCIL MEMBER OSMAN. ",
+    "start": 24304.146,
+    "duration": 2.969
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24306.048,
+    "duration": 3.97
+  },
+  {
+    "text": ">> COUNCIL MEMBER RAINVILLE IS ",
+    "start": 24307.216,
+    "duration": 4.104
+  },
+  {
+    "text": "ABSENT. COUNCIL MEMBER CHAVEZ. ",
+    "start": 24310.118,
+    "duration": 1.802
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24311.453,
+    "duration": 1.368
+  },
+  {
+    "text": ">> COUNCIL MEMBER VETAW. ",
+    "start": 24312.02,
+    "duration": 1.068
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24312.921,
+    "duration": 1.335
+  },
+  {
+    "text": ">> COUNCIL MEMR ELLISON. ",
+    "start": 24313.355,
+    "duration": 1.869
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24314.356,
+    "duration": 2.402
+  },
+  {
+    "text": ">> COUNCIL MEMBER KOSKI. ",
+    "start": 24315.324,
+    "duration": 1.701
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24316.858,
+    "duration": 1.669
+  },
+  {
+    "text": ">> COUNCIL MEMBER WONSLEY. ",
+    "start": 24317.125,
+    "duration": 1.802
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24318.627,
+    "duration": 1.668
+  },
+  {
+    "text": ">> VICE PRESIDENT CHUGHTAI. ",
+    "start": 24319.828,
+    "duration": 0.901
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24320.462,
+    "duration": 0.934
+  },
+  {
+    "text": ">> PRESIDENT PAYNE. ",
+    "start": 24321.029,
+    "duration": 2.636
+  },
+  {
+    "text": ">> AYE. ",
+    "start": 24321.863,
+    "duration": 3.771
+  },
+  {
+    "text": ">> THERE ARE 12 AYES. ",
+    "start": 24323.899,
+    "duration": 5.005
+  },
+  {
+    "text": ">> THAT MOTION CARRIES. WE HAVE ",
+    "start": 24325.734,
+    "duration": 4.938
+  },
+  {
+    "text": "APPROVED THE CONSENT DECREE WITH",
+    "start": 24329.004,
+    "duration": 3.237
+  },
+  {
+    "text": "THE UNITED STATES DEPARTMENT OF ",
+    "start": 24330.772,
+    "duration": 3.37
+  },
+  {
+    "text": "JUSTICE. I WOULD THEN ASK THE ",
+    "start": 24332.341,
+    "duration": 6.439
+  },
+  {
+    "text": "CITY ATTORNE TO PROVIDE A ",
+    "start": 24334.243,
+    "duration": 4.804
+  },
+  {
+    "text": "SYNOPSIS. ",
+    "start": 24338.88,
+    "duration": 2.803
+  },
+  {
+    "text": ">> THANK YOU, COUNCIL PRESIDENT,",
+    "start": 24339.381,
+    "duration": 3.937
+  },
+  {
+    "text": "COUNCIL MEMBERS. AFTER THIS VOTE",
+    "start": 24341.783,
+    "duration": 6.04
+  },
+  {
+    "text": "APPRING THE CONSENT DECREE, IT",
+    "start": 24343.418,
+    "duration": 5.873
+  },
+  {
+    "text": "NEEDS TO BE EXECUTED BY THE ",
+    "start": 24347.923,
+    "duration": 5.605
+  },
+  {
+    "text": "MAYOR AND BY MYSELF AND BY THE ",
+    "start": 24349.391,
+    "duration": 4.805
+  },
+  {
+    "text": "DEPARTMENT OF JUSTICE AND U.S. ",
+    "start": 24353.629,
+    "duration": 2.102
+  },
+  {
+    "text": "ATTORNEY'S OFFICE AND THEN IT ",
+    "start": 24354.296,
+    "duration": 3.57
+  },
+  {
+    "text": "WILL B PROMPTLY FILED IN ",
+    "start": 24355.831,
+    "duration": 3.203
+  },
+  {
+    "text": "FEDERAL COURT. WHAT WILL BE ",
+    "start": 24357.966,
+    "duration": 2.903
+  },
+  {
+    "text": "FILED IN FEDERAL COURT WILL BE A",
+    "start": 24359.134,
+    "duration": 4.538
+  },
+  {
+    "text": "PACKAGE OF A FEW DOCUMENTS. ONE ",
+    "start": 24360.969,
+    "duration": 6.507
+  },
+  {
+    "text": "IS A COMPLAINT BY THE DEPARTMENT",
+    "start": 24363.772,
+    "duration": 5.539
+  },
+  {
+    "text": "OF JUSTICE AGAINST THE CITY OF ",
+    "start": 24367.576,
+    "duration": 3.27
+  },
+  {
+    "text": "MINNEAPOLIS. THIS IS WHAT ALWAYS",
+    "start": 24369.411,
+    "duration": 3.904
+  },
+  {
+    "text": "HAS TO HAPPEN IN ORDER TO BEGIN ",
+    "start": 24370.946,
+    "duration": 4.871
+  },
+  {
+    "text": "A LAWSUIT AND GET THIS DECREE IN",
+    "start": 24373.715,
+    "duration": 3.771
+  },
+  {
+    "text": "FRONT OF THE FEDERAL COURT. SO ",
+    "start": 24375.917,
+    "duration": 4.405
+  },
+  {
+    "text": "THE PACKAGE WILL INCLUDE THE ",
+    "start": 24377.586,
+    "duration": 4.404
+  },
+  {
+    "text": "COMPLAINT, A JOINT MOTION ",
+    "start": 24380.422,
+    "duration": 3.971
+  },
+  {
+    "text": "BETWEEN THE DEPARTMENT OF ",
+    "start": 24382.09,
+    "duration": 4.138
+  },
+  {
+    "text": "JUSTICE AND THE CITY REQUESTING",
+    "start": 24384.493,
+    "duration": 4.571
+  },
+  {
+    "text": "THE COURT TO APPROVE THE CONSENT",
+    "start": 24386.328,
+    "duration": 5.806
+  },
+  {
+    "text": "DECREE. AND THEN THE ACTUAL ",
+    "start": 24389.164,
+    "duration": 4.371
+  },
+  {
+    "text": "CONSENT DECREE ITSELF. AS SOON ",
+    "start": 24392.234,
+    "duration": 3.437
+  },
+  {
+    "text": "AS WE FILE THAT DOCUME, I ",
+    "start": 24393.635,
+    "duration": 4.271
+  },
+  {
+    "text": "THINK AT THE U.S. ATTORNEYS ",
+    "start": 24395.754,
+    "duration": 4.054
+  },
+  {
+    "text": "OFFICE WILL ACTUALLY DO THE ",
+    "start": 24398.006,
+    "duration": 3.971
+  },
+  {
+    "text": "FILING. AS SOON AS IT'S FILED ON",
+    "start": 24399.908,
+    "duration": 3.704
+  },
+  {
+    "text": "THE FEDERAL E FILING SYSTEM IT ",
+    "start": 24402.077,
+    "duration": 3.937
+  },
+  {
+    "text": "WILL BE PUBLIC AND CAN BE ",
+    "start": 24403.712,
+    "duration": 5.205
+  },
+  {
+    "text": "ACCESSED ON THE FEDERAL COURT ",
+    "start": 24406.114,
+    "duration": 5.339
+  },
+  {
+    "text": "SYSTEM. AS SOON AS I GET IT, I ",
+    "start": 24409.017,
+    "duration": 4.705
+  },
+  {
+    "text": "WILL PROVIDE IT TO THE CLERK SO ",
+    "start": 24411.553,
+    "duration": 4.671
+  },
+  {
+    "text": "THE CLERK CAN ADD IT TO THE LIMS",
+    "start": 24413.822,
+    "duration": 2.603
+  },
+  {
+    "text": "FILE. ",
+    "start": 24416.325,
+    "duration": 1.701
+  },
+  {
+    "text": ">> WITH THAT, WE'VE COMPLETED ",
+    "start": 24416.525,
+    "duration": 3.17
+  },
+  {
+    "text": "THIS IMPORTANT BUSINESS TODAY. ",
+    "start": 24418.126,
+    "duration": 3.003
+  },
+  {
+    "text": "ON BEHALF OF THE COUNCIL AND THE",
+    "start": 24419.795,
+    "duration": 4.004
+  },
+  {
+    "text": "ENTIRE CITY, I'D LIKE TO THANK ",
+    "start": 24421.229,
+    "duration": 3.838
+  },
+  {
+    "text": "OUR COMMUNITY FOR STANDING ",
+    "start": 24423.899,
+    "duration": 3.27
+  },
+  {
+    "text": "TOGETHER UNITED IN THIS AND FOR ",
+    "start": 24425.167,
+    "duration": 3.136
+  },
+  {
+    "text": "HAVING PATIENCE WITH US AS WE ",
+    "start": 24427.269,
+    "duration": 3.203
+  },
+  {
+    "text": "HAVE TRAVELED A VERY, VERY LONG ",
+    "start": 24428.403,
+    "duration": 4.438
+  },
+  {
+    "text": "AND CHALLENGING JOURNEY. WE ARE ",
+    "start": 24430.572,
+    "duration": 3.57
+  },
+  {
+    "text": "JUST BEGINNINGND WE KNOW WE ",
+    "start": 24432.941,
+    "duration": 3.17
+  },
+  {
+    "text": "HAVE A LONG WAY TO GO. OUR ",
+    "start": 24434.242,
+    "duration": 4.004
+  },
+  {
+    "text": "SUCCESS WILL ONLY BE REALIZED ",
+    "start": 24436.211,
+    "duration": 4.004
+  },
+  {
+    "text": "WHEN WE ALL WORK TOGETHER ON ",
+    "start": 24438.347,
+    "duration": 4.804
+  },
+  {
+    "text": "WHAT IS ARGUABLY THE MOST ",
+    "start": 24440.315,
+    "duration": 4.905
+  },
+  {
+    "text": "IMPORTANT ISSUES. ON BEHALF OF ",
+    "start": 24443.251,
+    "duration": 5.172
+  },
+  {
+    "text": "THE CITY COUNCIL, I'D LIKE TO ",
+    "start": 24445.32,
+    "duration": 5.305
+  },
+  {
+    "text": "OFFER PRAISE TO THE CITY ",
+    "start": 24448.523,
+    "duration": 5.94
+  },
+  {
+    "text": "ATTORNEY AND HER TEAM. THEY'VE ",
+    "start": 24450.726,
+    "duration": 5.105
+  },
+  {
+    "text": "HELPED SHEPHERD THIS EFFORT FOR ",
+    "start": 24454.563,
+    "duration": 3.67
+  },
+  {
+    "text": "THE CITY AND HAVE DONE AN ",
+    "start": 24455.931,
+    "duration": 4.771
+  },
+  {
+    "text": "INCREDIBLE JOB. I ALSO WANT TO ",
+    "start": 24458.333,
+    "duration": 5.072
+  },
+  {
+    "text": "THANK THE STAFF WHO CONTRIBUTED ",
+    "start": 24460.802,
+    "duration": 4.705
+  },
+  {
+    "text": "SO MUCH WHO BRING SO MUCH TO THE",
+    "start": 24463.505,
+    "duration": 5.072
+  },
+  {
+    "text": "CITY. AS I SAID, OUR WORK BEGINS",
+    "start": 24465.607,
+    "duration": 5.239
+  },
+  {
+    "text": "NOW AND WE ARE ALL CALLED UPON ",
+    "start": 24468.677,
+    "duration": 4.271
+  },
+  {
+    "text": "TO TAKE UP THIS CAUSE ON BEHALF ",
+    "start": 24471.346,
+    "duration": 4.238
+  },
+  {
+    "text": "OF OUR CITY, AND I'M JUST REALLY",
+    "start": 24473.048,
+    "duration": 3.37
+  },
+  {
+    "text": "APPRECIATIVEF ALL MY ",
+    "start": 24475.684,
+    "duration": 2.402
+  },
+  {
+    "text": "COLLEAGUES FOR JOINING US TODAY ",
+    "start": 24476.518,
+    "duration": 2.769
+  },
+  {
+    "text": "AND JOINING US ON THIS JOURNEY. ",
+    "start": 24478.186,
+    "duration": 3.537
+  },
+  {
+    "text": "THIS IS MARKING THE END OF THE ",
+    "start": 24479.388,
+    "duration": 4.371
+  },
+  {
+    "text": "BEGINNING ON A VERY, VERY LONG ",
+    "start": 24481.823,
+    "duration": 3.07
+  },
+  {
+    "text": "ROAD. THANK YOU ALL. THIS ",
+    "start": 24483.859,
+    "duration": 7.307
+  },
+  {
+    "text": "MEETING IS ADJOURNED.",
+    "start": 24484.993,
+    "duration": 6.173
+  }
+]
