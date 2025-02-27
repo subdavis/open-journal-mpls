@@ -1,0 +1,3502 @@
+[
+  {
+    "text": ">>",
+    "start": 5.488,
+    "duration": 9.81
+  },
+  {
+    "text": ">>  GOOD AFTERNOON.  MY NAME IS",
+    "start": 13.763,
+    "duration": 2.77
+  },
+  {
+    "text": "AISHA CHUGHTAI.  I'M THE CHAIR",
+    "start": 15.565,
+    "duration": 2.202
+  },
+  {
+    "text": "OF THE BUDGET COMMITTEE.  I'M",
+    "start": 16.766,
+    "duration": 2.836
+  },
+  {
+    "text": "GOING TO CALL TO ORDER OUR",
+    "start": 17.867,
+    "duration": 2.903
+  },
+  {
+    "text": "REGULAR BUDGET COMMITTEE MEETING",
+    "start": 19.703,
+    "duration": 4.304
+  },
+  {
+    "text": "FOR MONDAY, FEBRUARY 24th,",
+    "start": 20.87,
+    "duration": 4.505
+  },
+  {
+    "text": "2025.  BEFORE WE BEGIN THE",
+    "start": 24.107,
+    "duration": 2.603
+  },
+  {
+    "text": "MEETING, I WANT TO OFFER A",
+    "start": 25.475,
+    "duration": 2.469
+  },
+  {
+    "text": "FRIENDLY REMINDER TO ALL",
+    "start": 26.81,
+    "duration": 2.669
+  },
+  {
+    "text": "MEMBERS, STAFF, AND THE PUBLIC",
+    "start": 28.111,
+    "duration": 3.604
+  },
+  {
+    "text": "THAT THESE MEETINGS ARE",
+    "start": 29.579,
+    "duration": 4.138
+  },
+  {
+    "text": "BROADCAST LI TO ENABLE GREATER",
+    "start": 31.815,
+    "duration": 3.336
+  },
+  {
+    "text": "PUBLIC PARTICIPATION.  THESE",
+    "start": 33.817,
+    "duration": 2.535
+  },
+  {
+    "text": "BROADCASTS INCLUDE REAL TIME",
+    "start": 35.251,
+    "duration": 2.503
+  },
+  {
+    "text": "CAPTIONING AS A FURTHER METHOD",
+    "start": 36.619,
+    "duration": 2.136
+  },
+  {
+    "text": "TO INCREASE THE ACCESSIBILITY OF",
+    "start": 37.954,
+    "duration": 1.869
+  },
+  {
+    "text": "OUR PROCEEDINGS TO THE",
+    "start": 38.855,
+    "duration": 3.237
+  },
+  {
+    "text": "COMMUNITY.  THEREFORE, ALL",
+    "start": 39.923,
+    "duration": 3.57
+  },
+  {
+    "text": "SPEAKERS NEED TO BE MINDFUL OF",
+    "start": 42.192,
+    "duration": 5.238
+  },
+  {
+    "text": "THE RATE OF THEIR SPEECH, SO",
+    "start": 43.593,
+    "duration": 6.306
+  },
+  {
+    "text": "THAT OUR CAPTIONERS CAN FULLY",
+    "start": 47.53,
+    "duration": 3.237
+  },
+  {
+    "text": "TRANSCRIBE ALL COMMENTS FOR THE",
+    "start": 50.133,
+    "duration": 2.069
+  },
+  {
+    "text": "BROADCAST.  WE ASK ALL SPEAKERS",
+    "start": 50.867,
+    "duration": 2.603
+  },
+  {
+    "text": "TO MODERATE THE SPEED AND",
+    "start": 52.352,
+    "duration": 2.686
+  },
+  {
+    "text": "CLARITY OF THEIR COMMENTS.  AT",
+    "start": 53.57,
+    "duration": 3.403
+  },
+  {
+    "text": "THIS TIME, I'LL ASK THE CLERK TO",
+    "start": 55.138,
+    "duration": 3.303
+  },
+  {
+    "text": "CALL THE ROLL SO WE CANN",
+    "start": 57.073,
+    "duration": 3.47
+  },
+  {
+    "text": "VERIFY THE PRESENCE OF A",
+    "start": 58.742,
+    "duration": 2.035
+  },
+  {
+    "text": "QUORUM.",
+    "start": 60.643,
+    "duration": 0.935
+  },
+  {
+    "text": ">> COUNCILMEMBER PAYNE.",
+    "start": 61.077,
+    "duration": 1.101
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 61.978,
+    "duration": 0.834
+  },
+  {
+    "text": ">> WONSLEY.",
+    "start": 62.612,
+    "duration": 1.001
+  },
+  {
+    "text": ">> APPELLANT.",
+    "start": 63.146,
+    "duration": 2.002
+  },
+  {
+    "text": "PRESENT.",
+    "start": 65.014,
+    "duration": 0.668
+  },
+  {
+    "text": ">> RAINVILLE.",
+    "start": 65.448,
+    "duration": 0.668
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 65.915,
+    "duration": 0.835
+  },
+  {
+    "text": ">> VETAW.",
+    "start": 66.583,
+    "duration": 0.8
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 67.183,
+    "duration": 1.035
+  },
+  {
+    "text": ">> ELLISON.",
+    "start": 68.017,
+    "duration": 0.668
+  },
+  {
+    "text": ">> HERE.",
+    "start": 68.551,
+    "duration": 3.07
+  },
+  {
+    "text": ">> OSMAN IS ABSENT.  CASHMAN.",
+    "start": 69.986,
+    "duration": 2.803
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 72.589,
+    "duration": 2.502
+  },
+  {
+    "text": ">> JENKINS IS ABSENT.  CHAVEZ.",
+    "start": 73.089,
+    "duration": 3.17
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 76.059,
+    "duration": 0.901
+  },
+  {
+    "text": ">> CHOWDHURY.",
+    "start": 76.726,
+    "duration": 1.335
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 77.861,
+    "duration": 1.668
+  },
+  {
+    "text": ">> PALMISANO.",
+    "start": 78.461,
+    "duration": 1.368
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 79.629,
+    "duration": 1.201
+  },
+  {
+    "text": ">> VICE CHAIR KOSKI.",
+    "start": 79.929,
+    "duration": 1.635
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 81.364,
+    "duration": 2.169
+  },
+  {
+    "text": ">> CHAIR CHUGHTAI.",
+    "start": 82.098,
+    "duration": 2.169
+  },
+  {
+    "text": ">> PRESENT.",
+    "start": 84.067,
+    "duration": 2.202
+  },
+  {
+    "text": ">> THERE ARE 11 MEMBERS PRESENT.",
+    "start": 84.467,
+    "duration": 3.971
+  },
+  {
+    "text": ">> LET THE RECORD REFLECT WE",
+    "start": 86.936,
+    "duration": 3.838
+  },
+  {
+    "text": "HAVE A QUORUM.  WE'LL BE USING",
+    "start": 88.538,
+    "duration": 3.804
+  },
+  {
+    "text": "SPEAKER MANAGEMENT TODAY,",
+    "start": 90.874,
+    "duration": 2.636
+  },
+  {
+    "text": "COLLEAGUES, PLEASE MAKE SURE YOU",
+    "start": 92.442,
+    "duration": 4.371
+  },
+  {
+    "text": "SIGN IN.  WE WILL BEGIN WIT THE",
+    "start": 93.61,
+    "duration": 4.804
+  },
+  {
+    "text": "CONSENT AGENDA, WHICH HAS TWO",
+    "start": 96.913,
+    "duration": 4.238
+  },
+  {
+    "text": "ITEMS.  THE FIRST ITEM IS AN",
+    "start": 98.515,
+    "duration": 7.007
+  },
+  {
+    "text": "APPOINTMENT TO THE CAPITAL",
+    "start": 101.251,
+    "duration": 4.905
+  },
+  {
+    "text": "LONG-RANGE IMPROVEMENT COMMITTEE",
+    "start": 105.622,
+    "duration": 2.068
+  },
+  {
+    "text": "TO SEAT 16, WHICH IS ONE OF THE",
+    "start": 106.389,
+    "duration": 4.037
+  },
+  {
+    "text": "TWO WARD 8 APPOINTMENTS.  TWO IS",
+    "start": 107.791,
+    "duration": 3.97
+  },
+  {
+    "text": "A LEGISLATIVE DIRECTIVE",
+    "start": 110.527,
+    "duration": 2.802
+  },
+  {
+    "text": "REQUESTING AN OVERVIEW OF",
+    "start": 111.861,
+    "duration": 2.77
+  },
+  {
+    "text": "PROCUREMENT PRACTICES FOR",
+    "start": 113.463,
+    "duration": 3.303
+  },
+  {
+    "text": "COMPLETED SOLICITATIONS AND",
+    "start": 115.532,
+    "duration": 6.373
+  },
+  {
+    "text": "CONTRACTS UNDER $175,000.  ANY",
+    "start": 117.667,
+    "duration": 5.472
+  },
+  {
+    "text": "QUESTIONS FROM THE COMMITTEE",
+    "start": 122.005,
+    "duration": 3.804
+  },
+  {
+    "text": "RELATED TO THE CONSENT AGENDA? ",
+    "start": 123.239,
+    "duration": 5.339
+  },
+  {
+    "text": "I'LL FIRST RECOGNIZE VICE CHAIR",
+    "start": 125.909,
+    "duration": 2.869
+  },
+  {
+    "text": "KOSKI.",
+    "start": 128.678,
+    "duration": 1.301
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHUGHTAI.  I",
+    "start": 128.878,
+    "duration": 3.337
+  },
+  {
+    "text": "WANTED TO SPEAK TO ITEM TWO. ",
+    "start": 130.079,
+    "duration": 3.137
+  },
+  {
+    "text": "TODAY I'M INTRODUCING A",
+    "start": 132.315,
+    "duration": 2.236
+  },
+  {
+    "text": "LEGISLATIVE DIRECTIVE THAT",
+    "start": 133.316,
+    "duration": 2.903
+  },
+  {
+    "text": "STRENGTHENING OUR COMMITMENT TO",
+    "start": 134.651,
+    "duration": 3.904
+  },
+  {
+    "text": "TRANSPARENCY AND ACCOUNTABILITY.",
+    "start": 136.319,
+    "duration": 3.737
+  },
+  {
+    "text": " SPECIFILLY IN HOW THE CITY",
+    "start": 138.655,
+    "duration": 3.003
+  },
+  {
+    "text": "SPENDS TAXPAYER DOLLARS THROUGH",
+    "start": 140.156,
+    "duration": 3.137
+  },
+  {
+    "text": "PROCUREMENT AND CONTRACTS.  AS",
+    "start": 141.758,
+    "duration": 3.703
+  },
+  {
+    "text": "WE'VE SEEN RECENT THROUGH",
+    "start": 143.393,
+    "duration": 2.636
+  },
+  {
+    "text": "CONVERSATIONS IN HEIGHTENED",
+    "start": 145.562,
+    "duration": 1.901
+  },
+  {
+    "text": "PUBLISHING INTERESTS, THERE'S",
+    "start": 146.129,
+    "duration": 3.437
+  },
+  {
+    "text": "GROWING CONCERN ABOUT THE",
+    "start": 147.564,
+    "duration": 3.47
+  },
+  {
+    "text": "PROCUREMENT PRACTICES.  ABOUT",
+    "start": 149.999,
+    "duration": 2.436
+  },
+  {
+    "text": "HOW CONTRACTS ARE AWARDED, AND",
+    "start": 151.134,
+    "duration": 2.569
+  },
+  {
+    "text": "WHETHER THE PROCESS IS",
+    "start": 152.535,
+    "duration": 2.303
+  },
+  {
+    "text": "TRANSPARENT, ACCOUNTABLE, AND",
+    "start": 153.803,
+    "duration": 3.67
+  },
+  {
+    "text": "ABOVE ALL, FAIR.  THESE CONCERNS",
+    "start": 154.938,
+    "duration": 3.67
+  },
+  {
+    "text": "UNDERSCORE THE NEED FOR A DEEPER",
+    "start": 157.574,
+    "duration": 3.336
+  },
+  {
+    "text": "LOOK INTO OUR CURRENT SYSTEM. ",
+    "start": 158.708,
+    "duration": 3.704
+  },
+  {
+    "text": "THE CITY COUNCIL HAS LONG",
+    "start": 161.01,
+    "duration": 2.403
+  },
+  {
+    "text": "RECOGNIZED THE NEED FOR",
+    "start": 162.512,
+    "duration": 2.769
+  },
+  {
+    "text": "IMPROVEMENTS IN HOW WE HANDLE",
+    "start": 163.613,
+    "duration": 2.636
+  },
+  {
+    "text": "CONTRACTS.  OVER THE PAST",
+    "start": 165.381,
+    "duration": 2.87
+  },
+  {
+    "text": "SEVERAL YEARS, WE HAVE ENGAGED",
+    "start": 166.349,
+    "duration": 4.872
+  },
+  {
+    "text": "IN ONGOING DISCUSSIONS ON THE",
+    "start": 168.418,
+    "duration": 4.971
+  },
+  {
+    "text": "TOPIC, REVIEWED POLICIES, AND",
+    "start": 171.888,
+    "duration": 4.137
+  },
+  {
+    "text": "CONSIDERED REFORMS TO ENHANCE",
+    "start": 173.489,
+    "duration": 5.272
+  },
+  {
+    "text": "TRANSPARENCY.  IN THE PAST SIX",
+    "start": 176.125,
+    "duration": 4.605
+  },
+  {
+    "text": "MONTHS WE HAVE ASKED AND",
+    "start": 178.862,
+    "duration": 3.336
+  },
+  {
+    "text": "RECEIVED TWO REPORTS BUILDING",
+    "start": 180.83,
+    "duration": 2.669
+  },
+  {
+    "text": "ON REPORTS AND DIALOGUE FROM",
+    "start": 182.398,
+    "duration": 3.003
+  },
+  {
+    "text": "PRIOR YEARS.  THE DIALOGUE",
+    "start": 183.6,
+    "duration": 4.671
+  },
+  {
+    "text": "AROUND TRANSRENCY AND",
+    "start": 185.501,
+    "duration": 4.939
+  },
+  {
+    "text": "CONTRACTING HAS GROWN LDER AND",
+    "start": 188.371,
+    "duration": 3.036
+  },
+  {
+    "text": "CLEAR.  IT'S OUR RESPONSIBILITY",
+    "start": 190.54,
+    "duration": 2.069
+  },
+  {
+    "text": "TO CONTINUE THE IMPORTANT WORK. ",
+    "start": 191.507,
+    "duration": 2.536
+  },
+  {
+    "text": "WE MUST BUILD ON THE PROGRESS",
+    "start": 192.942,
+    "duration": 2.503
+  },
+  {
+    "text": "WE'VE MADE, WHILE ADDRESSING",
+    "start": 194.143,
+    "duration": 2.536
+  },
+  {
+    "text": "GAPS IN OUR SYSTEMS THAT LEAVE",
+    "start": 195.545,
+    "duration": 3.036
+  },
+  {
+    "text": "ROOM FOR DOUBT OR CONCERN.  WITH",
+    "start": 196.779,
+    "duration": 3.737
+  },
+  {
+    "text": "THAT IN MIND, THIS LEGISLATIVE",
+    "start": 198.815,
+    "duration": 3.136
+  },
+  {
+    "text": "DIRECTIVE REQUESTS A",
+    "start": 200.617,
+    "duration": 2.469
+  },
+  {
+    "text": "COMPREHENSIVE REVIEW OF THE",
+    "start": 202.051,
+    "duration": 2.136
+  },
+  {
+    "text": "PROCUREMENT POLICIES AND",
+    "start": 203.453,
+    "duration": 2.302
+  },
+  {
+    "text": "PRACTICES, PARTICULARLY FOR",
+    "start": 204.287,
+    "duration": 2.836
+  },
+  {
+    "text": "SOLICITATIONS AND CONTRACTS",
+    "start": 205.855,
+    "duration": 3.871
+  },
+  {
+    "text": "UNDER $175,000.  IT INCLUDES A",
+    "start": 208.324,
+    "duration": 3.203
+  },
+  {
+    "text": "DETAILED ANALYSIS OF PROCUREME",
+    "start": 209.826,
+    "duration": 3.637
+  },
+  {
+    "text": "TRENDS OVER THE LAST DECADE,",
+    "start": 211.628,
+    "duration": 3.169
+  },
+  {
+    "text": "SHEDDING LIGHT ON THE FREQUENCY",
+    "start": 213.563,
+    "duration": 2.836
+  },
+  {
+    "text": "OF PROCUREMENT METHODS,",
+    "start": 215.265,
+    "duration": 2.402
+  },
+  {
+    "text": "DISTRIBUTION ACROSS DEPARTMENTS,",
+    "start": 216.499,
+    "duration": 4.905
+  },
+  {
+    "text": "AND VENDOR ACTIVITY.  THISDIRECA",
+    "start": 217.8,
+    "duration": 4.772
+  },
+  {
+    "text": "CLOSER LOOK AT CONTRACT",
+    "start": 221.504,
+    "duration": 2.603
+  },
+  {
+    "text": "AMENDMENTS, EXTENSIONS, AND",
+    "start": 223.206,
+    "duration": 2.335
+  },
+  {
+    "text": "ANGE ORDERS.  PROVIDING",
+    "start": 224.24,
+    "duration": 2.469
+  },
+  {
+    "text": "CRITICAL INSIGHT INTO THE SCOPE",
+    "start": 225.642,
+    "duration": 2.469
+  },
+  {
+    "text": "AND NATURE OF ADJUSTMENTS THAT",
+    "start": 226.809,
+    "duration": 3.437
+  },
+  {
+    "text": "ARE BEING MAD TO THESE",
+    "start": 228.211,
+    "duration": 3.603
+  },
+  {
+    "text": "CONTRACTS.  BEYOND JUST",
+    "start": 230.346,
+    "duration": 3.07
+  },
+  {
+    "text": "GATHERING DATA, THIS DIRECVE",
+    "start": 231.915,
+    "duration": 3.87
+  },
+  {
+    "text": "IS ABOUT ENSURING THAT THE",
+    "start": 233.516,
+    "duration": 5.906
+  },
+  {
+    "text": "INFORMATION RECEIVE AND EVALUAT.",
+    "start": 235.885,
+    "duration": 5.639
+  },
+  {
+    "text": " AS PART OF THIS DIRECTIVE, THE",
+    "start": 239.522,
+    "duration": 3.437
+  },
+  {
+    "text": "REQUESTED REPORT AND DATA WILL",
+    "start": 241.691,
+    "duration": 3.103
+  },
+  {
+    "text": "BE PUBLISHED IN A WAY THAT IS",
+    "start": 243.126,
+    "duration": 3.97
+  },
+  {
+    "text": "ASSESSABLE TO EVE RESIDENT OF",
+    "start": 244.894,
+    "duration": 4.071
+  },
+  {
+    "text": "MINNEAPOLIS.  THIS STEP IS",
+    "start": 247.196,
+    "duration": 3.971
+  },
+  {
+    "text": "CRUCIAL AS WE SEEKO REBUILD",
+    "start": 249.065,
+    "duration": 3.67
+  },
+  {
+    "text": "PUBLIC TRUST AND MAINTAIN AN",
+    "start": 251.267,
+    "duration": 3.17
+  },
+  {
+    "text": "OPEN DIALOGUE ABOUT HOW TAXPAYER",
+    "start": 252.835,
+    "duration": 3.804
+  },
+  {
+    "text": "DOLLARS ARE BEING SPENT. ",
+    "start": 254.537,
+    "duration": 3.971
+  },
+  {
+    "text": "TRANSPARENCY IS NOT JUST ABOUT",
+    "start": 256.739,
+    "duration": 3.337
+  },
+  {
+    "text": "SHARING INFORMATION.  IT'S ABOUT",
+    "start": 258.608,
+    "duration": 3.07
+  },
+  {
+    "text": "HOW WE USE THAT INFORMATION TO",
+    "start": 260.209,
+    "duration": 3.838
+  },
+  {
+    "text": "IMPROVE OUR SYSTEMS.  OUR",
+    "start": 261.778,
+    "duration": 4.004
+  },
+  {
+    "text": "PROCESSES, AND THE WAY WE WORK",
+    "start": 264.147,
+    "duration": 4.604
+  },
+  {
+    "text": "WITH THE PUBLIC.  THIS IS AN",
+    "start": 265.882,
+    "duration": 4.738
+  },
+  {
+    "text": "OPPORTUNITY TO NOT ONLY ADDRESS",
+    "start": 268.851,
+    "duration": 2.87
+  },
+  {
+    "text": "EXISTING CONCERNS, BUT AO TO",
+    "start": 270.72,
+    "duration": 2.569
+  },
+  {
+    "text": "SET A NEW STANDARD FOR",
+    "start": 271.821,
+    "duration": 2.97
+  },
+  {
+    "text": "TRANSPARENCY AND INTEGRITY",
+    "start": 273.389,
+    "duration": 2.77
+  },
+  {
+    "text": "MOVING FORWARD.  THIS IS AN",
+    "start": 274.891,
+    "duration": 2.335
+  },
+  {
+    "text": "OPPORTUNITY TO RAISE THE",
+    "start": 276.292,
+    "duration": 2.569
+  },
+  {
+    "text": "STANDARD FOR GOOD GOVERNANCE IN",
+    "start": 277.327,
+    "duration": 4.237
+  },
+  {
+    "text": "MINNEAPOLIS.  THANK YOU.",
+    "start": 278.962,
+    "duration": 6.573
+  },
+  {
+    "text": ">>  THANK YOU. EXT I'LL",
+    "start": 281.898,
+    "duration": 5.038
+  },
+  {
+    "text": "RECOGNIZE COUNCILMEMBER",
+    "start": 285.635,
+    "duration": 1.735
+  },
+  {
+    "text": "PALMISANO.",
+    "start": 287.036,
+    "duration": 2.336
+  },
+  {
+    "text": ">> THANK YOU, MADAM CHAIR.  I",
+    "start": 287.47,
+    "duration": 4.438
+  },
+  {
+    "text": "WANTED TO ASK ABOUT CONSENT ITEM",
+    "start": 290.239,
+    "duration": 3.671
+  },
+  {
+    "text": "NUMBER T.  I THINK IT'S",
+    "start": 292.008,
+    "duration": 3.971
+  },
+  {
+    "text": "IMPORTANT FOR US TO KNOW WHO IS",
+    "start": 294.01,
+    "duration": 5.272
+  },
+  {
+    "text": "KEEPING TRACK OF CONTRACTS,",
+    "start": 297.013,
+    "duration": 3.971
+  },
+  {
+    "text": "SMALLER CONTRACTS, CONTRACTS",
+    "start": 299.382,
+    "duration": 5.806
+  },
+  {
+    "text": "DER $175,000 IN NATURE.  AND",
+    "start": 301.117,
+    "duration": 6.423
+  },
+  {
+    "text": "FRAU WASTE, AND ABUSE IS A",
+    "start": 305.288,
+    "duration": 5.338
+  },
+  {
+    "text": "VERY TOPIC THESE DAYS.  BUT IN",
+    "start": 307.724,
+    "duration": 4.904
+  },
+  {
+    "text": "MY TIME HERE ON THE COUNCIL, THE",
+    "start": 310.727,
+    "duration": 4.504
+  },
+  {
+    "text": "MINIMUM AMOUNT WAS RAISED",
+    "start": 312.729,
+    "duration": 3.97
+  },
+  {
+    "text": "FROM -- IN TERMS OF NEEDING TO",
+    "start": 315.331,
+    "duration": 2.569
+  },
+  {
+    "text": "GO THROUGH COUNCIL PROCESS OR",
+    "start": 316.799,
+    "duration": 5.039
+  },
+  {
+    "text": "NOT FROM $150,000, I BELIEVE TO,",
+    "start": 318.001,
+    "duration": 5.672
+  },
+  {
+    "text": "$175,000.  I'M CURIOUS IF WE",
+    "start": 321.938,
+    "duration": 3.97
+  },
+  {
+    "text": "HAVE ANY SENSE OF WHAT KIND OF",
+    "start": 323.773,
+    "duration": 4.471
+  },
+  {
+    "text": "TIME OR EFFORT IS GOING TO B",
+    "start": 326.009,
+    "duration": 3.937
+  },
+  {
+    "text": "REQUIRED FOR PROCUREMENT FOR",
+    "start": 328.344,
+    "duration": 3.671
+  },
+  {
+    "text": "THIS KIND OF AN UERTAKING.  A",
+    "start": 330.046,
+    "duration": 3.754
+  },
+  {
+    "text": "10-YEAR LOOK BACK IS A MASSIVE",
+    "start": 332.315,
+    "duration": 5.222
+  },
+  {
+    "text": "UNDERTAKING.  AND I'M NOT SURE",
+    "start": 334.25,
+    "duration": 4.621
+  },
+  {
+    "text": "WE HAVE -- I'M NOT SURE WHAT",
+    "start": 337.637,
+    "duration": 4.304
+  },
+  {
+    "text": "THAT WOULD MEAN REPRIORITIZING",
+    "start": 338.971,
+    "duration": 4.338
+  },
+  {
+    "text": "IN TERMS OF PROCUREMENT STAFF. ",
+    "start": 342.041,
+    "duration": 3.604
+  },
+  {
+    "text": "GIVEN WE ARE VERY CONCERNED WITH",
+    "start": 343.409,
+    "duration": 3.537
+  },
+  {
+    "text": "HOW FAST WE CAN PAY THINGS",
+    "start": 345.745,
+    "duration": 4.004
+  },
+  {
+    "text": "THROUGH A PROCUREMENT PROCESS, I",
+    "start": 347.046,
+    "duration": 4.405
+  },
+  {
+    "text": "WANT A SENSE OF HOW THE AUTHOR",
+    "start": 349.916,
+    "duration": 3.303
+  },
+  {
+    "text": "HAS WORKED WITH STAFF TO GET A",
+    "start": 351.551,
+    "duration": 4.171
+  },
+  {
+    "text": "SENSE OF SCOPE IN WHAT IT IS",
+    "start": 353.319,
+    "duration": 3.303
+  },
+  {
+    "text": "WE'RE ACTUALLY LOOKING FOR HERE.",
+    "start": 355.822,
+    "duration": 2.068
+  },
+  {
+    "text": " IF THERE IS SOMETHING MORE",
+    "start": 356.723,
+    "duration": 2.869
+  },
+  {
+    "text": "SPECIFIC, MAYBE WE SHOULD ASK",
+    "start": 357.99,
+    "duration": 4.538
+  },
+  {
+    "text": "SPECIFICALLY OR MAYBE WE COULD",
+    "start": 359.692,
+    "duration": 6.006
+  },
+  {
+    "text": "TAILOR IT TO NOT BE BETWEEN 0",
+    "start": 362.628,
+    "duration": 5.606
+  },
+  {
+    "text": "AND $175,000 WITH A 10-YEAR LOOK",
+    "start": 365.798,
+    "duration": 5.506
+  },
+  {
+    "text": "BACK AGAIN, MAYBE THISS A",
+    "start": 368.334,
+    "duration": 5.839
+  },
+  {
+    "text": "BETTER-SUITED AS AN AUDIT.  I'M",
+    "start": 371.504,
+    "duration": 5.138
+  },
+  {
+    "text": "CURIOUS HOW WE CAME TO THIS",
+    "start": 374.273,
+    "duration": 4.071
+  },
+  {
+    "text": "MASSIVE TYPE OF WORKLOAD.  OR",
+    "start": 376.743,
+    "duration": 3.436
+  },
+  {
+    "text": "MAYBE, HONESTLY, MAYBE IT'S NOT",
+    "start": 378.945,
+    "duration": 3.403
+  },
+  {
+    "text": "A BIG WORKLOAD AND IT'S ABOUT",
+    "start": 380.313,
+    "duration": 3.637
+  },
+  {
+    "text": "DAYLIGHTING A LOT OF INFORMATION",
+    "start": 382.749,
+    "duration": 7.774
+  },
+  {
+    "text": "FROM A 10-YEAR PERIOD. ",
+    "start": 384.05,
+    "duration": 8.542
+  },
+  {
+    "text": ">>THANK YOU FOR THE QUESTION. ",
+    "start": 390.79,
+    "duration": 2.536
+  },
+  {
+    "text": "VICE CHAIR KOSKI?",
+    "start": 392.692,
+    "duration": 2.402
+  },
+  {
+    "text": ">>  WE DIDN'T GET ANY RED FLAGS",
+    "start": 393.426,
+    "duration": 2.669
+  },
+  {
+    "text": "OR CONCERNS FROM STAFF SAYING",
+    "start": 395.128,
+    "duration": 2.135
+  },
+  {
+    "text": "THIS WAS GOING TO TAKE AN",
+    "start": 396.429,
+    "duration": 3.971
+  },
+  {
+    "text": "ABUNDANCE AMOUNT OF TIME.  WE",
+    "start": 397.363,
+    "duration": 5.172
+  },
+  {
+    "text": "DO -- ARE IN THE MIDST OF",
+    "start": 400.633,
+    "duration": 3.17
+  },
+  {
+    "text": "GETTING ANOTHER SETTING MEETING.",
+    "start": 402.635,
+    "duration": 3.604
+  },
+  {
+    "text": " I DID FLAG ONE ELEMENT OF IT. ",
+    "start": 403.936,
+    "duration": 3.571
+  },
+  {
+    "text": "THE LAST PORTION.  THEY WANTED",
+    "start": 406.339,
+    "duration": 3.136
+  },
+  {
+    "text": "TO GO A LITTLE DEEPER ON.  BUT",
+    "start": 407.607,
+    "duration": 3.303
+  },
+  {
+    "text": "WE ARE GETTING THAT MEETING SET",
+    "start": 409.575,
+    "duration": 2.903
+  },
+  {
+    "text": "UP TO FIND OUT WHEN THEY WOULD",
+    "start": 411.244,
+    "duration": 3.904
+  },
+  {
+    "text": "BRING THIS INFORMATION BACK.  IF",
+    "start": 412.578,
+    "duration": 5.406
+  },
+  {
+    "text": "IT WOULD NEED TO BE IN A CLOSED",
+    "start": 415.281,
+    "duration": 6.24
+  },
+  {
+    "text": "SESSION OR IN OPEN SESSION.",
+    "start": 418.084,
+    "duration": 4.604
+  },
+  {
+    "text": ">>  SO THEN, MADAM CHAIR, JUST",
+    "start": 421.621,
+    "duration": 4.638
+  },
+  {
+    "text": "TO BE CLEAR, THE -- YOU DIDN'T",
+    "start": 422.989,
+    "duration": 4.738
+  },
+  {
+    "text": "HEAR ANY RED FLAGS, BUT DID YOU",
+    "start": 426.359,
+    "duration": 3.603
+  },
+  {
+    "text": "GET A SENSE OF THE AMOUNT OF",
+    "start": 427.827,
+    "duration": 4.137
+  },
+  {
+    "text": "TIME?  THE NUMBER OF HOURS IT",
+    "start": 430.062,
+    "duration": 3.904
+  },
+  {
+    "text": "WOULD TAKE TO PUT SETHING LIKE",
+    "start": 432.064,
+    "duration": 2.303
+  },
+  {
+    "text": "THIS TOGETHER?",
+    "start": 434.066,
+    "duration": 2.203
+  },
+  {
+    "text": ">>  THEY DID NOT BRICK THAT UP",
+    "start": 434.467,
+    "duration": 4.004
+  },
+  {
+    "text": "AS AN ISSUE THERE WOULD TAKE A",
+    "start": 436.436,
+    "duration": 3.103
+  },
+  {
+    "text": "SUBSTANTIAL AMOUNT OF TIME.  I'M",
+    "start": 438.571,
+    "duration": 2.536
+  },
+  {
+    "text": "HAPPY TO HAVE STAFF COME UP AND",
+    "start": 439.639,
+    "duration": 3.17
+  },
+  {
+    "text": "LET US KNOW WHAT THAT WOULD LOOK",
+    "start": 441.207,
+    "duration": 3.604
+  },
+  {
+    "text": "LIKE.  BUT, AGAIN, I WILL",
+    "start": 442.909,
+    "duration": 3.97
+  },
+  {
+    "text": "REITERATE THAT THIS IS ABOUT",
+    "start": 444.944,
+    "duration": 3.604
+  },
+  {
+    "text": "TRANSPARENCY FOR THE PUBLIC AND",
+    "start": 446.979,
+    "duration": 3.237
+  },
+  {
+    "text": "MAKING SURE THAT WE CREATE",
+    "start": 448.648,
+    "duration": 4.137
+  },
+  {
+    "text": "BETTER PROCESSES FOR US IN THE",
+    "start": 450.316,
+    "duration": 4.605
+  },
+  {
+    "text": "FUTURE.  AND IF THERE IS STAFF",
+    "start": 452.885,
+    "duration": 3.47
+  },
+  {
+    "text": "HERE THAT WOULD LIKE TO SPEAK TO",
+    "start": 455.021,
+    "duration": 2.369
+  },
+  {
+    "text": "THAT, THAT'S GREAT.",
+    "start": 456.456,
+    "duration": 6.006
+  },
+  {
+    "text": ">> IT LOOKS LIKE CFO DIRECTOR",
+    "start": 457.657,
+    "duration": 6.573
+  },
+  {
+    "text": "WISHES TO -- IS WILLING TO",
+    "start": 462.562,
+    "duration": 6.907
+  },
+  {
+    "text": "ANSWER OR COMMENT ON THIS. ",
+    "start": 464.33,
+    "duration": 8.108
+  },
+  {
+    "text": ">> WELCOME.  PLEASE INTRODUCE",
+    "start": 469.902,
+    "duration": 3.604
+  },
+  {
+    "text": "YOURSELF.",
+    "start": 472.538,
+    "duration": 3.337
+  },
+  {
+    "text": ">> CFO.  CHAIR CHUGHTAI,",
+    "start": 473.84,
+    "duration": 3.47
+  },
+  {
+    "text": "COUNCILMEMBER PALMISANO,",
+    "start": 475.975,
+    "duration": 4.638
+  },
+  {
+    "text": "COUNCILMEMBER KOSKI, WE DID MEET",
+    "start": 477.41,
+    "duration": 7.474
+  },
+  {
+    "text": "WITH THE AUTHORS -- AUTHOR, I",
+    "start": 480.713,
+    "duration": 6.907
+  },
+  {
+    "text": "SHOULD SAY, AND DID ADDRESS SOME",
+    "start": 484.984,
+    "duration": 5.806
+  },
+  {
+    "text": "CONCERNS THAT PROCUREMENT STAFF",
+    "start": 487.854,
+    "duration": 5.105
+  },
+  {
+    "text": "HAD.  THE SYSTEM WAS NOT",
+    "start": 490.89,
+    "duration": 6.473
+  },
+  {
+    "text": "IMPLEMENTED TO TRACK PROCUREMENT",
+    "start": 493.059,
+    "duration": 6.94
+  },
+  {
+    "text": "CONTRAS UNTIL 2019.  SO THAT'S",
+    "start": 497.463,
+    "duration": 5.539
+  },
+  {
+    "text": "HOW FAR BACK OUR DATA GOES FROM",
+    "start": 500.099,
+    "duration": 6.44
+  },
+  {
+    "text": "A SYSTEM PERSPECTIVE.  AND THEN",
+    "start": 503.469,
+    "duration": 4.571
+  },
+  {
+    "text": "THE PREVIOUS CONTRACTS WERE",
+    "start": 506.672,
+    "duration": 4.205
+  },
+  {
+    "text": "HANDLED ON A, LIKE, A MANUAL",
+    "start": 508.774,
+    "duration": 4.972
+  },
+  {
+    "text": "WAY.  AND SOME WERE HANDLED BY",
+    "start": 510.977,
+    "duration": 3.503
+  },
+  {
+    "text": "THE DEPARTMENTS.  NOT",
+    "start": 513.98,
+    "duration": 3.136
+  },
+  {
+    "text": "NECESSARILY CENTRALLY.  SO WE",
+    "start": 514.881,
+    "duration": 3.97
+  },
+  {
+    "text": "WOULD NEED SUBSTANTIAL AMOUNT OF",
+    "start": 517.216,
+    "duration": 4.838
+  },
+  {
+    "text": "TIME TO GATHERING ALL OF THAT",
+    "start": 519.252,
+    "duration": 3.103
+  },
+  {
+    "text": "INFORMATION.",
+    "start": 522.154,
+    "duration": 5.106
+  },
+  {
+    "text": ">> THANK YOU, CFO.  I UNDERSTOOD",
+    "start": 523.422,
+    "duration": 5.406
+  },
+  {
+    "text": "THAT.  I UNDERSTOOD THAT THEN",
+    "start": 527.36,
+    "duration": 3.103
+  },
+  {
+    "text": "YOU MIGHT NOTE THAT WE DON'T",
+    "start": 528.928,
+    "duration": 4.338
+  },
+  {
+    "text": "HAVE THE INFORMATION QUITE ALL",
+    "start": 530.563,
+    "duration": 4.338
+  },
+  {
+    "text": "THE WAY BACK TO 10 YEARS.  SO",
+    "start": 533.366,
+    "duration": 3.336
+  },
+  {
+    "text": "YOU WOULD START AT THE 2019",
+    "start": 535.001,
+    "duration": 2.602
+  },
+  {
+    "text": "MARK.",
+    "start": 536.802,
+    "duration": 1.802
+  },
+  {
+    "text": ">> YES.  THAT'S CORRECT.",
+    "start": 537.703,
+    "duration": 2.203
+  },
+  {
+    "text": ">> THANK YOU.",
+    "start": 538.971,
+    "duration": 3.304
+  },
+  {
+    "text": ">> S THEN IF I'M UNDERSTANDING",
+    "start": 540.172,
+    "duration": 3.137
+  },
+  {
+    "text": "THIS RIGHT, THIS IS NOT A",
+    "start": 542.375,
+    "duration": 1.535
+  },
+  {
+    "text": "10-YEAR LOOK BACK",
+    "start": 543.409,
+    "duration": 3.871
+  },
+  {
+    "text": "I.  IT'S A SIX-YEAR LOOK BACK. ",
+    "start": 544.61,
+    "duration": 5.105
+  },
+  {
+    "text": "A FIVE-YEAR LOOK BACK, AT THIS",
+    "start": 548.147,
+    "duration": 1.769
+  },
+  {
+    "text": "POINT.",
+    "start": 549.815,
+    "duration": 1.368
+  },
+  {
+    "text": ">> I THINK THEY'LL REPORT TO US",
+    "start": 550.116,
+    "duration": 2.769
+  },
+  {
+    "text": "THEY DON'T HAVE THE DATA TO SHOW",
+    "start": 551.417,
+    "duration": 4.371
+  },
+  {
+    "text": "US.  THAT WILL BE A SIGNIFICANT",
+    "start": 552.985,
+    "duration": 6.607
+  },
+  {
+    "text": "DATA POINT.  AND THEN, ALSO",
+    "start": 555.988,
+    "duration": 4.805
+  },
+  {
+    "text": "NOTING GIVING US WHAT THEY DO",
+    "start": 559.692,
+    "duration": 1.468
+  },
+  {
+    "text": "HAVE, YES.",
+    "start": 560.893,
+    "duration": 2.636
+  },
+  {
+    "text": ">> MADAM CHAIR, I JUST THINK IF",
+    "start": 561.494,
+    "duration": 3.97
+  },
+  {
+    "text": "WE'RE LOOKING AT INCREASING",
+    "start": 563.629,
+    "duration": 2.836
+  },
+  {
+    "text": "TRANSPARENCY AND CREING NEW",
+    "start": 565.565,
+    "duration": 3.803
+  },
+  {
+    "text": "PROCESSES IN THE FUTURE, THAT",
+    "start": 566.566,
+    "duration": 5.038
+  },
+  {
+    "text": "MAYBE GOING FROM 2019 WOULD JUST",
+    "start": 569.468,
+    "duration": 7.174
+  },
+  {
+    "text": "BE SUFFICIENT. ",
+    "start": 573.606,
+    "duration": 7.808
+  },
+  {
+    "text": ">>  ALL RIGHT.  I WILL NEXT",
+    "start": 576.842,
+    "duration": 5.339
+  },
+  {
+    "text": "RECOGNIZE COUNCILMEMBER",
+    "start": 581.514,
+    "duration": 0.901
+  },
+  {
+    "text": "WONSLEY.",
+    "start": 582.281,
+    "duration": 3.137
+  },
+  {
+    "text": ">> THANK YOU, VICE PRESIDENT",
+    "start": 582.515,
+    "duration": 5.539
+  },
+  {
+    "text": "CHUGHTAI.  I WANT TO THANK",
+    "start": 586.185,
+    "duration": 3.237
+  },
+  {
+    "text": "COUNCILMEMBER KOSKI FOR BRINGING",
+    "start": 588.154,
+    "duration": 2.068
+  },
+  {
+    "text": "FORWARD THIS LEGISLATIVE",
+    "start": 589.655,
+    "duration": 2.202
+  },
+  {
+    "text": "DIRECTIVE.  THE AINISTRATION",
+    "start": 590.323,
+    "duration": 2.402
+  },
+  {
+    "text": "AND ENTERPRISE OVERSIGHT",
+    "start": 591.958,
+    "duration": 2.702
+  },
+  {
+    "text": "COMMITTEE HAS HAD A LOT OF",
+    "start": 592.992,
+    "duration": 3.67
+  },
+  {
+    "text": "CONVERSATION RELED TO",
+    "start": 595.528,
+    "duration": 3.937
+  },
+  {
+    "text": "PROCUREMENT AND CONTRACTS.  AND",
+    "start": 596.762,
+    "duration": 6.407
+  },
+  {
+    "text": "PRIOR TO RECENT EFF EVENTS,",
+    "start": 599.565,
+    "duration": 5.906
+  },
+  {
+    "text": "WHICH I IMAGINE NOW, HAVE HAD",
+    "start": 603.269,
+    "duration": 3.603
+  },
+  {
+    "text": "MANY COUNCILMEMBERS HAVING TO",
+    "start": 605.571,
+    "duration": 2.603
+  },
+  {
+    "text": "FIELD QUESTIONS ABOUT CONTRACTS.",
+    "start": 607.44,
+    "duration": 3.737
+  },
+  {
+    "text": "I HAVE ALSO BEEN INTERESTED IN",
+    "start": 608.441,
+    "duration": 4.037
+  },
+  {
+    "text": "REOPENING THE PROCUREMENT",
+    "start": 611.444,
+    "duration": 3.103
+  },
+  {
+    "text": "ORDINANCE THAT COUNCIL PASSED",
+    "start": 613.312,
+    "duration": 2.77
+  },
+  {
+    "text": "BACK IN 2022.  AND THE GOAL OF",
+    "start": 614.814,
+    "duration": 5.138
+  },
+  {
+    "text": "THAT OINANCE TO INCREASE",
+    "start": 616.182,
+    "duration": 4.938
+  },
+  {
+    "text": "EFFICIENCY.  WHICH WAS",
+    "start": 620.052,
+    "duration": 2.136
+  },
+  {
+    "text": "SOMETHINGS IAS SUPPORTIVE OF",
+    "start": 621.22,
+    "duration": 3.07
+  },
+  {
+    "text": "AND THE BODY WAS, AS WELL, IT",
+    "start": 622.288,
+    "duration": 4.738
+  },
+  {
+    "text": "3 PASSED UNANIMOUSLY. ",
+    "start": 624.39,
+    "duration": 4.004
+  },
+  {
+    "text": "SINCE PASSING, IT'S BEEN CLEAR",
+    "start": 627.493,
+    "duration": 4.538
+  },
+  {
+    "text": "THERE'S AN INCREASED NEED FOR",
+    "start": 628.694,
+    "duration": 4.805
+  },
+  {
+    "text": "TRANSPARENCY AROUND REPORTING OF",
+    "start": 632.131,
+    "duration": 4.838
+  },
+  {
+    "text": "SOME OF THE FINANCIAL",
+    "start": 633.799,
+    "duration": 5.272
+  },
+  {
+    "text": "TRANSACTIONS THAT HAVE BEE",
+    "start": 637.069,
+    "duration": 3.37
+  },
+  {
+    "text": "THROUGH VARIOUS DEPARTMENTS",
+    "start": 639.171,
+    "duration": 2.703
+  },
+  {
+    "text": "AROUND PROCUREMENT PROCESSES. ",
+    "start": 640.539,
+    "duration": 3.471
+  },
+  {
+    "text": "AND, ALSO, OUTSIDE OF RECENT",
+    "start": 641.974,
+    "duration": 4.938
+  },
+  {
+    "text": "EMBARRASSING STORIES ABOUT",
+    "start": 644.11,
+    "duration": 4.838
+  },
+  {
+    "text": "CORACTS THAT HAVE BEEN",
+    "start": 647.046,
+    "duration": 3.77
+  },
+  {
+    "text": "APPROVED BY CITY LEADERS, I WILL",
+    "start": 649.115,
+    "duration": 3.103
+  },
+  {
+    "text": "NOTE THAT I THINK THIS IS AN",
+    "start": 650.916,
+    "duration": 4.338
+  },
+  {
+    "text": "EFFORT THAT IS JUST TIED TO GOOD",
+    "start": 652.318,
+    "duration": 4.838
+  },
+  {
+    "text": "GOVERNANCE.  ALLOWING FOR THIS",
+    "start": 655.354,
+    "duration": 3.637
+  },
+  {
+    "text": "INFORMATION TO BE TRANSPARENCY",
+    "start": 657.256,
+    "duration": 3.837
+  },
+  {
+    "text": "SHARED WITH THE PUBLIC.  AND T",
+    "start": 659.091,
+    "duration": 4.939
+  },
+  {
+    "text": "FACT THAT THIS HAS NOT BEEN A",
+    "start": 661.193,
+    "duration": 5.806
+  },
+  {
+    "text": "REQUIREMENT FOR US TO ALSO ENACT",
+    "start": 664.163,
+    "duration": 6.106
+  },
+  {
+    "text": "OVERSIGHT.  IT'S -- IT'S -- IT'S",
+    "start": 667.099,
+    "duration": 5.239
+  },
+  {
+    "text": "KIND OF WOW TO ME.  BUT I'M GLAD",
+    "start": 670.403,
+    "duration": 3.536
+  },
+  {
+    "text": "THAT THIS LEGISLATIVE DIRECTIVE",
+    "start": 672.438,
+    "duration": 4.404
+  },
+  {
+    "text": "IS, AT LEAST, ATTEMPTING TO",
+    "start": 674.106,
+    "duration": 5.873
+  },
+  {
+    "text": "DRESS THAT NOW.  AND, UMM, I",
+    "start": 676.976,
+    "duration": 4.871
+  },
+  {
+    "text": "HOPE THAT IN GETTI THIS",
+    "start": 680.079,
+    "duration": 3.036
+  },
+  {
+    "text": "INFORMATION, THAT THE PUBLIC AS",
+    "start": 681.947,
+    "duration": 3.07
+  },
+  {
+    "text": "WELL AS THE COUNCIL, AND MOST OF",
+    "start": 683.215,
+    "duration": 3.137
+  },
+  {
+    "text": "THE DEPARTMENTS ARE AE TO",
+    "start": 685.117,
+    "duration": 3.704
+  },
+  {
+    "text": "SHARE THEY ARE ESSENTIALLY",
+    "start": 687.586,
+    "duration": 5.973
+  },
+  {
+    "text": "EMPLOYING BEST PRACTICES.  WHEN",
+    "start": 688.921,
+    "duration": 5.906
+  },
+  {
+    "text": "THEY ARE DEALING WITH CONTRACTS",
+    "start": 693.659,
+    "duration": 4.071
+  },
+  {
+    "text": "THAT ARE MEETING THE THRESHOLD",
+    "start": 694.927,
+    "duration": 7.708
+  },
+  {
+    "text": "OF UNDER $175,000, WHICH DO NOT",
+    "start": 698.13,
+    "duration": 5.906
+  },
+  {
+    "text": "REQUIRE COUNCIL APPROVAL.  I'M",
+    "start": 702.735,
+    "duration": 2.436
+  },
+  {
+    "text": "LOOKING FORWARD TO THE",
+    "start": 704.136,
+    "duration": 4.672
+  },
+  {
+    "text": "PRESENTATION COMING BACK.  AND I",
+    "start": 705.271,
+    "duration": 5.105
+  },
+  {
+    "text": "WILL, ALSO, BE MEETING WITH A",
+    "start": 709.175,
+    "duration": 2.869
+  },
+  {
+    "text": "NUMBER OF MY COLLEAGUES TO TALK",
+    "start": 710.476,
+    "duration": 3.937
+  },
+  {
+    "text": "ABOUT ADDITIONAL SOLUTIONS THAT",
+    "start": 712.144,
+    "duration": 4.572
+  },
+  {
+    "text": "WE'VE BEEN DISCUSSING IN",
+    "start": 714.513,
+    "duration": 4.305
+  },
+  {
+    "text": "COMMITTEE AROUND HOW WE CAN",
+    "start": 716.816,
+    "duration": 3.737
+  },
+  {
+    "text": "FURTHER ENHANC TRANSPARENCY TO",
+    "start": 719.418,
+    "duration": 3.304
+  },
+  {
+    "text": "ADDRESS SOME OF THE FINANCIAL",
+    "start": 720.653,
+    "duration": 4.771
+  },
+  {
+    "text": "ISSUES THAT WE'VE BEEN SEEING",
+    "start": 722.822,
+    "duration": 9.242
+  },
+  {
+    "text": "HAPPENING AS IT RELATES TO THE",
+    "start": 725.524,
+    "duration": 7.408
+  },
+  {
+    "text": "ADMINISTRATION'S VY",
+    "start": 732.164,
+    "duration": 1.902
+  },
+  {
+    "text": "INTERESTING APPROACHES TO",
+    "start": 733.032,
+    "duration": 4.271
+  },
+  {
+    "text": "PROCUREMENT AND CONTRACTS,N",
+    "start": 734.166,
+    "duration": 5.005
+  },
+  {
+    "text": "THE RECENT WEEKS.  THANKS,",
+    "start": 737.403,
+    "duration": 2.369
+  },
+  {
+    "text": "COUNCILMEMBER KOSKI.",
+    "start": 739.271,
+    "duration": 2.937
+  },
+  {
+    "text": ">> AND THEN NEXT I'LL RECOGNIZE",
+    "start": 740.206,
+    "duration": 2.469
+  },
+  {
+    "text": "COUNCILMEMBER CHAVEZ.",
+    "start": 742.308,
+    "duration": 2.102
+  },
+  {
+    "text": ">> THANK YOU, CHAIR CHUGHTAI.  I",
+    "start": 742.908,
+    "duration": 4.271
+  },
+  {
+    "text": "WANT TO THANK COUNCILMEMBER",
+    "start": 744.91,
+    "duration": 3.537
+  },
+  {
+    "text": "KOSKI -- VICE CHAIR KOSKI FOR",
+    "start": 747.346,
+    "duration": 2.836
+  },
+  {
+    "text": "BRINGING THIS FORWARD.  I THINK",
+    "start": 748.547,
+    "duration": 3.27
+  },
+  {
+    "text": "OUR RESIDENTS DESERVE TO KNOW",
+    "start": 750.282,
+    "duration": 3.204
+  },
+  {
+    "text": "WHAT THEIR TAX DOLLARS ARE BEING",
+    "start": 752.318,
+    "duration": 4.004
+  },
+  {
+    "text": "USED FOR.  AND I THINK LOOKING",
+    "start": 753.586,
+    "duration": 4.037
+  },
+  {
+    "text": "INTO THESE CONTRACTS IS REALLY",
+    "start": 756.422,
+    "duration": 3.036
+  },
+  {
+    "text": "IMPORTANT.  I THINK MANY OF US",
+    "start": 757.723,
+    "duration": 3.037
+  },
+  {
+    "text": "HAVE SHARED MANY CONCERNS",
+    "start": 759.558,
+    "duration": 3.32
+  },
+  {
+    "text": "THROUGHOUT OUR TIME HERE ABOUT",
+    "start": 761.494,
+    "duration": 2.569
+  },
+  {
+    "text": "THE CURRENT PROCUREMENT PROCESS",
+    "start": 762.995,
+    "duration": 2.202
+  },
+  {
+    "text": "THAT WE HAVE IN THE CITY",
+    "start": 764.163,
+    "duration": 2.736
+  },
+  {
+    "text": "ENTERPRISE.  AND HOW SETIMES",
+    "start": 765.297,
+    "duration": 3.938
+  },
+  {
+    "text": "IT'S NOT FULLY TRANSPARENT.  I",
+    "start": 766.999,
+    "duration": 4.204
+  },
+  {
+    "text": "THINK THIS IS A PRACTAL",
+    "start": 769.802,
+    "duration": 3.57
+  },
+  {
+    "text": "LEGISLATIVE DIRE DIRECTIVE",
+    "start": 771.57,
+    "duration": 3.237
+  },
+  {
+    "text": "THAT I AM HAPPY TO SUPPORT.  AND",
+    "start": 773.472,
+    "duration": 3.871
+  },
+  {
+    "text": "I LOOK FORWARD TO GETTING BACK",
+    "start": 774.907,
+    "duration": 4.671
+  },
+  {
+    "text": "THIS INFORTION.",
+    "start": 777.443,
+    "duration": 3.603
+  },
+  {
+    "text": ">> WONDERFUL.  THANK YOU. ",
+    "start": 779.845,
+    "duration": 3.604
+  },
+  {
+    "text": "SEEING NO FURTHER QUESTIONS OR",
+    "start": 781.147,
+    "duration": 3.77
+  },
+  {
+    "text": "DISCUSSION I'LL MOVE APPROVAL",
+    "start": 783.549,
+    "duration": 3.637
+  },
+  {
+    "text": "OF THE CON SENT AGENDA.  ALL",
+    "start": 785.017,
+    "duration": 5.139
+  },
+  {
+    "text": "THOSE IN FAVOR PLEASE SIGNIFY BY",
+    "start": 787.286,
+    "duration": 5.706
+  },
+  {
+    "text": "SAYING AYE.  THOSE OPPOSED SAY",
+    "start": 790.256,
+    "duration": 7.24
+  },
+  {
+    "text": "NAY.  ANY ABSTENTIONS?  WE HAVE",
+    "start": 793.092,
+    "duration": 8.175
+  },
+  {
+    "text": "ONE ABSTENTION.  AND THAT MOTION",
+    "start": 797.596,
+    "duration": 6.874
+  },
+  {
+    "text": "CARRIES.  NEXT WE'LL MOVE TO",
+    "start": 802.234,
+    "duration": 3.904
+  },
+  {
+    "text": "ITEM NUMBER THR, WHICH IS ON",
+    "start": 804.57,
+    "duration": 5.672
+  },
+  {
+    "text": "OUR POSTPONEMENT AGENDA.  BEFORE",
+    "start": 806.238,
+    "duration": 6.64
+  },
+  {
+    "text": "WE MOVE ON TO OUR NEXT",
+    "start": 810.676,
+    "duration": 4.771
+  },
+  {
+    "text": "DISCUSSION ITEM, I WANT TO",
+    "start": 812.978,
+    "duration": 5.539
+  },
+  {
+    "text": "QUICKLY ADDRESS THE BIANNUAL",
+    "start": 815.548,
+    "duration": 5.305
+  },
+  {
+    "text": "PERSONNEL REPORT.  AT THE",
+    "start": 818.617,
+    "duration": 3.737
+  },
+  {
+    "text": "REQUEST OF STAFF, WE ARE",
+    "start": 820.953,
+    "duration": 5.305
+  },
+  {
+    "text": "POSTPONING THIS ITEM TO OUR",
+    "start": 823.255,
+    "duration": 4.939
+  },
+  {
+    "text": "APRIL 14th, 2 2025,",
+    "start": 826.959,
+    "duration": 3.003
+  },
+  {
+    "text": "MEETING.  AT THE BEGINNING OF",
+    "start": 828.294,
+    "duration": 3.603
+  },
+  {
+    "text": "THE SECOND QUARTER.  AND THEN",
+    "start": 830.062,
+    "duration": 3.303
+  },
+  {
+    "text": "THE SECOND BIANNUAL PERSONNEL",
+    "start": 831.997,
+    "duration": 4.772
+  },
+  {
+    "text": "REPORT WILL BE PRESENT IN THE",
+    "start": 833.465,
+    "duration": 4.872
+  },
+  {
+    "text": "FIRST BUDGET COMMITTEE MEETING",
+    "start": 836.869,
+    "duration": 5.339
+  },
+  {
+    "text": "IN SEPTEMBER.  RIGHT AFTER LABOR",
+    "start": 838.537,
+    "duration": 7.241
+  },
+  {
+    "text": "DAY.  ARE THERE ANY QUESTIO OR",
+    "start": 842.308,
+    "duration": 8.909
+  },
+  {
+    "text": "DISCUSSION?  I'M NOT SEEING ANY.",
+    "start": 846.245,
+    "duration": 6.707
+  },
+  {
+    "text": " SO ON THE MOTION TO POSTPONE",
+    "start": 851.317,
+    "duration": 5.438
+  },
+  {
+    "text": "THIS ITEM TO APRIL4th, 2025,",
+    "start": 853.619,
+    "duration": 4.705
+  },
+  {
+    "text": "ALL THOSE IN FAVOR PLEASE",
+    "start": 856.922,
+    "duration": 6.14
+  },
+  {
+    "text": "SIGNIFY BY SAYING AYE.  ANY",
+    "start": 858.424,
+    "duration": 7.474
+  },
+  {
+    "text": "OPPOSED?  ANY ABSTENTNS?  THAT",
+    "start": 863.162,
+    "duration": 6.573
+  },
+  {
+    "text": "MOTION CARRIES.  NOW WE'LL MOVE",
+    "start": 866.232,
+    "duration": 5.672
+  },
+  {
+    "text": "TO ITEM NUMBER FOUR, WHICH IS",
+    "start": 870.502,
+    "duration": 3.003
+  },
+  {
+    "text": "OUR ONE DISCUSSION ITEM ON OUR",
+    "start": 872.037,
+    "duration": 4.471
+  },
+  {
+    "text": "AGENDA TODAY.  THIS ITEM IS",
+    "start": 873.606,
+    "duration": 5.238
+  },
+  {
+    "text": "RELATED TO THEPPOINTED",
+    "start": 876.609,
+    "duration": 3.903
+  },
+  {
+    "text": "POSITION OF DIRECTOR OF TALENT",
+    "start": 878.944,
+    "duration": 2.67
+  },
+  {
+    "text": "ACQUISITION IN THE HUMAN",
+    "start": 880.613,
+    "duration": 6.072
+  },
+  {
+    "text": "RESOURCES DEPARTMENT.  I'LL",
+    "start": 882.248,
+    "duration": 5.972
+  },
+  {
+    "text": "INVITE BRENDA MILLER FROM THE",
+    "start": 886.785,
+    "duration": 2.47
+  },
+  {
+    "text": "HUMAN RESOURCES DEPARTMENT TO",
+    "start": 888.32,
+    "duration": 14.448
+  },
+  {
+    "text": "SPEAK ON THE ITEM. ",
+    "start": 889.355,
+    "duration": 14.714
+  },
+  {
+    "text": ">>  CHAIRHUGHTAI AND MEMBERS",
+    "start": 902.868,
+    "duration": 3.07
+  },
+  {
+    "text": "OF THE COMMITTEE, I'M BRENDA",
+    "start": 904.169,
+    "duration": 3.07
+  },
+  {
+    "text": "MILLER, CLASSIFICATION AND",
+    "start": 906.071,
+    "duration": 3.904
+  },
+  {
+    "text": "COMPENSATION MANAGER FROM THE",
+    "start": 907.339,
+    "duration": 6.44
+  },
+  {
+    "text": "CITY.  I'M HERE PRESENT ONE",
+    "start": 910.242,
+    "duration": 5.639
+  },
+  {
+    "text": "ITEM.  THIS POSITION REPORTS TO",
+    "start": 913.879,
+    "duration": 3.604
+  },
+  {
+    "text": "THE DECTOR OF HUMAN RESOURCES",
+    "start": 916.015,
+    "duration": 2.969
+  },
+  {
+    "text": "OR THE CHIEF HUMAN RESOURCES",
+    "start": 917.716,
+    "duration": 3.437
+  },
+  {
+    "text": "OFFICER.  AND OVERSEES SOURCING,",
+    "start": 919.084,
+    "duration": 5.94
+  },
+  {
+    "text": "IDENTIFYING, AND HIRING CITY",
+    "start": 921.253,
+    "duration": 5.005
+  },
+  {
+    "text": "EMPLOYEES, AS WELL AS NOW THE",
+    "start": 925.124,
+    "duration": 2.769
+  },
+  {
+    "text": "URBAN SCHOLARS INTERNSHIP",
+    "start": 926.358,
+    "duration": 3.871
+  },
+  {
+    "text": "PROGRAM.  THE DIRECTOR O TALENT",
+    "start": 927.993,
+    "duration": 5.105
+  },
+  {
+    "text": "ACQUISITION HAS BEEN EVALUATED",
+    "start": 930.329,
+    "duration": 5.806
+  },
+  {
+    "text": " 575 POINTS, GRADE 12.  THE",
+    "start": 933.332,
+    "duration": 8.075
+  },
+  {
+    "text": "SALARY SCHEDULE RANGES FROM",
+    "start": 936.235,
+    "duration": 7.14
+  },
+  {
+    "text": "$128,364.  THE ESTIMATED 2025",
+    "start": 941.507,
+    "duration": 4.771
+  },
+  {
+    "text": "COST IS ABOUT $186,000, AND WL",
+    "start": 943.475,
+    "duration": 5.539
+  },
+  {
+    "text": "BE MOSTLY OFFSET BY REALLOCATING",
+    "start": 946.779,
+    "duration": 4.204
+  },
+  {
+    "text": "FUNDS FROM THE EXISTING MANAGER",
+    "start": 949.114,
+    "duration": 3.737
+  },
+  {
+    "text": "TALENT ACQUISITION POSITION. ",
+    "start": 951.417,
+    "duration": 2.602
+  },
+  {
+    "text": "REMAINING FUNDS WILL BE PAID",
+    "start": 952.952,
+    "duration": 2.602
+  },
+  {
+    "text": "THROUGH THE H DEPARTMENT'S",
+    "start": 954.119,
+    "duration": 4.071
+  },
+  {
+    "text": "GENERAL FUND.  CHANGES ARE",
+    "start": 956.422,
+    "duration": 5.805
+  },
+  {
+    "text": "EFFECTIVE FEBRUARY 27th, OF",
+    "start": 958.29,
+    "duration": 7.608
+  },
+  {
+    "text": "2025.  THIS POSITION MEETS THE",
+    "start": 962.328,
+    "duration": 7.907
+  },
+  {
+    "text": "CRITERIA OF SECTION 201010 OF",
+    "start": 965.998,
+    "duration": 6.707
+  },
+  {
+    "text": "THE MINUTES CODE OF RESOURCES. ",
+    "start": 970.336,
+    "duration": 4.104
+  },
+  {
+    "text": "IT'S A MEMBER OF THE HUMAN",
+    "start": 972.805,
+    "duration": 3.236
+  },
+  {
+    "text": "RESOURCES DEPARTMENT'S EXECUTIVE",
+    "start": 975.007,
+    "duration": 2.369
+  },
+  {
+    "text": "MANAGEMENT TEAM.  IT",
+    "start": 976.141,
+    "duration": 2.503
+  },
+  {
+    "text": "PARTICIPATES IN THE DEVELOPMENT",
+    "start": 977.509,
+    "duration": 4.405
+  },
+  {
+    "text": "AND IMPLEMENTATION OF CITY",
+    "start": 978.744,
+    "duration": 3.77
+  },
+  {
+    "text": "POLICIES, GOALS, AND STRATEGIC",
+    "start": 982.014,
+    "duration": 1.969
+  },
+  {
+    "text": "PLANNING FOR THE HUMAN RESOURCES",
+    "start": 982.614,
+    "duration": 3.938
+  },
+  {
+    "text": "DEPARTMENT.  IT REQUIRES",
+    "start": 984.083,
+    "duration": 3.637
+  },
+  {
+    "text": "LEADERSHIP, VISION, TEAM",
+    "start": 986.652,
+    "duration": 2.769
+  },
+  {
+    "text": "BUILDING, AND STRATY",
+    "start": 987.82,
+    "duration": 3.403
+  },
+  {
+    "text": "IMPLEMENTATION AND, FINALLY,",
+    "start": 989.521,
+    "duration": 2.97
+  },
+  {
+    "text": "ESTABLISHES POLICY GOALS AND",
+    "start": 991.323,
+    "duration": 2.202
+  },
+  {
+    "text": "STRATEGIES CONSISTENT WH THE",
+    "start": 992.591,
+    "duration": 3.303
+  },
+  {
+    "text": "GOALS AND PRIORITIES ESTABLISHED",
+    "start": 994.093,
+    "duration": 4.17
+  },
+  {
+    "text": "BY THE MAYOR, CITY COUNCIL, AND",
+    "start": 996.061,
+    "duration": 3.904
+  },
+  {
+    "text": "CHIEF HUMAN RESOURCES OFFICER. ",
+    "start": 998.364,
+    "duration": 3.336
+  },
+  {
+    "text": "OUR REQUEST IS THAT YOU FIND",
+    "start": 1000.065,
+    "duration": 3.771
+  },
+  {
+    "text": "THAT THE DIRECTOR OF TALENT",
+    "start": 1001.8,
+    "duration": 4.605
+  },
+  {
+    "text": "ACQUISITION MEETS THE APPOINTED",
+    "start": 1003.936,
+    "duration": 4.438
+  },
+  {
+    "text": "CRITERIA AS DEFINED IN SECTION",
+    "start": 1006.605,
+    "duration": 4.071
+  },
+  {
+    "text": "201010 OF THE MINNEAPOLIS CODE",
+    "start": 1008.64,
+    "duration": 3.838
+  },
+  {
+    "text": "OF ORDINANCES AND FORWARDED TO",
+    "start": 1011.11,
+    "duration": 2.502
+  },
+  {
+    "text": "COUNCIL FOR FINAL APPROVAL. ",
+    "start": 1012.578,
+    "duration": 1.468
+  },
+  {
+    "text": "THANK YOU.",
+    "start": 1013.712,
+    "duration": 1.869
+  },
+  {
+    "text": ">> THANK YOU FOR YOUR",
+    "start": 1014.446,
+    "duration": 3.571
+  },
+  {
+    "text": "PRESENTATION, MS. MILLER.  I'LL",
+    "start": 1016.115,
+    "duration": 5.438
+  },
+  {
+    "text": "INVITE THE HUMAN RESOURCES",
+    "start": 1018.117,
+    "duration": 5.772
+  },
+  {
+    "text": "DIRECTOR NIKKI ODOM TO SPEAK TO",
+    "start": 1021.653,
+    "duration": 5.573
+  },
+  {
+    "text": "THE NEED FOR THIS POSITION.  AND",
+    "start": 1023.989,
+    "duration": 4.972
+  },
+  {
+    "text": "ANY ADDITIONAL CONTEXT THAT THE",
+    "start": 1027.326,
+    "duration": 4.504
+  },
+  {
+    "text": "BODY SHOULD BE AWARE OF. ",
+    "start": 1029.061,
+    "duration": 3.57
+  },
+  {
+    "text": "WELCOME, DIRECTOR.",
+    "start": 1031.93,
+    "duration": 1.669
+  },
+  {
+    "text": ">> THANK YOU.  I AM NIKI ODOM. ",
+    "start": 1032.731,
+    "duration": 2.269
+  },
+  {
+    "text": "THE CHIEF HUMAN RESOURCES",
+    "start": 1033.699,
+    "duration": 3.003
+  },
+  {
+    "text": "OFFICER FOR THE CITY OF",
+    "start": 1035.2,
+    "duration": 2.803
+  },
+  {
+    "text": "MINNEAPOLIS.  WE ARE ASKING THAT",
+    "start": 1036.802,
+    "duration": 3.403
+  },
+  {
+    "text": "THIS POSITION BE ELEVATED TO A",
+    "start": 1038.237,
+    "duration": 4.037
+  },
+  {
+    "text": "DIRECTOR ROLE, AS YOU KNOW, AS",
+    "start": 1040.305,
+    "duration": 3.637
+  },
+  {
+    "text": "PART OF THE BUDGETING PROCESS",
+    "start": 1042.374,
+    "duration": 3.137
+  },
+  {
+    "text": "THIS YEAR. HE URBAN SCHOLARS",
+    "start": 1044.043,
+    "duration": 4.404
+  },
+  {
+    "text": "PROGRAM WAS TRANSFERRED FROM",
+    "start": 1045.611,
+    "duration": 5.305
+  },
+  {
+    "text": "CIVIL RIGHTS TO HR, AND THIS",
+    "start": 1048.547,
+    "duration": 4.304
+  },
+  {
+    "text": "POSITION IS GOING TO BE",
+    "start": 1051.116,
+    "duration": 2.703
+  },
+  {
+    "text": "OVERSEEING THAT PARTICULAR",
+    "start": 1052.951,
+    "duration": 2.269
+  },
+  {
+    "text": "PROGRAM THIS YEAR.  WE'RE VERY",
+    "start": 1053.919,
+    "duration": 5.606
+  },
+  {
+    "text": "EXCITED ABOUT IT.  SO WE WILL BE",
+    "start": 1055.32,
+    "duration": 5.906
+  },
+  {
+    "text": "ADDING THROUGH THE BUDGET",
+    "start": 1059.992,
+    "duration": 3.437
+  },
+  {
+    "text": "OCESS A COUPLE OF FTES WERE",
+    "start": 1061.36,
+    "duration": 3.804
+  },
+  {
+    "text": "ADDED TO THE SCOPE OF THIS",
+    "start": 1063.529,
+    "duration": 3.203
+  },
+  {
+    "text": "PARTICULAR JOB SO THE TALENT",
+    "start": 1065.264,
+    "duration": 2.602
+  },
+  {
+    "text": "ACQUISITION GROUP WILL BE TAKING",
+    "start": 1066.832,
+    "duration": 3.337
+  },
+  {
+    "text": "THIS OVER.  SPECIFICALLY THE",
+    "start": 1068.1,
+    "duration": 5.872
+  },
+  {
+    "text": "TALENT ACQUISITION MANAGER.  AND",
+    "start": 1070.269,
+    "duration": 6.339
+  },
+  {
+    "text": "ALL THOUGH THE PROGRAM IS A",
+    "start": 1074.073,
+    "duration": 3.937
+  },
+  {
+    "text": "SUMMER INTERNSHIP PROGRAM, THE",
+    "start": 1076.909,
+    "duration": 3.67
+  },
+  {
+    "text": "WORK GOES ON ALL YEAR.  SO WE",
+    "start": 1078.11,
+    "duration": 3.537
+  },
+  {
+    "text": "ONCE IT WAS TRANSFERRED AND",
+    "start": 1080.679,
+    "duration": 2.469
+  },
+  {
+    "text": "EVERYTHING WAS APPROVED BY YOU",
+    "start": 1081.747,
+    "duration": 2.869
+  },
+  {
+    "text": "ALL DURING BUDGET, WE GOT TO",
+    "start": 1083.282,
+    "duration": 3.67
+  },
+  {
+    "text": "WORK.  WE STARTED WORKING WITH",
+    "start": 1084.716,
+    "duration": 4.855
+  },
+  {
+    "text": "ORGANIZATIONS WHO WANTED INTERNS",
+    "start": 1087.052,
+    "duration": 7.207
+  },
+  {
+    "text": "THIS YEAR.  THE -- WE'LL BE",
+    "start": 1089.671,
+    "duration": 6.74
+  },
+  {
+    "text": "OPENING THE APPLICATION PROCESS",
+    "start": 1094.359,
+    "duration": 2.953
+  },
+  {
+    "text": "FOR INDIVIDUALS WHO ARE",
+    "start": 1096.578,
+    "duration": 2.57
+  },
+  {
+    "text": "INTERESTED IN THE PROGRAM.  SO",
+    "start": 1097.412,
+    "duration": 3.637
+  },
+  {
+    "text": "THERE'S ALL OF THAT WORK, PLUS,",
+    "start": 1099.248,
+    "duration": 3.136
+  },
+  {
+    "text": "YOU KNOW, THERE'S PROGRAM WORK",
+    "start": 1101.15,
+    "duration": 3.203
+  },
+  {
+    "text": "AND MAKING SURE THAT WE ARE",
+    "start": 1102.484,
+    "duration": 4.738
+  },
+  {
+    "text": "MENTORING AND MATCHING THE",
+    "start": 1104.453,
+    "duration": 6.34
+  },
+  {
+    "text": "INTERNS IN A WAY THAT",
+    "start": 1107.322,
+    "duration": 5.172
+  },
+  {
+    "text": "DESERVES -- THAT THEY DESERVE",
+    "start": 1110.993,
+    "duration": 2.869
+  },
+  {
+    "text": "D MAKES THE CITY, OBVIOUSLY,",
+    "start": 1112.628,
+    "duration": 6.806
+  },
+  {
+    "text": "LOOK GOOD.  IT'S A LOT OF WORK.N",
+    "start": 1113.962,
+    "duration": 7.174
+  },
+  {
+    "text": "ALREADY SITS ON MY LEADERSHIP",
+    "start": 1119.535,
+    "duration": 4.571
+  },
+  {
+    "text": "TEAM.  AND ALREADY IS PROBABLY",
+    "start": 1121.503,
+    "duration": 4.305
+  },
+  {
+    "text": "THE SECOND LARGEST DIVISION",
+    "start": 1124.573,
+    "duration": 3.103
+  },
+  {
+    "text": "WITHIN MY DEPARTMENT, SO ADDING",
+    "start": 1126.241,
+    "duration": 3.571
+  },
+  {
+    "text": "THIS MAKES IT ONE OF THE LARGEST",
+    "start": 1127.776,
+    "duration": 3.37
+  },
+  {
+    "text": "DIVISIONS IN MY DEPARTMENT.  IT",
+    "start": 1129.912,
+    "duration": 3.003
+  },
+  {
+    "text": "SEEMS ONLY FAIR WE KIND OF",
+    "start": 1131.246,
+    "duration": 3.203
+  },
+  {
+    "text": "RECALIBRATE AND MAKE SURE THIS",
+    "start": 1133.015,
+    "duration": 2.502
+  },
+  {
+    "text": "POSITION IS AT THE LEVEL IT",
+    "start": 1134.55,
+    "duration": 2.202
+  },
+  {
+    "text": "SHOULD BE.",
+    "start": 1136.585,
+    "duration": 2.903
+  },
+  {
+    "text": ">> THANK YOU FORHAT ADDITIONAL",
+    "start": 1136.885,
+    "duration": 5.039
+  },
+  {
+    "text": "CONTEXT, DIRECTOR.  SO JUST",
+    "start": 1139.588,
+    "duration": 3.237
+  },
+  {
+    "text": "BEFORE WE OPEN IT UP T",
+    "start": 1142.024,
+    "duration": 2.068
+  },
+  {
+    "text": "DISCUSSION, I SEE A COUPLE OF",
+    "start": 1142.925,
+    "duration": 5.772
+  },
+  {
+    "text": "MEMBERS IN QUEUE.  I WANTED TO",
+    "start": 1144.193,
+    "duration": 5.605
+  },
+  {
+    "text": "ASK BRIEFLY IF, YOU KNOW, I",
+    "start": 1148.797,
+    "duration": 2.736
+  },
+  {
+    "text": "UNDERSTAND THIS ACTION IS",
+    "start": 1149.898,
+    "duration": 3.304
+  },
+  {
+    "text": "CONSISTENT WITH THE",
+    "start": 1151.633,
+    "duration": 2.703
+  },
+  {
+    "text": "DECISION-MAKING THROUGH THE",
+    "start": 1153.302,
+    "duration": 3.77
+  },
+  {
+    "text": "BUDGET PROCESS.  DOES THIS MEAN",
+    "start": 1155.404,
+    "duration": 3.97
+  },
+  {
+    "text": "OR SHOULD WE UNDERSTAND",
+    "start": 1157.406,
+    "duration": 3.37
+  },
+  {
+    "text": "CORRECY THAT THE URBAN",
+    "start": 1159.474,
+    "duration": 4.805
+  },
+  {
+    "text": "SCHOLARS PROGRAM IS ON TRACK TO",
+    "start": 1161.343,
+    "duration": 4.838
+  },
+  {
+    "text": "START THIS YEAR WITHIN THE HUMAN",
+    "start": 1164.379,
+    "duration": 2.603
+  },
+  {
+    "text": "RESOURCES DEPARTMENT?",
+    "start": 1166.281,
+    "duration": 3.27
+  },
+  {
+    "text": ">>  IT IS.  ANDIKE I SAID, I",
+    "start": 1167.082,
+    "duration": 4.071
+  },
+  {
+    "text": "THINK APPLICATIONS OPEN PRETTY",
+    "start": 1169.985,
+    "duration": 2.603
+  },
+  {
+    "text": "SOON, IF NOT AT THE END OF THIS",
+    "start": 1171.253,
+    "duration": 4.204
+  },
+  {
+    "text": "MONTH.  BUT THE BEGINNING OF",
+    "start": 1172.688,
+    "duration": 4.571
+  },
+  {
+    "text": "MARCH.  AND SO, YEAH.  WE'RE ON",
+    "start": 1175.557,
+    "duration": 3.637
+  },
+  {
+    "text": "TRACK.  WE HAVE A NUMBER OF",
+    "start": 1177.359,
+    "duration": 2.903
+  },
+  {
+    "text": "ORGANIZATIONS WHO HAVE RAISED",
+    "start": 1179.294,
+    "duration": 2.87
+  },
+  {
+    "text": "THEIR HAS TO TAKE URBAN",
+    "start": 1180.796,
+    "duration": 4.671
+  },
+  {
+    "text": "SCHOLARS.  SO THE RIGHT NOW WE",
+    "start": 1182.264,
+    "duration": 4.805
+  },
+  {
+    "text": "ARE PREDICTING THIS PROGRAM WILL",
+    "start": 1185.601,
+    "duration": 3.87
+  },
+  {
+    "text": "BE BIGGER THAN WE INITIALLY",
+    "start": 1187.169,
+    "duration": 2.669
+  },
+  {
+    "text": "ANTICIPATED.",
+    "start": 1189.571,
+    "duration": 2.369
+  },
+  {
+    "text": ">> THAT'S WONDERFUL!  WITH THAT,",
+    "start": 1189.938,
+    "duration": 4.104
+  },
+  {
+    "text": "I WILL FIRST RECOGNIZE",
+    "start": 1192.074,
+    "duration": 2.969
+  },
+  {
+    "text": "COUNCILMEMBER CASHMAN FOLLOWED",
+    "start": 1194.142,
+    "duration": 1.869
+  },
+  {
+    "text": "BY VICE CHAIR KOSKI.",
+    "start": 1195.21,
+    "duration": 2.403
+  },
+  {
+    "text": ">> THANK YOU, MADAM CHAIR. ",
+    "start": 1196.144,
+    "duration": 4.105
+  },
+  {
+    "text": "THANK YOU, MS. ODOM.  I WAS",
+    "start": 1197.713,
+    "duration": 4.638
+  },
+  {
+    "text": "WONDERING ABOUT THE STEP UP",
+    "start": 1200.349,
+    "duration": 3.904
+  },
+  {
+    "text": "PROGRAM, AS WELL, IS THIS",
+    "start": 1202.551,
+    "duration": 2.736
+  },
+  {
+    "text": "SOMETHING THE DIRECTOR WILL",
+    "start": 1204.353,
+    "duration": 1.167
+  },
+  {
+    "text": "OVERSEE.",
+    "start": 1205.387,
+    "duration": 1.535
+  },
+  {
+    "text": ">> MADAM CHAIR, COUNCILMEMBERS. ",
+    "start": 1205.621,
+    "duration": 3.036
+  },
+  {
+    "text": "NO.  STEP UP IS ACTUALLY A",
+    "start": 1207.022,
+    "duration": 3.003
+  },
+  {
+    "text": "DIFFERENT PROGRAM THAT'S IN",
+    "start": 1208.757,
+    "duration": 1.602
+  },
+  {
+    "text": "CPED.",
+    "start": 1210.259,
+    "duration": 3.637
+  },
+  {
+    "text": ">> OKAY.  THK YOU.  AND SO HOW",
+    "start": 1210.626,
+    "duration": 6.506
+  },
+  {
+    "text": "MANY SUPERVISORREES WILL THIS",
+    "start": 1214.162,
+    "duration": 3.304
+  },
+  {
+    "text": "DIRECTOR HAVE?",
+    "start": 1217.232,
+    "duration": 4.872
+  },
+  {
+    "text": ">> WELL OVERALL, I THINK WE'RE",
+    "start": 1218.166,
+    "duration": 7.241
+  },
+  {
+    "text": "AT 16 REPORTS WITHIN THE",
+    "start": 1222.237,
+    "duration": 4.171
+  },
+  {
+    "text": "DIVISION.  AND THAT'S, I THINK",
+    "start": 1225.507,
+    "duration": 2.436
+  },
+  {
+    "text": "WE'RE AT A LITTLE OVER -- I",
+    "start": 1226.508,
+    "duration": 3.237
+  },
+  {
+    "text": "THINK WE'RE AT 14.  THEN WITH",
+    "start": 1228.043,
+    "duration": 3.704
+  },
+  {
+    "text": "THE URBAN SCHOLARS PROGRAM,",
+    "start": 1229.845,
+    "duration": 4.037
+  },
+  {
+    "text": "DIRECTOR A COORDINATOR, THAT'S",
+    "start": 1231.847,
+    "duration": 2.402
+  },
+  {
+    "text": "16, I BELIEVE.",
+    "start": 1233.982,
+    "duration": 2.937
+  },
+  {
+    "text": ">> OKAY.  THANK YOU SO MUCH.",
+    "start": 1234.783,
+    "duration": 4.705
+  },
+  {
+    "text": ">> WONDERFUL.  NEXT I'LL",
+    "start": 1237.185,
+    "duration": 2.903
+  },
+  {
+    "text": "RECOGNIZE VICE CHAIR KOSKI.",
+    "start": 1239.588,
+    "duration": 1.902
+  },
+  {
+    "text": ">> THANK YOU, MADAM CHAIR. ",
+    "start": 1240.389,
+    "duration": 2.869
+  },
+  {
+    "text": "THANK YOU, DIRECTOR.  I HAVE A",
+    "start": 1241.59,
+    "duration": 2.636
+  },
+  {
+    "text": "COUPLE OF QUESTIONS.  JUST SO",
+    "start": 1243.358,
+    "duration": 2.136
+  },
+  {
+    "text": "I'M CLEAR, THERE'S SOMEONE IN",
+    "start": 1244.326,
+    "duration": 2.636
+  },
+  {
+    "text": "THE ROLE THAT WE'RE ELEVATING",
+    "start": 1245.594,
+    "duration": 2.469
+  },
+  {
+    "text": "INTO THIS DIRECTOR ROLE,",
+    "start": 1247.062,
+    "duration": 1.301
+  },
+  {
+    "text": "CORRECT?",
+    "start": 1248.163,
+    "duration": 0.801
+  },
+  {
+    "text": ">>  CORRECT.",
+    "start": 1248.764,
+    "duration": 2.402
+  },
+  {
+    "text": ">> OKAY.  AND SO THEY'VE BEEN",
+    "start": 1249.564,
+    "duration": 4.038
+  },
+  {
+    "text": "DOING THE WORK OF THIS HENCE WHY",
+    "start": 1251.266,
+    "duration": 4.972
+  },
+  {
+    "text": "IT'S ON TRACK.  CURIOUS, AND YOU",
+    "start": 1253.702,
+    "duration": 4.104
+  },
+  {
+    "text": "MAY NOT KNOW THIS, AND THAT'S",
+    "start": 1256.338,
+    "duration": 2.869
+  },
+  {
+    "text": "OKAY.  JUST A LITTLE BIT ABOUT",
+    "start": 1257.94,
+    "duration": 4.504
+  },
+  {
+    "text": "THAT PROGRAM OF HOW -- SINCE WE",
+    "start": 1259.508,
+    "duration": 4.504
+  },
+  {
+    "text": "MOVED IT, AND I SEE THIS BEING A",
+    "start": 1262.544,
+    "duration": 5.739
+  },
+  {
+    "text": "GREAT PATHWAYORWARD IN TALENT",
+    "start": 1264.112,
+    "duration": 5.406
+  },
+  {
+    "text": "ACQUISITION.  HOW HAVE THEY SEEN",
+    "start": 1268.383,
+    "duration": 3.871
+  },
+  {
+    "text": "OR HOW DO YOU SEE THIS",
+    "start": 1269.618,
+    "duration": 4.104
+  },
+  {
+    "text": "CONTINUING TO MAKE SURE THAT",
+    "start": 1272.354,
+    "duration": 3.27
+  },
+  {
+    "text": "WE'RE BOLSTERINGHIS PROGRAM",
+    "start": 1273.822,
+    "duration": 4.404
+  },
+  {
+    "text": "AND INTO FUTURE LEADERS AT THE",
+    "start": 1275.724,
+    "duration": 2.736
+  },
+  {
+    "text": "CITY?",
+    "start": 1278.327,
+    "duration": 2.669
+  },
+  {
+    "text": ">>  MADAM CIR, COUNCILMEMBERS.",
+    "start": 1278.56,
+    "duration": 4.772
+  },
+  {
+    "text": " WELL, ONE OF THE GREAT THINGS",
+    "start": 1281.096,
+    "duration": 4.304
+  },
+  {
+    "text": "OUT HOUSING IT IN TALENT",
+    "start": 1283.465,
+    "duration": 3.203
+  },
+  {
+    "text": "ACQUISITION, THE TALENT",
+    "start": 1285.5,
+    "duration": 2.336
+  },
+  {
+    "text": "ACQUISITION FOLKS, ESPECIALLY",
+    "start": 1287.169,
+    "duration": 3.637
+  },
+  {
+    "text": "CROSS-SU RECRUITERS",
+    "start": 1287.936,
+    "duration": 4.038
+  },
+  {
+    "text": "ARE IN THE COMMUNITY ON A",
+    "start": 1290.939,
+    "duration": 2.736
+  },
+  {
+    "text": "REGULAR BASIS.  IT'S MAKING SURE",
+    "start": 1292.741,
+    "duration": 2.069
+  },
+  {
+    "text": "PEOPLE KNOW ABOUT THE PROGRAM,",
+    "start": 1293.775,
+    "duration": 2.67
+  },
+  {
+    "text": "AND, YOU KNOW, WE ARE",
+    "start": 1295.177,
+    "duration": 2.669
+  },
+  {
+    "text": "PARTNERING, OBVIOUSLY, OUR",
+    "start": 1296.545,
+    "duration": 2.936
+  },
+  {
+    "text": "LEARNING AND DEVELOPMENT GROUP",
+    "start": 1297.946,
+    "duration": 3.37
+  },
+  {
+    "text": "TO MAKE SURE THAT THE",
+    "start": 1299.581,
+    "duration": 3.57
+  },
+  {
+    "text": "PROGRAMMING IS UPDATED.  I DON'T",
+    "start": 1301.416,
+    "duration": 2.703
+  },
+  {
+    "text": "THINK THAT THE PROGRAMMING FOR",
+    "start": 1303.251,
+    "duration": 2.47
+  },
+  {
+    "text": "OUR INTERNS HAVE BEEN UPDATED IN",
+    "start": 1304.219,
+    "duration": 3.237
+  },
+  {
+    "text": "A FEW YEARS.  SO JUST MAKING",
+    "start": 1305.921,
+    "duration": 3.336
+  },
+  {
+    "text": "SURE THAT THE PROGRAM ITSELF,",
+    "start": 1307.556,
+    "duration": 3.003
+  },
+  {
+    "text": "YOU KNOW, THERE'S ONE",
+    "start": 1309.491,
+    "duration": 3.003
+  },
+  {
+    "text": "DEVELOPMENT DAY EVERY WEEK THAT",
+    "start": 1310.659,
+    "duration": 3.904
+  },
+  {
+    "text": "THE INTERNS ARE PARTICIPATING",
+    "start": 1312.594,
+    "duration": 5.139
+  },
+  {
+    "text": "IN.   SO MAKING SURE IT'S UP TO",
+    "start": 1314.663,
+    "duration": 5.272
+  },
+  {
+    "text": "DATE AND IS MEETING THEIR NEEDS.",
+    "start": 1317.833,
+    "duration": 3.537
+  },
+  {
+    "text": " YOU KNOW, THIS YEAR IS REALLY",
+    "start": 1320.035,
+    "duration": 3.87
+  },
+  {
+    "text": "JUST KIND OF A LET'S SEE HOW IT",
+    "start": 1322.304,
+    "duration": 5.572
+  },
+  {
+    "text": "GOES YEAR.  WE'VE HAD A LOT OF",
+    "start": 1324.006,
+    "duration": 4.604
+  },
+  {
+    "text": "INTEREST IN ORGANIZATIONS",
+    "start": 1327.976,
+    "duration": 3.67
+  },
+  {
+    "text": "WANTING TOPONSOR AN URBAN",
+    "start": 1328.71,
+    "duration": 4.238
+  },
+  {
+    "text": "SCHOLAR, WHICH IS EXCITING",
+    "start": 1331.913,
+    "duration": 3.604
+  },
+  {
+    "text": "EXPW!  SO WE'LL GET",
+    "start": 1333.048,
+    "duration": 3.47
+  },
+  {
+    "text": "THROUGH THIS YEAR, AND,",
+    "start": 1335.617,
+    "duration": 2.603
+  },
+  {
+    "text": "OBVIOUSLY, DO SOME SURVEYING AND",
+    "start": 1336.618,
+    "duration": 3.67
+  },
+  {
+    "text": "MAKING SURE THAT, YOU KNOW, OUR",
+    "start": 1338.32,
+    "duration": 4.404
+  },
+  {
+    "text": "URBAN SCHOLARS AND OUR PARTNERS,",
+    "start": 1340.389,
+    "duration": 4.17
+  },
+  {
+    "text": "OUR ORGANIZATION PARTNERS ARE",
+    "start": 1342.858,
+    "duration": 2.969
+  },
+  {
+    "text": "HAPPY WITH WHAT WE'RE DOING.  IF",
+    "start": 1344.659,
+    "duration": 3.671
+  },
+  {
+    "text": "WE NEED TO MAKE TWEAKS, WE'LL DO",
+    "start": 1346.128,
+    "duration": 3.436
+  },
+  {
+    "text": "THAT.  I THINK IT'S EXCITING. ",
+    "start": 1348.43,
+    "duration": 3.37
+  },
+  {
+    "text": "I'M ALSO, I THINK THIS IS A",
+    "start": 1349.664,
+    "duration": 4.972
+  },
+  {
+    "text": "GREAT PLACE FOR OUR URBAN",
+    "start": 1351.9,
+    "duration": 4.671
+  },
+  {
+    "text": "SCHOLARS PROGRAM SINCE OUR",
+    "start": 1354.736,
+    "duration": 2.903
+  },
+  {
+    "text": "TALENT ACQUISITION TEAM IS THE",
+    "start": 1356.671,
+    "duration": 2.97
+  },
+  {
+    "text": "TEAM THAT IS RESPONSIBLE FOR",
+    "start": 1357.739,
+    "duration": 3.904
+  },
+  {
+    "text": "ENSURING THAT WE HAVE TOP",
+    "start": 1359.741,
+    "duration": 4.138
+  },
+  {
+    "text": "TALENT.  I THINK SINCE THE",
+    "start": 1361.743,
+    "duration": 3.837
+  },
+  {
+    "text": "TALENT ACQUISITION DWIS DIVISION",
+    "start": 1363.979,
+    "duration": 2.669
+  },
+  {
+    "text": "HAS BEEN ESTABLISHED, IT'S GOING",
+    "start": 1365.68,
+    "duration": 4.538
+  },
+  {
+    "text": "ON TWO YEARS NOW. E HAD SOME",
+    "start": 1366.748,
+    "duration": 6.507
+  },
+  {
+    "text": "GOODWINS IN TERMS OF ATTCTING",
+    "start": 1370.318,
+    "duration": 6.841
+  },
+  {
+    "text": "PEOPLE OF COLOR, AND",
+    "start": 1373.355,
+    "duration": 4.538
+  },
+  {
+    "text": "MARGINALED, TRADITIONALLY",
+    "start": 1377.259,
+    "duration": 1.601
+  },
+  {
+    "text": "MARGINALIZED INDIVIDUALS TO THE",
+    "start": 1377.993,
+    "duration": 3.937
+  },
+  {
+    "text": "CITY.  WE'LL CONTINUE TO DO",
+    "start": 1378.96,
+    "duration": 3.904
+  },
+  {
+    "text": "THAT.  THIS IS ANOTHER WAY TO",
+    "start": 1382.03,
+    "duration": 2.269
+  },
+  {
+    "text": "ENSURE THAT PEOPLE GET EXPOSURE",
+    "start": 1382.964,
+    "duration": 1.836
+  },
+  {
+    "text": "TO PUBLIC SERVICE.",
+    "start": 1384.399,
+    "duration": 2.503
+  },
+  {
+    "text": ">> THANK YOU.  AND, YES, I",
+    "start": 1385.067,
+    "duration": 3.036
+  },
+  {
+    "text": "APPRECIATE, ALSO, THE REMINDER",
+    "start": 1387.002,
+    "duration": 3.036
+  },
+  {
+    "text": "THAT THE TALENT ACQUISITION TEAM",
+    "start": 1388.203,
+    "duration": 4.204
+  },
+  {
+    "text": "SELF IS SO NEW.  BUT ADDING",
+    "start": 1390.238,
+    "duration": 5.439
+  },
+  {
+    "text": "THIS IS AREAT, I THINK, IS A",
+    "start": 1392.507,
+    "duration": 4.204
+  },
+  {
+    "text": "GREAT STEP FORWARD, AS WELL. ",
+    "start": 1395.777,
+    "duration": 1.702
+  },
+  {
+    "text": "THANK YOU SO MUCH.",
+    "start": 1397.112,
+    "duration": 1.768
+  },
+  {
+    "text": ">>HANKS.",
+    "start": 1398.747,
+    "duration": 3.804
+  },
+  {
+    "text": ">> THANK YOU.  I'M NOT SEEING",
+    "start": 1399.081,
+    "duration": 5.672
+  },
+  {
+    "text": "ANY FURTHER DISCUSSION.  SO I'LL",
+    "start": 1403.452,
+    "duration": 3.069
+  },
+  {
+    "text": "MOVE APPROVAL OF THIS ITEM.  DO",
+    "start": 1404.853,
+    "duration": 6.039
+  },
+  {
+    "text": "I HAVE A SECOND?  ALL THOSE IN",
+    "start": 1406.655,
+    "duration": 7.34
+  },
+  {
+    "text": "FAVOR PLEASE SNIFY BY SAYING",
+    "start": 1411.326,
+    "duration": 5.973
+  },
+  {
+    "text": "AYE.  THOSE OPPOSED SAY NAY. ",
+    "start": 1414.096,
+    "duration": 5.372
+  },
+  {
+    "text": "ANY  ABSTENTIONS?  THE AYES",
+    "start": 1417.399,
+    "duration": 3.837
+  },
+  {
+    "text": "HAVE IT AND THAT MOTION CARRIES.",
+    "start": 1419.568,
+    "duration": 2.636
+  },
+  {
+    "text": " WITH THAT, WE HAVE CONCLUDED",
+    "start": 1421.403,
+    "duration": 2.436
+  },
+  {
+    "text": "ALL BUSINESS TO COME BEFORE THE",
+    "start": 1422.304,
+    "duration": 3.17
+  },
+  {
+    "text": "BUDGET COMMITTEE TODAY.  AND",
+    "start": 1423.939,
+    "duration": 4.07
+  },
+  {
+    "text": "WITH NO OBJECTION, WE STAND",
+    "start": 1425.574,
+    "duration": 13.113
+  },
+  {
+    "text": "ADJOURNED.  THANK Y EVERYONE. ",
+    "start": 1428.31,
+    "duration": 10.377
+  },
+  {
+    "text": "YES, THEY HAVE THAT NOTED. ",
+    "start": 1438.854,
+    "duration": 17.067
+  },
+  {
+    "text": "PERFECT.  ",
+    "start": 1442.424,
+    "duration": 13.497
+  }
+]
