@@ -12297,5 +12297,82 @@
     "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4187/CI_03062025_Committee_Report.pdf",
     "VideoTitle": "March 6, 2025 Climate & Infrastructure Committee",
     "VideoId": "fVktcsTmsyQ"
+  },
+  {
+    "MeetingBody": "Budget Committee",
+    "MeetingDateTime": "2025-03-07T10:00:00",
+    "MeetingType": "Regular",
+    "IsCancelled": false,
+    "MembersList": [
+      {
+        "MemberId": 375,
+        "MemberName": "Linea Palmisano",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4221,
+        "MemberName": "Jeremiah Ellison",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 4224,
+        "MemberName": "Andrea Jenkins",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5269,
+        "MemberName": "Jamal Osman",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5692,
+        "MemberName": "Robin Wonsley",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5696,
+        "MemberName": "LaTrisha Vetaw",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5697,
+        "MemberName": "Aisha Chughtai",
+        "MemberType": "Chair"
+      },
+      {
+        "MemberId": 5698,
+        "MemberName": "Jason Chavez",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5699,
+        "MemberName": "Emily Koski",
+        "MemberType": "Vice-Chair"
+      },
+      {
+        "MemberId": 5700,
+        "MemberName": "Michael Rainville",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5701,
+        "MemberName": "Elliott Payne",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 5776,
+        "MemberName": "Aurin Chowdhury",
+        "MemberType": "Council Member"
+      },
+      {
+        "MemberId": 6629,
+        "MemberName": "Katie Cashman",
+        "MemberType": "Council Member"
+      }
+    ],
+    "AgendaURL": "https://lims.minneapolismn.gov/Agenda/Budget/5154",
+    "MinutesPDFURL": "https://lims.minneapolismn.gov/Download/CommitteeReport/4188/Budget_03072025_Committee_Report.pdf",
+    "VideoTitle": "March 7, 2025 Budget Committee",
+    "VideoId": "1Mcd7TAwpJo"
   }
 ]
